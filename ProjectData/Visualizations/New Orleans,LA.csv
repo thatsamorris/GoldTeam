@@ -1,0 +1,529 @@
+,event name,Classification,genre,venue,Date,Zip code,City,State
+0,P!NK: BEAUTIFUL TRAUMA WORLD TOUR,Music,Rock,Smoothie King Center,2019-03-17,70113,New Orleans,Louisiana
+1,JAY-Z and BEYONCÉ - OTR II,Music,Hip-Hop/Rap,Mercedes-Benz Superdome,2018-09-13,70112,New Orleans,Louisiana
+2,Kevin Hart: The Irresponsible Tour,Arts & Theatre,Comedy,Smoothie King Center,2018-10-18,70113,New Orleans,Louisiana
+3,An Evening With Fleetwood Mac,Music,Rock,Smoothie King Center,2019-02-16,70113,New Orleans,Louisiana
+4,Justin Timberlake - The Man Of The Woods Tour,Music,Rock,Smoothie King Center,2019-01-15,70113,New Orleans,Louisiana
+5,Elton John: Farewell Yellow Brick Road,Music,Rock,Smoothie King Center,2018-12-06,70113,New Orleans,Louisiana
+6,Live Nation Presents Journey / Def Leppard,Music,Rock,Smoothie King Center,2018-08-27,70113,New Orleans,Louisiana
+7,Taylor Swift reputation Stadium Tour,Music,Rock,Mercedes-Benz Superdome,2018-09-22,70112,New Orleans,Louisiana
+8,Lauren Daigle Look Up Child Tour,Music,Religious,Saenger Theatre New Orleans,2018-10-26,70112,New Orleans,Louisiana
+9,Aubrey & The Three Migos Tour,Music,Hip-Hop/Rap,Smoothie King Center,2018-09-24,70113,New Orleans,Louisiana
+10,Imagine Dragons: EVOLVE TOUR,Music,Rock,Smoothie King Center,2018-08-05,70113,New Orleans,Louisiana
+11,Maxwell - 50 Intimate Nights Live,Music,R&B,Saenger Theatre New Orleans,2018-10-24,70112,New Orleans,Louisiana
+12,Evanescence + Lindsey Stirling,Music,Rock,Bold Sphere Music at Champions Square,2018-08-22,70112,New Orleans,Louisiana
+13,Mannheim Steamroller Christmas,Music,New Age,Saenger Theatre New Orleans,2018-12-15,70112,New Orleans,Louisiana
+14,MercyMe: Imagine Nation Tour,Music,Rock,Smoothie King Center,2018-10-12,70113,New Orleans,Louisiana
+15,Christina Aguilera: The Liberation Tour,Music,Pop,Saenger Theatre New Orleans,2018-11-09,70112,New Orleans,Louisiana
+16,NICKIHNDRXX TOUR,Music,Hip-Hop/Rap,Smoothie King Center,2018-10-30,70113,New Orleans,Louisiana
+17,Cole Swindell & Dustin Lynch: Reason To Drink Another Tour,Music,Country,Bold Sphere Music at Champions Square,2018-12-14,70112,New Orleans,Louisiana
+18,Lil' WeezyAna Fest 2018,Music,Hip-Hop/Rap,Bold Sphere Music at Champions Square,2018-08-25,70112,New Orleans,Louisiana
+19,TAMIA: Passion Like Fire Tour,Music,R&B,House of Blues New Orleans presented by Cricket Wireless,2018-10-13,70130,New Orleans,Louisiana
+20,Nine Inch Nails: Cold and Black and Infinite North America 2018,Music,Rock,Saenger Theatre New Orleans,2018-11-24,70112,New Orleans,Louisiana
+21,Nine Inch Nails: Cold and Black and Infinite North America 2018,Music,Rock,Saenger Theatre New Orleans,2018-11-23,70112,New Orleans,Louisiana
+22,Nine Inch Nails: Cold and Black and Infinite North America 2018,Music,Rock,Saenger Theatre New Orleans,2018-11-25,70112,New Orleans,Louisiana
+23,The Cult * Stone Temple Pilots * Bush - Revolution 3 Tour,Music,Rock,Bold Sphere Music at Champions Square,2018-08-11,70112,New Orleans,Louisiana
+24,The Miseducation of Lauryn Hill 20th Anniversary Tour,Music,R&B,UNO Lakefront Arena,2018-10-03,70122,New Orleans,Louisiana
+25,Ron White,Arts & Theatre,Comedy,Saenger Theatre New Orleans,2018-10-12,70112,New Orleans,Louisiana
+26,Paul Simon,Music,Rock,Smoothie King Center,2018-09-05,70113,New Orleans,Louisiana
+27,New Orleans Saints vs. Philadelphia Eagles,Sports,Football,Mercedes-Benz Superdome,2018-11-18,70112,New Orleans,Louisiana
+28,Alice in Chains,Music,Rock,Saenger Theatre New Orleans,2018-10-23,70112,New Orleans,Louisiana
+29,GHOST: A Pale Tour Named Death,Music,Metal,Orpheum Theater,2018-11-21,70112,New Orleans,Louisiana
+30,Sesame Street Live! Let's Party!,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-12-08,70122,New Orleans,Louisiana
+31,Sesame Street Live! Let's Party!,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-12-08,70122,New Orleans,Louisiana
+32,Tony Bennett,Music,Rock,Saenger Theatre New Orleans,2018-08-25,70112,New Orleans,Louisiana
+33,Fall Out Boy: The M A N I A Tour with Machine Gun Kelly,Music,Rock,Smoothie King Center,2018-10-10,70113,New Orleans,Louisiana
+34,Panic! At the Disco: Pray for the Wicked Tour with Two Feet,Music,Rock,Smoothie King Center,2019-02-09,70113,New Orleans,Louisiana
+35,Ed Sheeran: 2018 North American Stadium Tour,Music,Pop,Mercedes-Benz Superdome,2018-10-31,70112,New Orleans,Louisiana
+36,WWE Monday Night Raw,Sports,Wrestling,Smoothie King Center,2018-09-10,70113,New Orleans,Louisiana
+37,Bayou Classic - Grambling University vs. Southern University,Sports,Football,Mercedes-Benz Superdome,2018-11-24,70112,New Orleans,Louisiana
+38,Social Distortion,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-09-18,70130,New Orleans,Louisiana
+39,Sesame Street Live! Let's Party!,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-12-07,70122,New Orleans,Louisiana
+40,Star Wars Live In Concert,Music,Rock,Saenger Theatre New Orleans,2018-09-07,70112,New Orleans,Louisiana
+41,New Orleans Saints vs. Carolina Panthers,Sports,Football,Mercedes-Benz Superdome,2018-12-30,70112,New Orleans,Louisiana
+42,Sesame Street Live! Let's Party!,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-12-07,70122,New Orleans,Louisiana
+43,New Orleans Saints vs. Los Angeles Rams,Sports,Football,Mercedes-Benz Superdome,2018-11-04,70112,New Orleans,Louisiana
+44,Star Wars Live In Concert,Music,Rock,Saenger Theatre New Orleans,2018-09-08,70112,New Orleans,Louisiana
+45,New Orleans Saints vs. Atlanta Falcons,Sports,Football,Mercedes-Benz Superdome,2018-11-22,70112,New Orleans,Louisiana
+46,New Orleans Saints vs. Pittsburgh Steelers,Sports,Football,Mercedes-Benz Superdome,2018-12-23,70112,New Orleans,Louisiana
+47,PAW Patrol Live!: Race to the Rescue,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-10-20,70122,New Orleans,Louisiana
+48,J. Cole: KOD Tour 2018,Music,Hip-Hop/Rap,Smoothie King Center,2018-08-14,70113,New Orleans,Louisiana
+49,Daughtry,Music,Rock,Mahalia Jackson Theater for the Performing Arts,2018-11-29,70116,New Orleans,Louisiana
+50,"RBRM: Ronnie, Bobby, Ricky and Mike With Sp Guests Dru Hill and 702",Music,R&B,UNO Lakefront Arena,2018-10-12,70122,New Orleans,Louisiana
+51,Star Wars Live In Concert,Music,Rock,Saenger Theatre New Orleans,2018-09-08,70112,New Orleans,Louisiana
+52,NICK CANNON PRESENTS: WILD 'N OUT LIVE,Arts & Theatre,Comedy,Smoothie King Center,2018-09-21,70113,New Orleans,Louisiana
+53,IN MY FEELINGS: LABOR DRAKE 2018,Music,Hip-Hop/Rap,House of Blues New Orleans presented by Cricket Wireless,2018-09-01,70130,New Orleans,Louisiana
+54,PAW Patrol Live!: Race to the Rescue,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-10-20,70122,New Orleans,Louisiana
+55,New Orleans Saints vs. Washington Redskins,Sports,Football,Mercedes-Benz Superdome,2018-10-08,70112,New Orleans,Louisiana
+56,PAW Patrol Live!: Race to the Rescue,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-10-20,70122,New Orleans,Louisiana
+57,Future Families Of Funk,Music,R&B,House of Blues New Orleans presented by Cricket Wireless,2018-08-10,70130,New Orleans,Louisiana
+58,PAW Patrol Live!: Race to the Rescue,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-10-19,70122,New Orleans,Louisiana
+59,PAW Patrol Live!: Race to the Rescue,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-10-21,70122,New Orleans,Louisiana
+60,Residente: US Tour 2018,Music,World,House of Blues New Orleans presented by Cricket Wireless,2018-08-29,70130,New Orleans,Louisiana
+61,Keith Urban: Graffiti U World Tour,Music,Country,Smoothie King Center,2018-11-02,70113,New Orleans,Louisiana
+62,UB40 40th Anniversary Tour,Music,Reggae,House of Blues New Orleans presented by Cricket Wireless,2018-10-12,70130,New Orleans,Louisiana
+63,New Orleans Saints vs. Cleveland Browns,Sports,Football,Mercedes-Benz Superdome,2018-09-16,70112,New Orleans,Louisiana
+64,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-10-06,70112,New Orleans,Louisiana
+65,New Orleans Saints vs. Los Angeles Rams,Sports,Football,Mercedes-Benz Superdome,2018-08-30,70112,New Orleans,Louisiana
+66,Simple Minds: Walk Between Worlds Tour,Music,Rock,Saenger Theatre New Orleans,2018-11-06,70112,New Orleans,Louisiana
+67,PAW Patrol Live!: Race to the Rescue,Arts & Theatre,Children's Theatre,UNO Lakefront Arena,2018-10-21,70122,New Orleans,Louisiana
+68,MINUS THE BEAR: THE FAREWELL TOUR with guest TERA MELOS,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-11-29,70130,New Orleans,Louisiana
+69,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-10-06,70112,New Orleans,Louisiana
+70,Q93 presents Trombone Shorty's Hometown Threauxdown w/ Special Guests,Music,Jazz,Bold Sphere Music at Champions Square,2018-10-20,70112,New Orleans,Louisiana
+71,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-10-07,70112,New Orleans,Louisiana
+72,Lily Allen,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-10-16,70130,New Orleans,Louisiana
+73,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-10-05,70112,New Orleans,Louisiana
+74,New Orleans Saints vs. Tampa Bay Buccaneers,Sports,Football,Mercedes-Benz Superdome,2018-09-09,70112,New Orleans,Louisiana
+75,SiriusXM The Joint Presents: SOJA,Music,Reggae,House of Blues New Orleans presented by Cricket Wireless,2018-11-18,70130,New Orleans,Louisiana
+76,Peppa Pig,Arts & Theatre,Children's Theatre,Saenger Theatre New Orleans,2018-12-06,70112,New Orleans,Louisiana
+77,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-10-04,70112,New Orleans,Louisiana
+78,WFTDA Championships 3-day Package,Sports,Miscellaneous,UNO Lakefront Arena,2018-11-09,70122,New Orleans,Louisiana
+79,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-09-29,70112,New Orleans,Louisiana
+80,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-09-28,70112,New Orleans,Louisiana
+81,The Growlers Beach Goth Tour 2018,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-09-29,70130,New Orleans,Louisiana
+82,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-09-29,70112,New Orleans,Louisiana
+83,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-10-03,70112,New Orleans,Louisiana
+84,THE NASTY TOUR WITH RICO NASTY plus special guest MALIIBU MIITCH,Music,Hip-Hop/Rap,House of Blues New Orleans presented by Cricket Wireless,2018-08-15,70130,New Orleans,Louisiana
+85,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-09-27,70112,New Orleans,Louisiana
+86,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-09-26,70112,New Orleans,Louisiana
+87,Tab Benoit,Music,Blues,House of Blues New Orleans presented by Cricket Wireless,2018-08-18,70130,New Orleans,Louisiana
+88,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-09-30,70112,New Orleans,Louisiana
+89,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-09-30,70112,New Orleans,Louisiana
+90,LIT AF Tour Hosted By Martin Lawrence,Arts & Theatre,Comedy,UNO Lakefront Arena,2018-11-30,70122,New Orleans,Louisiana
+91,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-10-04,70112,New Orleans,Louisiana
+92,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-10-02,70112,New Orleans,Louisiana
+93,Aladdin (Touring),Arts & Theatre,Theatre,Saenger Theatre New Orleans,2018-09-27,70112,New Orleans,Louisiana
+94,LABOR DAY ROSE SOIRÉE feat DONNA SUMMER TRIBUTE by ANAIS ST JOHN (21+),Music,Jazz,House of Blues New Orleans presented by Cricket Wireless,2018-09-02,70130,New Orleans,Louisiana
+95,MJ LIVE - Michael Jackson Tribute,Music,Undefined,Saenger Theatre New Orleans,2018-08-10,70112,New Orleans,Louisiana
+96,DEREK HOUGH: LIVE! THE TOUR,Arts & Theatre,Dance,Saenger Theatre New Orleans,2019-06-08,70112,New Orleans,Louisiana
+97,New Orleans Saints vs. Arizona Cardinals,Sports,Football,Mercedes-Benz Superdome,2018-08-17,70112,New Orleans,Louisiana
+98,MJ LIVE - Michael Jackson Tribute,Music,Undefined,Saenger Theatre New Orleans,2018-08-11,70112,New Orleans,Louisiana
+99,The Price Is Right Live - Stage Show,Arts & Theatre,Miscellaneous Theatre,Saenger Theatre New Orleans,2018-11-14,70112,New Orleans,Louisiana
+100,Jorja Smith,Music,Other,Republic New Orleans,2018-12-06,70130,New Orleans,Louisiana
+101,August Greene,Music,Hip-Hop/Rap,Saenger Theatre New Orleans,2018-11-20,70112,New Orleans,Louisiana
+102,Killer Queen Ft. Patrick Myer,Music,Undefined,Harrah's Casino New Orleans,2018-11-10,70130,New Orleans,Louisiana
+103,REEFER MADNESS: Jimmy Buffett Night feat Jerry Diaz & Hanna's Reef,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-08-11,70130,New Orleans,Louisiana
+104,Thunderstruck: America's AC/DC,Music,Undefined,House of Blues New Orleans presented by Cricket Wireless,2018-08-24,70130,New Orleans,Louisiana
+105,10th Annual New Orleans Burlesque Festival: Belle of the Ball!,Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-09-23,70130,New Orleans,Louisiana
+106,Welshly Arms: No Place Is Home Tour,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-10-13,70130,New Orleans,Louisiana
+107,Beartooth - The Disease Tour,Music,Metal,House of Blues New Orleans presented by Cricket Wireless,2018-10-19,70130,New Orleans,Louisiana
+108,WRONG WAY: A TRIBUTE TO SUBLIME plus CRANE,Music,Undefined,House of Blues New Orleans presented by Cricket Wireless,2018-08-24,70130,New Orleans,Louisiana
+109,Dirty Heads,Music,Other,The Joy Theater,2018-10-06,70112,New Orleans,Louisiana
+110,Harlem Globetrotters,Miscellaneous,Family,Smoothie King Center,2018-12-01,70113,New Orleans,Louisiana
+111,Machine Head,Music,Metal,House of Blues New Orleans presented by Cricket Wireless,2018-11-16,70130,New Orleans,Louisiana
+112,Bayou Classic Battle of the Bands,Music,Other,Mercedes-Benz Superdome,2018-11-23,70112,New Orleans,Louisiana
+113,Moscow Ballet's Great Russian Nutcracker,Arts & Theatre,Dance,Saenger Theatre New Orleans,2018-12-26,70112,New Orleans,Louisiana
+114,Blue October plus Kitten,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-11-02,70130,New Orleans,Louisiana
+115,RJ,Music,Hip-Hop/Rap,House of Blues New Orleans presented by Cricket Wireless,2018-08-28,70130,New Orleans,Louisiana
+116,Ninja Sex Party,Arts & Theatre,Undefined,The Joy Theater,2018-08-16,70112,New Orleans,Louisiana
+117,10th Annual New Orleans Burlesque Festival: Bad Girls of Burlesque,Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-09-21,70130,New Orleans,Louisiana
+118,Lord of the Dance - Dangerous Games,Arts & Theatre,Dance,Saenger Theatre New Orleans,2018-10-18,70112,New Orleans,Louisiana
+119,10th Annual New Orleans Burlesque Festival: It's Burlesque,Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-09-22,70130,New Orleans,Louisiana
+120,Africa Umoja,Arts & Theatre,Theatre,Mahalia Jackson Theater for the Performing Arts,2018-09-01,70116,New Orleans,Louisiana
+121,10th Annual New Orleans Burlesque Festival: Bad Girls of Burlesque,Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-09-21,70130,New Orleans,Louisiana
+122,Bad Girls of Burlesque - in the Parish,Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-08-18,70130,New Orleans,Louisiana
+123,The Reverend Peyton's Big Damn Band,Music,Blues,House of Blues New Orleans presented by Cricket Wireless,2018-10-12,70130,New Orleans,Louisiana
+124,Masego,Music,Hip-Hop/Rap,House of Blues New Orleans presented by Cricket Wireless,2018-11-02,70130,New Orleans,Louisiana
+125,He Is We plus Northern National plus Simple Sound Retreat,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-08-05,70130,New Orleans,Louisiana
+126,WE WERE PROMISED JETPACKS - in The Parish at HOB,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-10-18,70130,New Orleans,Louisiana
+127,Moscow Ballet's Great Russian Nutcracker,Arts & Theatre,Dance,Saenger Theatre New Orleans,2018-12-26,70112,New Orleans,Louisiana
+128,BREWSIANA: Craft Beer & Music Festival (21+ / ID Required),Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-08-25,70130,New Orleans,Louisiana
+129,LINIKER E OS CARAMELOWS - in the Parish at HOB,Music,World,House of Blues New Orleans presented by Cricket Wireless,2018-09-04,70130,New Orleans,Louisiana
+130,DYING FETUS plus INCANTATION plus GATECREEPER plus GENOCIDE PACT,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-10-14,70130,New Orleans,Louisiana
+131,Eleanor Friedberger,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-09-17,70130,New Orleans,Louisiana
+132,Bustout Burlesque (EARLY Show),Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-09-15,70130,New Orleans,Louisiana
+133,BAMBOLEO!: Latin Club Night - in The Parish at HOB,Music,World,House of Blues New Orleans presented by Cricket Wireless,2018-08-04,70130,New Orleans,Louisiana
+134,BAMBOLEO!: Latin Club Night - in The Parish at HOB,Music,World,House of Blues New Orleans presented by Cricket Wireless,2018-08-18,70130,New Orleans,Louisiana
+135,RuPaul's Drag Race,Arts & Theatre,Miscellaneous,The Joy Theater,2018-10-12,70112,New Orleans,Louisiana
+136,Loumuzik Live - In The Parish At Hob,Music,Hip-Hop/Rap,House of Blues New Orleans presented by Cricket Wireless,2018-08-17,70130,New Orleans,Louisiana
+137,Jungle,Music,R&B,Republic New Orleans,2018-10-07,70130,New Orleans,Louisiana
+138,HIPPO CAMPUS With Special Guests The Districts,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-11-03,70130,New Orleans,Louisiana
+139,Chvrches,Music,Pop,The Joy Theater,2018-10-11,70112,New Orleans,Louisiana
+140,ATTILA plus RINGS OF SATURN plus SUICIDE SILENCE plus VOLUMES and more,Music,Metal,House of Blues New Orleans presented by Cricket Wireless,2018-08-14,70130,New Orleans,Louisiana
+141,Bustout Burlesque (LATE show),Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-10-06,70130,New Orleans,Louisiana
+142,Bustout Burlesque (EARLY Show),Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-10-06,70130,New Orleans,Louisiana
+143,NOLA Rocks ft. AKADIA + THE HAIL MERCY + EVENT HORIZON + THE FIXERS,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-08-17,70130,New Orleans,Louisiana
+144,Bustout Burlesque (LATE show),Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-09-15,70130,New Orleans,Louisiana
+145,10th Annual New Orleans Burlesque Festival: It's Burlesque,Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-09-22,70130,New Orleans,Louisiana
+146,Krewe Party Presents: FEVER feat Ana Paula + Hector Fonseca + more,Music,Dance/Electronic,House of Blues New Orleans presented by Cricket Wireless,2018-08-31,70130,New Orleans,Louisiana
+147,Underoath,Music,Rock,The Joy Theater,2018-11-04,70112,New Orleans,Louisiana
+148,STRANGELOVE: THE DEPECHE MODE EXPERIENCE plus THE SIOUXSIES,Music,Undefined,House of Blues New Orleans presented by Cricket Wireless,2018-11-30,70130,New Orleans,Louisiana
+149,Africa Umoja,Arts & Theatre,Theatre,Mahalia Jackson Theater for the Performing Arts,2018-09-01,70116,New Orleans,Louisiana
+150,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-08-05,70130,New Orleans,Louisiana
+151,WFTDA Championships,Sports,Miscellaneous,UNO Lakefront Arena,2018-11-09,70122,New Orleans,Louisiana
+152,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-08-12,70130,New Orleans,Louisiana
+153,Lord Huron,Music,Alternative,The Civic Theatre - New Orleans,2018-09-25,70113,New Orleans,Louisiana
+154,WFTDA Championships,Sports,Miscellaneous,UNO Lakefront Arena,2018-11-11,70122,New Orleans,Louisiana
+155,Neko Case w/ Thao & The Get Down Stay Down,Music,Country,The Civic Theatre - New Orleans,2018-09-11,70113,New Orleans,Louisiana
+156,Jay Rock,Music,Hip-Hop/Rap,Republic New Orleans,2018-09-29,70130,New Orleans,Louisiana
+157,WFTDA Championships,Sports,Miscellaneous,UNO Lakefront Arena,2018-11-10,70122,New Orleans,Louisiana
+158,Anderson East,Music,Pop,The Joy Theater,2018-10-05,70112,New Orleans,Louisiana
+159,ESCAPE THE FATE + SLAVES + FAMOUS LAST WORDS + PICTURESQUE + more,Music,Metal,House of Blues New Orleans presented by Cricket Wireless,2018-10-08,70130,New Orleans,Louisiana
+160,Africa Umoja,Arts & Theatre,Theatre,Mahalia Jackson Theater for the Performing Arts,2018-09-02,70116,New Orleans,Louisiana
+161,The Throwback - In The Parish At Hob,Music,Hip-Hop/Rap,House of Blues New Orleans presented by Cricket Wireless,2018-08-31,70130,New Orleans,Louisiana
+162,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-08-26,70130,New Orleans,Louisiana
+163,Africa Umoja,Arts & Theatre,Theatre,Mahalia Jackson Theater for the Performing Arts,2018-09-07,70116,New Orleans,Louisiana
+164,Africa Umoja,Arts & Theatre,Theatre,Mahalia Jackson Theater for the Performing Arts,2018-09-08,70116,New Orleans,Louisiana
+165,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-11-11,70130,New Orleans,Louisiana
+166,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-10-07,70130,New Orleans,Louisiana
+167,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-09-23,70130,New Orleans,Louisiana
+168,Bad Girls of Burlesque - in the Parish,Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-10-05,70130,New Orleans,Louisiana
+169,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-08-19,70130,New Orleans,Louisiana
+170,Africa Umoja,Arts & Theatre,Theatre,Mahalia Jackson Theater for the Performing Arts,2018-09-08,70116,New Orleans,Louisiana
+171,Africa Umoja,Arts & Theatre,Theatre,Mahalia Jackson Theater for the Performing Arts,2018-09-09,70116,New Orleans,Louisiana
+172,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-09-02,70130,New Orleans,Louisiana
+173,Winger plus Lillian Axe,Music,Metal,House of Blues New Orleans presented by Cricket Wireless,2018-11-09,70130,New Orleans,Louisiana
+174,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-09-16,70130,New Orleans,Louisiana
+175,Descendents,Music,Other,The Joy Theater,2018-09-14,70112,New Orleans,Louisiana
+176,Tom Segura,Arts & Theatre,Undefined,The Civic Theatre - New Orleans,2018-09-28,70113,New Orleans,Louisiana
+177,Tom Segura,Arts & Theatre,Undefined,The Civic Theatre - New Orleans,2018-09-29,70113,New Orleans,Louisiana
+178,Father John Misty,Music,Country,The Civic Theatre - New Orleans,2018-10-06,70113,New Orleans,Louisiana
+179,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-12-23,70130,New Orleans,Louisiana
+180,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-11-04,70130,New Orleans,Louisiana
+181,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-10-28,70130,New Orleans,Louisiana
+182,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-12-30,70130,New Orleans,Louisiana
+183,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-09-30,70130,New Orleans,Louisiana
+184,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-07,70130,New Orleans,Louisiana
+185,In the Den: Brotha Josh and the Quickness,Music,R&B,The Howlin Wolf,2018-08-08,70130,New Orleans,Louisiana
+186,"Jonathon Boogie Long, Delta Revelry",Music,Other,Tipitinas,2018-08-09,70118,New Orleans,Louisiana
+187,Norman Brown,Music,Jazz,Carver Theater,2018-08-09,70116,New Orleans,Louisiana
+188,Norman Brown,Music,Jazz,Carver Theater,2018-08-07,70116,New Orleans,Louisiana
+189,Norman Brown,Music,Jazz,Carver Theater,2018-08-08,70116,New Orleans,Louisiana
+190,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-08-05,70130,New Orleans,Louisiana
+191,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-09,70130,New Orleans,Louisiana
+192,Tipitina's Foundation Presents: Foundation Free Fridays featuring John,Music,Other,Tipitinas,2018-08-10,70118,New Orleans,Louisiana
+193,Glen David Andrews Band,Music,Jazz,Tipitinas,2018-08-04,70118,New Orleans,Louisiana
+194,Private Event,Miscellaneous,Community/Civic,The Howlin Wolf,2018-08-04,70130,New Orleans,Louisiana
+195,DJ Soul Sister,Music,Dance/Electronic,One Eyed Jacks,2018-08-10,70130,New Orleans,Louisiana
+196,In the Den: the Fixers,Music,Rock,The Howlin Wolf,2018-08-10,70130,New Orleans,Louisiana
+197,Norman Brown,Music,Jazz,Carver Theater,2018-08-10,70116,New Orleans,Louisiana
+198,In the Den: Stooges Brass Band,Music,Jazz,The Howlin Wolf,2018-08-11,70130,New Orleans,Louisiana
+199,"Amanda Seales Presents: Smart, Funny, and Black (Late Show)",Arts & Theatre,Comedy,The Howlin Wolf,2018-08-11,70130,New Orleans,Louisiana
+200,"Amanda Seales Presents: Smart, Funny, and Black",Arts & Theatre,Comedy,The Howlin Wolf,2018-08-11,70130,New Orleans,Louisiana
+201,Hash Cabbage & Noisewater,Music,Other,Tipitinas,2018-08-11,70118,New Orleans,Louisiana
+202,Norman Brown,Music,Jazz,Carver Theater,2018-08-11,70116,New Orleans,Louisiana
+203,Norman Brown,Music,Jazz,Carver Theater,2018-08-12,70116,New Orleans,Louisiana
+204,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-08-12,70130,New Orleans,Louisiana
+205,Norman Brown,Music,Jazz,Carver Theater,2018-08-13,70116,New Orleans,Louisiana
+206,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-14,70130,New Orleans,Louisiana
+207,Norman Brown,Music,Jazz,Carver Theater,2018-08-14,70116,New Orleans,Louisiana
+208,"Corrosion of Conformity, Mothership, Heavy Temple",Music,Metal,One Eyed Jacks,2018-08-15,70130,New Orleans,Louisiana
+209,Norman Brown,Music,Jazz,Carver Theater,2018-08-15,70116,New Orleans,Louisiana
+210,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-16,70130,New Orleans,Louisiana
+211,"Freddie McGregor, with Special Guest Chino McGregor, Bo Dollis Jr. and",Music,Reggae,Tipitinas,2018-08-16,70118,New Orleans,Louisiana
+212,Norman Brown,Music,Jazz,Carver Theater,2018-08-16,70116,New Orleans,Louisiana
+213,Tipitina's Foundation Presents: Foundation Free Fridays featuring Bill,Music,Other,Tipitinas,2018-08-17,70118,New Orleans,Louisiana
+214,Norman Brown,Music,Jazz,Carver Theater,2018-08-17,70116,New Orleans,Louisiana
+215,Mark Normand,Arts & Theatre,Comedy,One Eyed Jacks,2018-08-17,70130,New Orleans,Louisiana
+216,Gradu,Music,Other,Southport Music Hall,2018-08-17,70121,New Orleans,Louisiana
+217,On the Porch: Kerwin Claiborne: Don't You Do This To Me Standup and SK,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-18,70130,New Orleans,Louisiana
+218,"Leo Nocentelli, a Tribute To the Music of the Meters, Feat. Guitarist",Music,Other,Tipitinas,2018-08-18,70118,New Orleans,Louisiana
+219,Norman Brown,Music,Jazz,Carver Theater,2018-08-18,70116,New Orleans,Louisiana
+220,The Molly Ringwalds,Music,Other,Southport Music Hall,2018-08-18,70121,New Orleans,Louisiana
+221,DJ Pauly D,Music,Other,Metropolitan Nightclub,2018-08-18,70130,New Orleans,Louisiana
+222,"New Orleans Musician's Clinic Annual Blood Drive, DJ Fayard, Jeremy TH",Music,Other,Tipitinas,2018-08-19,70118,New Orleans,Louisiana
+223,On the Porch: Sharknado 6: the Final Party Presented By Pizza Nola,Film,Miscellaneous,The Howlin Wolf,2018-08-19,70130,New Orleans,Louisiana
+224,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-08-19,70130,New Orleans,Louisiana
+225,Norman Brown,Music,Jazz,Carver Theater,2018-08-20,70116,New Orleans,Louisiana
+226,Norman Brown,Music,Jazz,Carver Theater,2018-08-21,70116,New Orleans,Louisiana
+227,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-21,70130,New Orleans,Louisiana
+228,Norman Brown,Music,Jazz,Carver Theater,2018-08-22,70116,New Orleans,Louisiana
+229,"The Marcus King Band, Bishop Gunn",Music,Rock,Tipitinas,2018-08-23,70118,New Orleans,Louisiana
+230,Norman Brown,Music,Jazz,Carver Theater,2018-08-23,70116,New Orleans,Louisiana
+231,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-23,70130,New Orleans,Louisiana
+232,Tipitina's Foundation Presents: Foundation Free Fridays featuring Naug,Music,R&B,Tipitinas,2018-08-24,70118,New Orleans,Louisiana
+233,Styles P,Music,Hip-Hop/Rap,The Howlin Wolf,2018-08-24,70130,New Orleans,Louisiana
+234,"Strange Roux, Crooked Vines, Roadside Glorious",Music,Other,One Eyed Jacks,2018-08-24,70130,New Orleans,Louisiana
+235,Norman Brown,Music,Jazz,Carver Theater,2018-08-24,70116,New Orleans,Louisiana
+236,Rebirth Brass Band,Music,Jazz,Tipitinas,2018-08-25,70118,New Orleans,Louisiana
+237,On the Porch: Martha Kelly Plus Avery Moore and Pat Dean,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-25,70130,New Orleans,Louisiana
+238,Norman Brown,Music,Jazz,Carver Theater,2018-08-25,70116,New Orleans,Louisiana
+239,Norman Brown,Music,Jazz,Carver Theater,2018-08-26,70116,New Orleans,Louisiana
+240,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-08-26,70130,New Orleans,Louisiana
+241,Mushroomhead w/ The Browning,Music,Dance/Electronic,Southport Music Hall,2018-08-26,70121,New Orleans,Louisiana
+242,Norman Brown,Music,Jazz,Carver Theater,2018-08-27,70116,New Orleans,Louisiana
+243,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-28,70130,New Orleans,Louisiana
+244,Norman Brown,Music,Jazz,Carver Theater,2018-08-28,70116,New Orleans,Louisiana
+245,Orgy,Music,Rock,Southport Music Hall,2018-08-28,70121,New Orleans,Louisiana
+246,Norman Brown,Music,Jazz,Carver Theater,2018-08-29,70116,New Orleans,Louisiana
+247,South Jones - Room To Breathe Album Release Show,Music,Other,Tipitinas,2018-08-30,70118,New Orleans,Louisiana
+248,Norman Brown,Music,Jazz,Carver Theater,2018-08-30,70116,New Orleans,Louisiana
+249,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-08-30,70130,New Orleans,Louisiana
+250,Wake Forest Demon Deacons Football at Tulane Green Wave Football,Sports,Football,Yulman Stadium,2018-08-30,70118,New Orleans,Louisiana
+251,Tipitina's Foundation Presents: Foundation Free Fridays featuring John,Music,Other,Tipitinas,2018-08-31,70118,New Orleans,Louisiana
+252,Bearracuda New Orleans 6th Annual Decadence Beef Ball,Music,Other,One Eyed Jacks,2018-08-31,70130,New Orleans,Louisiana
+253,In the Den: Winston Ramble,Music,Rock,The Howlin Wolf,2018-08-31,70130,New Orleans,Louisiana
+254,Norman Brown,Music,Jazz,Carver Theater,2018-08-31,70116,New Orleans,Louisiana
+255,Said The Sky,Music,Other,Republic New Orleans,2018-08-31,70130,New Orleans,Louisiana
+256,In the Den: Jenna Hunts,Music,Rock,The Howlin Wolf,2018-09-01,70130,New Orleans,Louisiana
+257,Joe Fiore Presents Furball: Southern Decadence,Music,Other,One Eyed Jacks,2018-09-01,70130,New Orleans,Louisiana
+258,"John the Martyr Homecoming:, a Fundraiser for Habitat for Humanity",Music,Rock,Tipitinas,2018-09-01,70118,New Orleans,Louisiana
+259,Norman Brown,Music,Jazz,Carver Theater,2018-09-01,70116,New Orleans,Louisiana
+260,Bad Girls of Burlesque - in the Parish,Arts & Theatre,Variety,House of Blues New Orleans presented by Cricket Wireless,2018-09-01,70130,New Orleans,Louisiana
+261,Brent Faiyaz,Music,Other,Hi-Ho Lounge,2018-09-01,70117,New Orleans,Louisiana
+262,Queer As F*CK Dance Party,Music,Other,One Eyed Jacks,2018-09-02,70130,New Orleans,Louisiana
+263,Norman Brown,Music,Jazz,Carver Theater,2018-09-02,70116,New Orleans,Louisiana
+264,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-09-02,70130,New Orleans,Louisiana
+265,Africa Umoja,Arts & Theatre,Theatre,Mahalia Jackson Theater for the Performing Arts,2018-09-02,70116,New Orleans,Louisiana
+266,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-09-04,70130,New Orleans,Louisiana
+267,Norman Brown,Music,Jazz,Carver Theater,2018-09-04,70116,New Orleans,Louisiana
+268,Norman Brown,Music,Jazz,Carver Theater,2018-09-05,70116,New Orleans,Louisiana
+269,Big Something,Music,R&B,House of Blues New Orleans presented by Cricket Wireless,2018-09-05,70130,New Orleans,Louisiana
+270,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-09-06,70130,New Orleans,Louisiana
+271,"Funk On Da Table, Kenken, June Yamagishi, John Papa Gros, Nikki Glaspi",Music,Other,Tipitinas,2018-09-06,70118,New Orleans,Louisiana
+272,Norman Brown,Music,Jazz,Carver Theater,2018-09-06,70116,New Orleans,Louisiana
+273,"In the Den: the Noise Complaints, Baby Boy Bartels and the Boys, and H",Music,Rock,The Howlin Wolf,2018-09-07,70130,New Orleans,Louisiana
+274,Eric Lindell,Music,Blues,One Eyed Jacks,2018-09-07,70130,New Orleans,Louisiana
+275,"Zapp, DJ Soul Sister",Music,R&B,Tipitinas,2018-09-07,70118,New Orleans,Louisiana
+276,Norman Brown,Music,Jazz,Carver Theater,2018-09-07,70116,New Orleans,Louisiana
+277,The Chris Robinson Brotherhood,Music,Blues,The Joy Theater,2018-09-07,70112,New Orleans,Louisiana
+278,"Flow Tribe, Miss Mojo",Music,Rock,Tipitinas,2018-09-08,70118,New Orleans,Louisiana
+279,Norman Brown,Music,Jazz,Carver Theater,2018-09-08,70116,New Orleans,Louisiana
+280,Loumuzik Live - In The Parish At Hob,Music,Hip-Hop/Rap,House of Blues New Orleans presented by Cricket Wireless,2018-09-08,70130,New Orleans,Louisiana
+281,Flow Tribe,Music,Rock,Tipitinas,2018-09-08,70115,New Orleans,Louisiana
+282,Nicholls State Colonels Football at Tulane Green Wave Football,Sports,Football,Yulman Stadium,2018-09-08,70118,New Orleans,Louisiana
+283,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-09-09,70130,New Orleans,Louisiana
+284,Norman Brown,Music,Jazz,Carver Theater,2018-09-09,70116,New Orleans,Louisiana
+285,Africa Umoja,Arts & Theatre,Theatre,Mahalia Jackson Theater for the Performing Arts,2018-09-09,70116,New Orleans,Louisiana
+286,Norman Brown,Music,Jazz,Carver Theater,2018-09-10,70116,New Orleans,Louisiana
+287,Norman Brown,Music,Jazz,Carver Theater,2018-09-11,70116,New Orleans,Louisiana
+288,Norman Brown,Music,Jazz,Carver Theater,2018-09-12,70116,New Orleans,Louisiana
+289,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-09-13,70130,New Orleans,Louisiana
+290,Robert Earl Keen,Music,Country,Tipitinas,2018-09-13,70118,New Orleans,Louisiana
+291,Norman Brown,Music,Jazz,Carver Theater,2018-09-13,70116,New Orleans,Louisiana
+292,On the Porch: Coast To Coast Live Interactive Showcase,Music,Hip-Hop/Rap,The Howlin Wolf,2018-09-13,70130,New Orleans,Louisiana
+293,Beausoleil Avec Michael Doucet,Music,Folk,Tipitinas,2018-09-14,70118,New Orleans,Louisiana
+294,Mulebone Reunion Show,Music,Blues,One Eyed Jacks,2018-09-14,70130,New Orleans,Louisiana
+295,Norman Brown,Music,Jazz,Carver Theater,2018-09-14,70116,New Orleans,Louisiana
+296,Private Event,Miscellaneous,Community/Civic,The Howlin Wolf,2018-09-14,70130,New Orleans,Louisiana
+297,Stoop Kids,Music,Rock,Tipitinas,2018-09-15,70118,New Orleans,Louisiana
+298,Norman Brown,Music,Jazz,Carver Theater,2018-09-15,70116,New Orleans,Louisiana
+299,Pancakes and Booze Art Show,Miscellaneous,Community/Civic,The Howlin Wolf,2018-09-15,70130,New Orleans,Louisiana
+300,HOUSE OF THE YOUNG - in the Parish at HOB,Music,Other,House of Blues New Orleans presented by Cricket Wireless,2018-09-15,70130,New Orleans,Louisiana
+301,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-09-16,70130,New Orleans,Louisiana
+302,"Michot's Melody Makers, the Rayo Brothers",Music,Other,Tipitinas,2018-09-16,70118,New Orleans,Louisiana
+303,Norman Brown,Music,Jazz,Carver Theater,2018-09-16,70116,New Orleans,Louisiana
+304,Norman Brown,Music,Jazz,Carver Theater,2018-09-17,70116,New Orleans,Louisiana
+305,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-09-18,70130,New Orleans,Louisiana
+306,Norman Brown,Music,Jazz,Carver Theater,2018-09-18,70116,New Orleans,Louisiana
+307,Norman Brown,Music,Jazz,Carver Theater,2018-09-19,70116,New Orleans,Louisiana
+308,"Roadside Glorious, Brawn and Bone Album Release, Sam Price & the True",Music,Blues,Tipitinas,2018-09-20,70118,New Orleans,Louisiana
+309,Norman Brown,Music,Jazz,Carver Theater,2018-09-20,70116,New Orleans,Louisiana
+310,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-09-20,70130,New Orleans,Louisiana
+311,Brassaholics,Music,Other,Tipitinas,2018-09-21,70118,New Orleans,Louisiana
+312,DJ Soul Sister,Music,Dance/Electronic,One Eyed Jacks,2018-09-21,70130,New Orleans,Louisiana
+313,Norman Brown,Music,Jazz,Carver Theater,2018-09-21,70116,New Orleans,Louisiana
+314,Chromeo,Music,Dance/Electronic,The Joy Theater,2018-09-21,70112,New Orleans,Louisiana
+315,K?D,Music,Other,Republic New Orleans,2018-09-21,70130,New Orleans,Louisiana
+316,Norman Brown,Music,Jazz,Carver Theater,2018-09-22,70116,New Orleans,Louisiana
+317,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-09-23,70130,New Orleans,Louisiana
+318,Fidlar,Music,Other,Tipitinas,2018-09-23,70115,New Orleans,Louisiana
+319,Future Islands,Music,Alternative,The Joy Theater,2018-09-23,70112,New Orleans,Louisiana
+320,Norman Brown,Music,Jazz,Carver Theater,2018-09-24,70116,New Orleans,Louisiana
+321,The Suicide Girls,Music,Other,Republic New Orleans,2018-09-24,70130,New Orleans,Louisiana
+322,Norman Brown,Music,Jazz,Carver Theater,2018-09-25,70116,New Orleans,Louisiana
+323,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-09-25,70130,New Orleans,Louisiana
+324,Norman Brown,Music,Jazz,Carver Theater,2018-09-26,70116,New Orleans,Louisiana
+325,Norman Brown,Music,Jazz,Carver Theater,2018-09-27,70116,New Orleans,Louisiana
+326,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-09-27,70130,New Orleans,Louisiana
+327,Cedric Burnside Project,Music,Blues,Tipitinas,2018-09-28,70118,New Orleans,Louisiana
+328,Norman Brown,Music,Jazz,Carver Theater,2018-09-28,70116,New Orleans,Louisiana
+329,Memphis Tigers Football at Tulane Green Wave Football,Sports,Football,Yulman Stadium,2018-09-28,70118,New Orleans,Louisiana
+330,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-09-30,70130,New Orleans,Louisiana
+331,Mat Kearney,Music,Other,The Joy Theater,2018-09-30,70112,New Orleans,Louisiana
+332,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-02,70130,New Orleans,Louisiana
+333,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-04,70130,New Orleans,Louisiana
+334,"Kudzu Kings, Young Valley",Music,Country,Tipitinas,2018-10-05,70118,New Orleans,Louisiana
+335,Birdcloud,Music,Country,One Eyed Jacks,2018-10-05,70130,New Orleans,Louisiana
+336,In the Den: the Grass Is Dead,Music,Rock,The Howlin Wolf,2018-10-06,70130,New Orleans,Louisiana
+337,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-10-07,70130,New Orleans,Louisiana
+338,Slaves (UK),Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-10-08,70130,New Orleans,Louisiana
+339,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-09,70130,New Orleans,Louisiana
+340,King Khan & the Shrines with Gabriella Cohen,Music,Rock,One Eyed Jacks,2018-10-09,70130,New Orleans,Louisiana
+341,On the Porch: Project Pat,Music,Hip-Hop/Rap,The Howlin Wolf,2018-10-10,70130,New Orleans,Louisiana
+342,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-11,70130,New Orleans,Louisiana
+343,Phil Cook with Andy Jenkins,Music,Folk,One Eyed Jacks,2018-10-11,70130,New Orleans,Louisiana
+344,DJ Soul Sister,Music,Dance/Electronic,One Eyed Jacks,2018-10-12,70130,New Orleans,Louisiana
+345,Soulection,Music,Other,Republic New Orleans,2018-10-12,70130,New Orleans,Louisiana
+346,Postponed: It's Me Again: an Aparna Nancherla Tour,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-13,70130,New Orleans,Louisiana
+347,Houndmouth,Music,Country,Republic New Orleans,2018-10-13,70130,New Orleans,Louisiana
+348,"The Dead South, Whiskey Shivers and Del Suelo",Music,Rock,Tipitinas,2018-10-15,70118,New Orleans,Louisiana
+349,The Dead South,Music,Other,Tipitinas,2018-10-15,70115,New Orleans,Louisiana
+350,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-16,70130,New Orleans,Louisiana
+351,Jauz,Music,Dance/Electronic,Republic New Orleans,2018-10-16,70130,New Orleans,Louisiana
+352,Bob Moses,Music,Blues,Republic New Orleans,2018-10-17,70130,New Orleans,Louisiana
+353,TAUK,Music,Rock,Tipitinas,2018-10-18,70118,New Orleans,Louisiana
+354,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-18,70130,New Orleans,Louisiana
+355,TAUK,Music,Other,Tipitinas,2018-10-18,70115,New Orleans,Louisiana
+356,White Denim,Music,Rock,One Eyed Jacks,2018-10-19,70130,New Orleans,Louisiana
+357,Year of the Horse WSG Matron Plus Treadles,Music,Other,One Eyed Jacks,2018-10-20,70130,New Orleans,Louisiana
+358,"On the Porch: Decrepit Birth Plus Arsis, Internal Bleeding, Pyrexia,",Music,Metal,The Howlin Wolf,2018-10-20,70130,New Orleans,Louisiana
+359,Hannibal Buress,Arts & Theatre,Comedy,Saenger Theatre New Orleans,2018-10-20,70112,New Orleans,Louisiana
+360,John Hiatt: The Eclipse Sessions Tour,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-10-20,70130,New Orleans,Louisiana
+361,SMU Mustangs Football at Tulane Green Wave Football,Sports,Football,Yulman Stadium,2018-10-20,70118,New Orleans,Louisiana
+362,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-10-21,70130,New Orleans,Louisiana
+363,MICHAEL CHRISTMAS - in the Parish at HOB,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-10-21,70130,New Orleans,Louisiana
+364,Carach Angren w/ Wolfheart,Music,Other,Southport Music Hall,2018-10-21,70121,New Orleans,Louisiana
+365,Doyle,Music,Rock,Southport Music Hall,2018-10-22,70121,New Orleans,Louisiana
+366,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-23,70130,New Orleans,Louisiana
+367,Too Many Zooz - Pug In a Tub Tour,Music,Rock,One Eyed Jacks,2018-10-24,70130,New Orleans,Louisiana
+368,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-25,70130,New Orleans,Louisiana
+369,Here Come the Mummies,Music,Rock,Tipitinas,2018-10-25,70118,New Orleans,Louisiana
+370,Oh Sees,Music,Rock,One Eyed Jacks,2018-10-25,70130,New Orleans,Louisiana
+371,MONSTER ENERGY OUTBREAK TOUR PRESENTS: MIKE SHINODA NORTH AMERICA,Music,Hip-Hop/Rap,House of Blues New Orleans presented by Cricket Wireless,2018-10-25,70130,New Orleans,Louisiana
+372,Voodoo Music + Arts Experience,Miscellaneous,Fairs & Festivals,New Orleans City Park,2018-10-26,70124,New Orleans,Louisiana
+373,Lost Bayou Ramblers with Givers,Music,Other,One Eyed Jacks,2018-10-27,70130,New Orleans,Louisiana
+374,Voodoo Music + Arts Experience,Miscellaneous,Fairs & Festivals,New Orleans City Park,2018-10-27,70124,New Orleans,Louisiana
+375,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-10-28,70130,New Orleans,Louisiana
+376,MC Chris Is Dead Tour,Music,Hip-Hop/Rap,One Eyed Jacks,2018-10-28,70130,New Orleans,Louisiana
+377,Voodoo Music + Arts Experience,Miscellaneous,Fairs & Festivals,New Orleans City Park,2018-10-28,70124,New Orleans,Louisiana
+378,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-10-30,70130,New Orleans,Louisiana
+379,Quintron and Miss Pussycat with Jeff the Brotherhood,Music,Rock,One Eyed Jacks,2018-10-31,70130,New Orleans,Louisiana
+380,Kasbo,Music,Other,Republic New Orleans,2018-10-31,70130,New Orleans,Louisiana
+381,All Them Witches with Handsome Jack,Music,Country,One Eyed Jacks,2018-11-01,70130,New Orleans,Louisiana
+382,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-11-01,70130,New Orleans,Louisiana
+383,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-11-04,70130,New Orleans,Louisiana
+384,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-11-06,70130,New Orleans,Louisiana
+385,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-11-08,70130,New Orleans,Louisiana
+386,Phosphorescent with Special Guest Liz Cooper & the Stampede,Music,Rock,One Eyed Jacks,2018-11-08,70130,New Orleans,Louisiana
+387,Phosphorescent,Music,Other,One Eyed Jacks,2018-11-08,70130,New Orleans,Louisiana
+388,Final Games Only - WFTDA Championships,Sports,Miscellaneous,UNO Lakefront Arena,2018-11-09,70122,New Orleans,Louisiana
+389,Final Games Only - WFTDA Championships,Sports,Miscellaneous,UNO Lakefront Arena,2018-11-10,70122,New Orleans,Louisiana
+390,East Carolina Pirates Football at Tulane Green Wave Football,Sports,Football,Yulman Stadium,2018-11-10,70118,New Orleans,Louisiana
+391,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-11-11,70130,New Orleans,Louisiana
+392,Final Games Only - WFTDA Championships,Sports,Miscellaneous,UNO Lakefront Arena,2018-11-11,70122,New Orleans,Louisiana
+393,Wye Oak with Thor & Friends,Music,Rock,One Eyed Jacks,2018-11-12,70130,New Orleans,Louisiana
+394,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-11-13,70130,New Orleans,Louisiana
+395,Sparta,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-11-14,70130,New Orleans,Louisiana
+396,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-11-15,70130,New Orleans,Louisiana
+397,Ty Segall (Solo Acoustic) with Emmett Kelly (Of the Cairo Gang),Music,Rock,One Eyed Jacks,2018-11-17,70130,New Orleans,Louisiana
+398,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-11-18,70130,New Orleans,Louisiana
+399,Black Lips and Iceage with Surfbort,Music,Rock,One Eyed Jacks,2018-11-19,70130,New Orleans,Louisiana
+400,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-11-20,70130,New Orleans,Louisiana
+401,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-11-22,70130,New Orleans,Louisiana
+402,Navy Midshipmen Football at Tulane Green Wave Football,Sports,Football,Yulman Stadium,2018-11-24,70118,New Orleans,Louisiana
+403,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-11-25,70130,New Orleans,Louisiana
+404,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-11-27,70130,New Orleans,Louisiana
+405,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-11-29,70130,New Orleans,Louisiana
+406,DJ Soul Sister,Music,Dance/Electronic,One Eyed Jacks,2018-11-30,70130,New Orleans,Louisiana
+407,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-12-02,70130,New Orleans,Louisiana
+408,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-12-04,70130,New Orleans,Louisiana
+409,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-12-06,70130,New Orleans,Louisiana
+410,In the Den: Danielle Nicole,Music,Other,The Howlin Wolf,2018-12-08,70130,New Orleans,Louisiana
+411,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-12-09,70130,New Orleans,Louisiana
+412,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-12-11,70130,New Orleans,Louisiana
+413,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-12-13,70130,New Orleans,Louisiana
+414,DJ Soul Sister,Music,Dance/Electronic,One Eyed Jacks,2018-12-14,70130,New Orleans,Louisiana
+415,Lauren Alaina - Upgrade Meet & Greet Packages,Music,Country,Bold Sphere Music at Champions Square,2018-12-14,70112,New Orleans,Louisiana
+416,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-12-16,70130,New Orleans,Louisiana
+417,Every Tuesday In the Den: Comedy Beast,Arts & Theatre,Comedy,The Howlin Wolf,2018-12-18,70130,New Orleans,Louisiana
+418,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-18,70112,New Orleans,Louisiana
+419,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-19,70112,New Orleans,Louisiana
+420,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-12-20,70130,New Orleans,Louisiana
+421,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-20,70112,New Orleans,Louisiana
+422,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-21,70112,New Orleans,Louisiana
+423,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-21,70112,New Orleans,Louisiana
+424,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-22,70112,New Orleans,Louisiana
+425,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-22,70112,New Orleans,Louisiana
+426,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-22,70112,New Orleans,Louisiana
+427,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-12-23,70130,New Orleans,Louisiana
+428,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-23,70112,New Orleans,Louisiana
+429,Elf - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-23,70112,New Orleans,Louisiana
+430,Comedy Gumbeaux,Arts & Theatre,Comedy,The Howlin Wolf,2018-12-27,70130,New Orleans,Louisiana
+431,Hot 8 Brass Band,Music,Jazz,The Howlin Wolf,2018-12-30,70130,New Orleans,Louisiana
+432,2018 Premium Season Tickets,Music,Other,Bold Sphere Music at Champions Square,2018-12-31,70112,New Orleans,Louisiana
+433,Les Miserables,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-01-08,70112,New Orleans,Louisiana
+434,Les Miserables,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-01-09,70112,New Orleans,Louisiana
+435,Les Miserables,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-01-10,70112,New Orleans,Louisiana
+436,Les Miserables,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-01-11,70112,New Orleans,Louisiana
+437,Les Miserables,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-01-12,70112,New Orleans,Louisiana
+438,Les Miserables,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-01-12,70112,New Orleans,Louisiana
+439,Les Miserables,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-01-13,70112,New Orleans,Louisiana
+440,Les Miserables,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-01-13,70112,New Orleans,Louisiana
+441,The SteelDrivers,Music,Country,The Joy Theater,2019-01-19,70112,New Orleans,Louisiana
+442,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-12,70112,New Orleans,Louisiana
+443,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-13,70112,New Orleans,Louisiana
+444,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-14,70112,New Orleans,Louisiana
+445,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-15,70112,New Orleans,Louisiana
+446,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-16,70112,New Orleans,Louisiana
+447,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-16,70112,New Orleans,Louisiana
+448,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-17,70112,New Orleans,Louisiana
+449,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-17,70112,New Orleans,Louisiana
+450,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-19,70112,New Orleans,Louisiana
+451,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-20,70112,New Orleans,Louisiana
+452,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-21,70112,New Orleans,Louisiana
+453,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-22,70112,New Orleans,Louisiana
+454,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-23,70112,New Orleans,Louisiana
+455,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-23,70112,New Orleans,Louisiana
+456,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-24,70112,New Orleans,Louisiana
+457,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-24,70112,New Orleans,Louisiana
+458,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-26,70112,New Orleans,Louisiana
+459,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-27,70112,New Orleans,Louisiana
+460,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-28,70112,New Orleans,Louisiana
+461,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-29,70112,New Orleans,Louisiana
+462,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-30,70112,New Orleans,Louisiana
+463,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-30,70112,New Orleans,Louisiana
+464,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-31,70112,New Orleans,Louisiana
+465,Hamilton,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-03-31,70112,New Orleans,Louisiana
+466,Come from Away,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-05-28,70112,New Orleans,Louisiana
+467,Come from Away,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-05-29,70112,New Orleans,Louisiana
+468,Come from Away,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-05-30,70112,New Orleans,Louisiana
+469,Come from Away,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-05-31,70112,New Orleans,Louisiana
+470,Come from Away,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-06-01,70112,New Orleans,Louisiana
+471,Come from Away,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-06-01,70112,New Orleans,Louisiana
+472,Come from Away,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-06-02,70112,New Orleans,Louisiana
+473,Come from Away,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-06-02,70112,New Orleans,Louisiana
+474,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-11-18,70130,New Orleans,Louisiana
+475,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-10-21,70130,New Orleans,Louisiana
+476,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-11-25,70130,New Orleans,Louisiana
+477,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-10-14,70130,New Orleans,Louisiana
+478,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-12-09,70130,New Orleans,Louisiana
+479,The Decemberists,Music,Alternative,The Civic Theatre - New Orleans,2018-09-26,70113,New Orleans,Louisiana
+480,Portugal the Man w/ Chicano Batman,Music,Alternative,The Sugar Mill,2018-09-14,70130,New Orleans,Louisiana
+481,School of Rock - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-10-30,70112,New Orleans,Louisiana
+482,School of Rock - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-10-31,70112,New Orleans,Louisiana
+483,School of Rock - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-01,70112,New Orleans,Louisiana
+484,School of Rock - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-02,70112,New Orleans,Louisiana
+485,School of Rock - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-03,70112,New Orleans,Louisiana
+486,School of Rock - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-03,70112,New Orleans,Louisiana
+487,School of Rock - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-04,70112,New Orleans,Louisiana
+488,School of Rock - The Musical,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-04,70112,New Orleans,Louisiana
+489,3OH!3 & EMO NITE: THE WANT HOUSE PARTY TOUR,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-11-17,70130,New Orleans,Louisiana
+490,On Your Feet,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-27,70112,New Orleans,Louisiana
+491,On Your Feet,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-28,70112,New Orleans,Louisiana
+492,On Your Feet,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-29,70112,New Orleans,Louisiana
+493,On Your Feet,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-11-30,70112,New Orleans,Louisiana
+494,On Your Feet,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-01,70112,New Orleans,Louisiana
+495,On Your Feet,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-01,70112,New Orleans,Louisiana
+496,On Your Feet,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-02,70112,New Orleans,Louisiana
+497,On Your Feet,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2018-12-02,70112,New Orleans,Louisiana
+498,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-09-09,70130,New Orleans,Louisiana
+499,Umphrey's McGee,Music,Alternative,The Joy Theater,2018-08-30,70112,New Orleans,Louisiana
+500,Punch Brothers,Music,Country,The Civic Theatre - New Orleans,2018-09-12,70113,New Orleans,Louisiana
+501,Lewis Black,Arts & Theatre,Undefined,The Joy Theater,2018-09-15,70112,New Orleans,Louisiana
+502,"Fidlar, Dilly Dally, Nobro",Music,Rock,Tipitinas,2018-09-23,70118,New Orleans,Louisiana
+503,George Carden International Circus,Arts & Theatre,Circus & Specialty Acts,UNO Lakefront Arena,2018-09-28,70122,New Orleans,Louisiana
+504,George Carden International Circus,Arts & Theatre,Circus & Specialty Acts,UNO Lakefront Arena,2018-09-29,70122,New Orleans,Louisiana
+505,George Carden International Circus,Arts & Theatre,Circus & Specialty Acts,UNO Lakefront Arena,2018-09-29,70122,New Orleans,Louisiana
+506,George Carden International Circus,Arts & Theatre,Circus & Specialty Acts,UNO Lakefront Arena,2018-09-30,70122,New Orleans,Louisiana
+507,George Carden International Circus,Arts & Theatre,Circus & Specialty Acts,UNO Lakefront Arena,2018-09-30,70122,New Orleans,Louisiana
+508,Escape the Fate,Music,Metal,House of Blues New Orleans presented by Cricket Wireless,2018-10-08,70130,New Orleans,Louisiana
+509,Honne,Music,R&B,One Eyed Jacks,2018-10-13,70130,New Orleans,Louisiana
+510,Voodoo Music + Arts Experience,Music,Undefined,City Park,2018-10-26,70124,New Orleans,Louisiana
+511,Thievery Corporation w/ Julian Marley,Music,Dance/Electronic,The Joy Theater,2018-11-02,70112,New Orleans,Louisiana
+512,Silverstein - When Broken Is Easily Fixed: 15 Year Anniversary Tour,Music,Rock,House of Blues New Orleans presented by Cricket Wireless,2018-11-25,70130,New Orleans,Louisiana
+513,Seven Lions,Music,Other,Republic New Orleans,2018-11-28,70130,New Orleans,Louisiana
+514,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-12-02,70130,New Orleans,Louisiana
+515,Gospel Brunch at House of Blues New Orleans,Music,Religious,House of Blues New Orleans presented by Cricket Wireless,2018-12-16,70130,New Orleans,Louisiana
+516,The Book of Mormon,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-02-05,70112,New Orleans,Louisiana
+517,The Book of Mormon,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-02-06,70112,New Orleans,Louisiana
+518,The Book of Mormon,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-02-07,70112,New Orleans,Louisiana
+519,The Book of Mormon,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-02-08,70112,New Orleans,Louisiana
+520,The Book of Mormon,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-02-09,70112,New Orleans,Louisiana
+521,The Book of Mormon,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-02-09,70112,New Orleans,Louisiana
+522,The Book of Mormon,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-02-10,70112,New Orleans,Louisiana
+523,The Book of Mormon,Arts & Theatre,Undefined,Saenger Theatre-New Orleans,2019-02-10,70112,New Orleans,Louisiana
+524,Jeremih,Undefined,Undefined,The Joy Theater,2018-08-24,70112,New Orleans,Louisiana
+525,"Emeril Lagasse Foundation's Boudin, Bourbon & Beer 2018",Miscellaneous,Undefined,Bold Sphere Music at Champions Square,2018-11-09,70112,New Orleans,Louisiana
+526,Endless Night: New Orleans Vampire Ball 2018 - Dracula,Miscellaneous,Undefined,House of Blues New Orleans presented by Cricket Wireless,2018-10-27,70130,New Orleans,Louisiana
+527,Gleason Gras 2018 And Saints Pep Rally,Miscellaneous,Undefined,Bold Sphere Music at Champions Square,2018-09-07,70112,New Orleans,Louisiana

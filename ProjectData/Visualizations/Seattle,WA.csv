@@ -1,0 +1,1001 @@
+,event name,Classification,genre,venue,Date,Zip code,City,State
+0,Seattle Seahawks vs. Minnesota Vikings,Sports,Football,CenturyLink Field,2018-12-10,98134,Seattle,Washington
+1,Seattle Seahawks vs. Dallas Cowboys,Sports,Football,CenturyLink Field,2018-09-23,98134,Seattle,Washington
+2,Seattle Mariners vs. Los Angeles Dodgers,Sports,Baseball,Safeco Field,2018-08-18,98134,Seattle,Washington
+3,Seattle Seahawks vs. Oakland Raiders,Sports,Football,CenturyLink Field,2018-08-30,98134,Seattle,Washington
+4,Seattle Mariners vs. Los Angeles Dodgers,Sports,Baseball,Safeco Field,2018-08-19,98134,Seattle,Washington
+5,Seattle Seahawks vs. Green Bay Packers,Sports,Football,CenturyLink Field,2018-11-15,98134,Seattle,Washington
+6,Seattle Seahawks vs. Los Angeles Chargers,Sports,Football,CenturyLink Field,2018-11-04,98134,Seattle,Washington
+7,Seattle Seahawks vs. Indianapolis Colts,Sports,Football,CenturyLink Field,2018-08-09,98134,Seattle,Washington
+8,Seattle Mariners vs. New York Yankees,Sports,Baseball,Safeco Field,2018-09-08,98134,Seattle,Washington
+9,Seattle Seahawks vs. San Francisco 49ers,Sports,Football,CenturyLink Field,2018-12-02,98134,Seattle,Washington
+10,Seattle Mariners vs. New York Yankees,Sports,Baseball,Safeco Field,2018-09-09,98134,Seattle,Washington
+11,Seattle Mariners vs. Los Angeles Dodgers,Sports,Baseball,Safeco Field,2018-08-17,98134,Seattle,Washington
+12,Seattle Mariners vs. New York Yankees,Sports,Baseball,Safeco Field,2018-09-07,98134,Seattle,Washington
+13,Seattle Seahawks vs. Kansas City Chiefs,Sports,Football,CenturyLink Field,2018-12-23,98134,Seattle,Washington
+14,Ozuna,Music,World,WaMu Theater,2018-11-01,98134,Seattle,Washington
+15,Bad Bunny - La Nueva Religion Tour,Music,Hip-Hop/Rap,WaMu Theater,2018-09-06,98134,Seattle,Washington
+16,JAY-Z and BEYONCÉ - OTR II,Music,Hip-Hop/Rap,CenturyLink Field,2018-10-04,98134,Seattle,Washington
+17,Seattle Seahawks vs. Los Angeles Rams,Sports,Football,CenturyLink Field,2018-10-07,98134,Seattle,Washington
+18,Pearl Jam Live 2018,Music,Rock,Safeco Field,2018-08-10,98134,Seattle,Washington
+19,The King Romeo Santos,Music,World,WaMu Theater,2018-09-21,98134,Seattle,Washington
+20,Pearl Jam Live 2018,Music,Rock,Safeco Field,2018-08-08,98134,Seattle,Washington
+21,Foo Fighters: Concrete And Gold Tour '18,Music,Rock,Safeco Field,2018-09-01,98134,Seattle,Washington
+22,Seattle Mariners vs. Toronto Blue Jays,Sports,Baseball,Safeco Field,2018-08-04,98134,Seattle,Washington
+23,Seattle Mariners vs. Toronto Blue Jays,Sports,Baseball,Safeco Field,2018-08-05,98134,Seattle,Washington
+24,Seattle Seahawks vs. Arizona Cardinals,Sports,Football,CenturyLink Field,2018-12-30,98134,Seattle,Washington
+25,Sam Smith: The Thrill Of It All Tour,Music,Rock,KeyArena,2018-09-08,98109,Seattle,Washington
+26,Mac Miller: The Swimming Tour,Music,Hip-Hop/Rap,WaMu Theater,2018-12-09,98134,Seattle,Washington
+27,The King Romeo Santos,Music,World,WaMu Theater,2018-09-20,98134,Seattle,Washington
+28,5 Seconds of Summer: Meet You There Tour,Music,Rock,Paramount Theatre,2018-10-05,98101,Seattle,Washington
+29,MIGUEL: The Ascension Tour,Music,R&B,WaMu Theater,2018-09-28,98134,Seattle,Washington
+30,Childish Gambino,Music,Hip-Hop/Rap,KeyArena,2018-09-29,98109,Seattle,Washington
+31,Arctic Monkeys,Music,Rock,WaMu Theater,2018-10-23,98134,Seattle,Washington
+32,Seattle Mariners vs. Houston Astros,Sports,Baseball,Safeco Field,2018-08-20,98134,Seattle,Washington
+33,Jack White,Music,Rock,WaMu Theater,2018-08-13,98134,Seattle,Washington
+34,Zac Brown Band: Down the Rabbit Hole Live!,Music,Country,Safeco Field,2018-08-31,98134,Seattle,Washington
+35,Seattle Mariners vs. Houston Astros,Sports,Baseball,Safeco Field,2018-08-22,98134,Seattle,Washington
+36,The Smashing Pumpkins: Shiny And Oh So Bright Tour,Music,Rock,KeyArena,2018-08-24,98109,Seattle,Washington
+37,Florence and the Machine: The High As Hope Tour 2018,Music,Rock,KeyArena,2018-09-10,98109,Seattle,Washington
+38,Halestorm + In This Moment,Music,Rock,WaMu Theater,2018-08-17,98134,Seattle,Washington
+39,Leon Bridges: Good Thing Tour,Music,R&B,WaMu Theater,2018-09-14,98134,Seattle,Washington
+40,Seattle Mariners vs. Houston Astros,Sports,Baseball,Safeco Field,2018-08-21,98134,Seattle,Washington
+41,Daryl Hall & John Oates and Train,Music,Rock,KeyArena,2018-08-11,98109,Seattle,Washington
+42,Alison Wonderland,Music,Dance/Electronic,WaMu Theater,2018-08-10,98134,Seattle,Washington
+43,Dropkick Murphys And Flogging Molly,Music,Rock,WaMu Theater,2018-09-22,98134,Seattle,Washington
+44,Troye Sivan: The Bloom Tour with special guest Kim Petras,Music,Pop,Paramount Theatre,2018-11-07,98101,Seattle,Washington
+45,BØRNS,Music,Rock,Paramount Theatre,2018-10-17,98101,Seattle,Washington
+46,SiriusXM Pres. Goo Goo Dolls - Dizzy Up The Girl 20th Anniversary Tour,Music,Rock,Paramount Theatre,2018-11-03,98101,Seattle,Washington
+47,Iliza: Elder Millennial,Arts & Theatre,Comedy,Moore Theatre,2018-10-12,98101,Seattle,Washington
+48,CAFÉ TACVBA: Niu Güeis Tour 2018,Music,World,Moore Theatre,2018-09-11,98101,Seattle,Washington
+49,Casting Crowns,Music,Religious,McCaw Hall,2018-11-30,98109,Seattle,Washington
+50,Game of Thrones Live Concert Experience,Music,Other,KeyArena,2018-09-06,98109,Seattle,Washington
+51,Brandi Carlile,Music,Rock,Moore Theatre,2018-09-01,98101,Seattle,Washington
+52,NEEDTOBREATHE: Forever On Your Side Tour with special guest JOHNNYSWIM,Music,Rock,WaMu Theater,2018-09-15,98134,Seattle,Washington
+53,Amanda Miguel Y Diego Verdaguer,Music,World,Moore Theatre,2018-10-04,98101,Seattle,Washington
+54,Seattle Mariners vs. Oakland Athletics,Sports,Baseball,Safeco Field,2018-09-24,98134,Seattle,Washington
+55,Ed Sheeran: 2018 North American Stadium Tour,Music,Pop,CenturyLink Field,2018-08-25,98134,Seattle,Washington
+56,University of North Dakota Football at Washington Huskies Football,Sports,Football,Husky Stadium-WA,2018-09-08,98195,Seattle,Washington
+57,Virtual Self - Utopia Tour,Music,Dance/Electronic,WaMu Theater,2018-09-13,98134,Seattle,Washington
+58,Rodriguez,Music,Folk,Moore Theatre,2018-08-12,98101,Seattle,Washington
+59,Yuridia,Music,World,Moore Theatre,2018-09-27,98101,Seattle,Washington
+60,Seattle Mariners vs. Texas Rangers,Sports,Baseball,Safeco Field,2018-09-29,98134,Seattle,Washington
+61,Marisela en Concierto,Music,World,Moore Theatre,2018-09-22,98101,Seattle,Washington
+62,Rezz,Music,Dance/Electronic,WaMu Theater,2018-09-29,98134,Seattle,Washington
+63,An Evening with Gov't Mule,Music,Rock,Moore Theatre,2018-09-06,98101,Seattle,Washington
+64,A Night Of Comedy From The Cast Of Bob's Burgers,Arts & Theatre,Comedy,Moore Theatre,2018-08-10,98101,Seattle,Washington
+65,Hozier,Music,Rock,Paramount Theatre,2018-10-18,98101,Seattle,Washington
+66,Arizona State Sun Devils Football at Washington Huskies Football,Sports,Football,Husky Stadium-WA,2018-09-22,98195,Seattle,Washington
+67,Tenacious D,Music,Rock,Moore Theatre,2018-12-14,98101,Seattle,Washington
+68,Sir Sly + Joywave,Music,Rock,Neptune Theatre,2018-11-09,98105,Seattle,Washington
+69,Seattle Mariners vs. Oakland Athletics,Sports,Baseball,Safeco Field,2018-09-26,98134,Seattle,Washington
+70,Los Angeles Galaxy at Seattle Sounders FC,Sports,Soccer,CenturyLink Field,2018-08-18,98134,Seattle,Washington
+71,Seattle Mariners vs. Oakland Athletics,Sports,Baseball,Safeco Field,2018-09-25,98134,Seattle,Washington
+72,Penn & Teller,Arts & Theatre,Comedy,Paramount Theatre,2018-11-30,98101,Seattle,Washington
+73,Dan and Phil: World Tour 2018 - Interactive Introverts,Arts & Theatre,Comedy,Moore Theatre,2018-08-11,98101,Seattle,Washington
+74,First Aid Kit,Music,Rock,Paramount Theatre,2018-10-01,98101,Seattle,Washington
+75,Jacksepticeye: How Did We Get Here?,Arts & Theatre,Comedy,Moore Theatre,2018-09-03,98101,Seattle,Washington
+76,Dan and Phil: World Tour 2018 - Interactive Introverts,Arts & Theatre,Comedy,Moore Theatre,2018-08-11,98101,Seattle,Washington
+77,Courtney Barnett: Tell Me How You Really Feel,Music,Rock,Paramount Theatre,2018-10-08,98101,Seattle,Washington
+78,Postmodern Jukebox,Music,Undefined,Paramount Theatre,2018-12-02,98101,Seattle,Washington
+79,"Lucius: An Intimate, Acoustic Performance",Music,Rock,Moore Theatre,2018-09-12,98101,Seattle,Washington
+80,Kathleen Madigan - Boxed Wine And Bigfoot,Arts & Theatre,Comedy,Moore Theatre,2018-10-06,98101,Seattle,Washington
+81,CHVRCHES,Music,Rock,Paramount Theatre,2018-09-29,98101,Seattle,Washington
+82,Miranda Sings,Arts & Theatre,Comedy,Moore Theatre,2018-09-08,98101,Seattle,Washington
+83,DEADBEATS TOUR,Music,Dance/Electronic,WaMu Theater,2018-11-30,98134,Seattle,Washington
+84,Blood Orange,Music,Rock,Moore Theatre,2018-09-15,98101,Seattle,Washington
+85,Mystery Science Theatre 3000 Live! Featuring The Brain,Film,Miscellaneous,Moore Theatre,2018-11-11,98101,Seattle,Washington
+86,Tyler Childers,Music,Folk,Neptune Theatre,2018-11-03,98105,Seattle,Washington
+87,Zhu,Music,Dance/Electronic,Paramount Theatre,2018-10-16,98101,Seattle,Washington
+88,Mystery Science Theatre 3000 Live! Featuring Deathstalker II,Film,Miscellaneous,Moore Theatre,2018-11-11,98101,Seattle,Washington
+89,Owl City: Cinematic Tour w/Matthew Thiessen & The Earthquakes,Music,Rock,Neptune Theatre,2018-10-06,98105,Seattle,Washington
+90,BYU Cougars Football at Washington Huskies Football,Sports,Football,Husky Stadium-WA,2018-09-29,98195,Seattle,Washington
+91,"Jimmy Carr: The Best Of, Ultimate, Gold, Greatest Hits World Tour",Arts & Theatre,Comedy,Neptune Theatre,2018-11-30,98105,Seattle,Washington
+92,"Panic! At The Disco: Pray for the Wicked Tour w ARIZONA, Hayley Kiyoko",Music,Rock,KeyArena,2018-08-10,98109,Seattle,Washington
+93,FRANK TURNER & THE SLEEPING SOULS BE MORE KIND WORLD TOUR 2018,Music,Rock,Moore Theatre,2018-09-07,98101,Seattle,Washington
+94,Rufus Wainwright,Music,Rock,Moore Theatre,2018-11-14,98101,Seattle,Washington
+95,O.A.R. w/ Matt Nathanson,Music,Alternative,Showbox SODO,2018-09-18,98134,Seattle,Washington
+96,Angel Olsen - Tiny Dreams Solo Tour,Music,Folk,Moore Theatre,2018-09-14,98101,Seattle,Washington
+97,Los Angeles Dodgers at Seattle Mariners,Sports,Baseball,Safeco Field,2018-08-18,98134,Seattle,Washington
+98,Los Angeles Dodgers at Seattle Mariners,Sports,Baseball,Safeco Field,2018-08-17,98134,Seattle,Washington
+99,St. Paul and the Broken Bones,Music,R&B,Moore Theatre,2018-10-16,98101,Seattle,Washington
+100,Imomsohard,Arts & Theatre,Comedy,Paramount Theatre,2018-11-13,98101,Seattle,Washington
+101,Adam Carolla Show: Live Podcast Taping with Gina Grad & Bald Bryan,Arts & Theatre,Comedy,Moore Theatre,2018-09-13,98101,Seattle,Washington
+102,Celtic Thunder X Tour,Music,World,Paramount Theatre,2018-11-05,98101,Seattle,Washington
+103,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-09,98101,Seattle,Washington
+104,Chris Hardwick: Id10t Tour,Arts & Theatre,Comedy,Neptune Theatre,2018-10-26,98105,Seattle,Washington
+105,An Evening With The Tallest Man On Earth,Music,Rock,Neptune Theatre,2018-11-24,98105,Seattle,Washington
+106,Wardruna,Music,World,Neptune Theatre,2018-09-17,98105,Seattle,Washington
+107,Blues Traveler,Music,Rock,Neptune Theatre,2018-11-17,98105,Seattle,Washington
+108,Lecrae + Andy Mineo,Music,Hip-Hop/Rap,Moore Theatre,2018-09-28,98101,Seattle,Washington
+109,The War On Drugs,Music,Rock,Paramount Theatre,2018-09-06,98101,Seattle,Washington
+110,Olafur Arnalds,Arts & Theatre,Classical,Moore Theatre,2019-01-26,98101,Seattle,Washington
+111,Marc Broussard,Music,Rock,Neptune Theatre,2018-09-20,98105,Seattle,Washington
+112,The Jesus Lizard,Music,Rock,Neptune Theatre,2018-09-28,98105,Seattle,Washington
+113,Kurt Vile & the Violators,Music,Rock,Moore Theatre,2018-12-15,98101,Seattle,Washington
+114,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-08,98101,Seattle,Washington
+115,"Kacey Musgraves: Oh, What A World: Tour",Music,Country,Paramount Theatre,2019-02-19,98101,Seattle,Washington
+116,"I'm With Her: Sara Watkins, Sarah Jarosz, Aoife O'Donovan",Music,Folk,Moore Theatre,2018-09-29,98101,Seattle,Washington
+117,My Favorite Murder Live,Arts & Theatre,Comedy,Paramount Theatre,2018-10-20,98101,Seattle,Washington
+118,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-17,98101,Seattle,Washington
+119,Seattle Mariners vs. Baltimore Orioles,Sports,Baseball,Safeco Field,2018-09-03,98134,Seattle,Washington
+120,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-12,98101,Seattle,Washington
+121,Rise Against - Mourning In Amerika Tour,Music,Rock,WaMu Theater,2018-09-24,98134,Seattle,Washington
+122,John Prine - The Tree Of Forgiveness Tour,Music,Rock,Paramount Theatre,2018-09-22,98101,Seattle,Washington
+123,Stanford Cardinal Football at Washington Huskies Football,Sports,Football,Husky Stadium-WA,2018-11-03,98195,Seattle,Washington
+124,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-09,98101,Seattle,Washington
+125,Greta Van Fleet,Music,Rock,Paramount Theatre,2018-09-07,98101,Seattle,Washington
+126,Welcome To Night Vale,Arts & Theatre,Theatre,Neptune Theatre,2019-01-18,98105,Seattle,Washington
+127,New York Yankees at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-07,98134,Seattle,Washington
+128,The Zombies,Music,Rock,Neptune Theatre,2018-09-18,98105,Seattle,Washington
+129,Greta Van Fleet,Music,Rock,Paramount Theatre,2018-09-08,98101,Seattle,Washington
+130,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-18,98101,Seattle,Washington
+131,Seattle Mariners vs. Texas Rangers,Sports,Baseball,Safeco Field,2018-09-30,98134,Seattle,Washington
+132,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-11,98101,Seattle,Washington
+133,James Bay,Music,Rock,Paramount Theatre,2019-04-03,98101,Seattle,Washington
+134,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-11,98101,Seattle,Washington
+135,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-14,98101,Seattle,Washington
+136,My Favorite Murder Live,Arts & Theatre,Comedy,Paramount Theatre,2018-10-20,98101,Seattle,Washington
+137,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-12,98101,Seattle,Washington
+138,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-18,98101,Seattle,Washington
+139,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-10,98101,Seattle,Washington
+140,Serial Killers - LIVE on Stage,Arts & Theatre,Theatre,Moore Theatre,2018-10-17,98101,Seattle,Washington
+141,Dweezil Zappa Choice Cuts World Tour 2018,Music,Rock,Neptune Theatre,2018-12-14,98105,Seattle,Washington
+142,Erasure - World Be Gone Tour,Music,Rock,Moore Theatre,2018-08-14,98101,Seattle,Washington
+143,Wild Kratts Live 2.0 - Activate Creature Power!,Arts & Theatre,Children's Theatre,Paramount Theatre,2018-09-30,98101,Seattle,Washington
+144,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-16,98101,Seattle,Washington
+145,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-19,98101,Seattle,Washington
+146,Dermot Kennedy,Music,Rock,Neptune Theatre,2018-11-15,98105,Seattle,Washington
+147,Los Angeles Dodgers at Seattle Mariners,Sports,Baseball,Safeco Field,2018-08-19,98134,Seattle,Washington
+148,New York Yankees at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-08,98134,Seattle,Washington
+149,New York Yankees at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-09,98134,Seattle,Washington
+150,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-15,98101,Seattle,Washington
+151,Seattle Storm vs. Dallas Wings,Sports,Basketball,KeyArena,2018-08-19,98109,Seattle,Washington
+152,Simple Minds,Music,Rock,Moore Theatre,2018-10-28,98101,Seattle,Washington
+153,Welcome To Night Vale,Arts & Theatre,Theatre,Neptune Theatre,2019-01-18,98105,Seattle,Washington
+154,A John Waters Christmas,Arts & Theatre,Comedy,Neptune Theatre,2018-12-02,98105,Seattle,Washington
+155,RuPaul's Drag Race: Werq The World,Arts & Theatre,Fashion,Paramount Theatre,2018-09-23,98101,Seattle,Washington
+156,Celeste Barber Live,Arts & Theatre,Comedy,Neptune Theatre,2018-11-05,98105,Seattle,Washington
+157,Paul Reiser,Arts & Theatre,Comedy,Moore Theatre,2018-11-17,98101,Seattle,Washington
+158,Elvis Costello & the Imposters,Music,Rock,Paramount Theatre,2018-12-03,98101,Seattle,Washington
+159,Jesus Culture,Music,Religious,Paramount Theatre,2018-10-06,98101,Seattle,Washington
+160,The Phantom of the Opera (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-08-19,98101,Seattle,Washington
+161,Straight No Chaser,Music,Rock,McCaw Hall,2018-12-31,98109,Seattle,Washington
+162,Stephen Malkmus and the Jicks,Music,Rock,Neptune Theatre,2018-08-04,98105,Seattle,Washington
+163,Ben Howard,Music,Rock,Paramount Theatre,2018-09-21,98101,Seattle,Washington
+164,Beach Goth Tour 2018 - The Growlers,Music,Rock,Neptune Theatre,2018-09-07,98105,Seattle,Washington
+165,Nick Lowe's Quality Rock & Roll Revue starring Los Straitjackets,Music,Rock,Neptune Theatre,2018-10-10,98105,Seattle,Washington
+166,Kali Uchis w/ Gabriel Garzon-Montano,Music,Other,Showbox SODO,2018-09-13,98134,Seattle,Washington
+167,Frankie Cosmos,Music,Rock,Neptune Theatre,2018-11-10,98105,Seattle,Washington
+168,moe.,Music,Rock,Neptune Theatre,2018-10-12,98105,Seattle,Washington
+169,Seattle Mariners vs. Texas Rangers,Sports,Baseball,Safeco Field,2018-09-28,98134,Seattle,Washington
+170,Joyce Manor,Music,Rock,Neptune Theatre,2018-10-31,98105,Seattle,Washington
+171,Mudhoney + The Scientists,Music,Rock,Neptune Theatre,2018-09-29,98105,Seattle,Washington
+172,She Wants Revenge,Music,Rock,Neptune Theatre,2018-10-07,98105,Seattle,Washington
+173,Neko Case,Music,Rock,Paramount Theatre,2018-11-29,98101,Seattle,Washington
+174,Noah Cyrus,Music,Rock,Neptune Theatre,2018-10-22,98105,Seattle,Washington
+175,Deafheaven,Music,Rock,Neptune Theatre,2018-08-10,98105,Seattle,Washington
+176,SOB X RBE,Music,Other,Showbox at the Market,2018-10-27,98104,Seattle,Washington
+177,Minus the Bear,Music,Dance/Electronic,Showbox at the Market,2018-12-14,98104,Seattle,Washington
+178,Beach Goth Tour 2018 - The Growlers,Music,Rock,Neptune Theatre,2018-09-08,98105,Seattle,Washington
+179,Seattle Mariners vs. Baltimore Orioles,Sports,Baseball,Safeco Field,2018-09-05,98134,Seattle,Washington
+180,Tommy Emmanuel w/ Special Guest: Jerry Douglas,Music,Jazz,Moore Theatre,2018-12-05,98101,Seattle,Washington
+181,Jeff Tweedy,Music,Rock,Moore Theatre,2018-09-30,98101,Seattle,Washington
+182,Japanese Breakfast,Music,Pop,Neptune Theatre,2018-09-25,98105,Seattle,Washington
+183,Gary Numan - The Second Savage North American Tour With Nightmare Air,Music,Dance/Electronic,Neptune Theatre,2018-10-02,98105,Seattle,Washington
+184,Seattle Mariners vs. Baltimore Orioles,Sports,Baseball,Safeco Field,2018-09-04,98134,Seattle,Washington
+185,FreakNight 2018,Music,Dance/Electronic,WaMu Theater,2018-10-26,98134,Seattle,Washington
+186,Alina Baraz,Music,Dance/Electronic,Showbox at the Market,2018-10-05,98104,Seattle,Washington
+187,Seattle Mariners vs. San Diego Padres,Sports,Baseball,Safeco Field,2018-09-11,98134,Seattle,Washington
+188,Gallant,Music,R&B,Neptune Theatre,2018-11-07,98105,Seattle,Washington
+189,Hot Tuna Electric With Steve Kimock,Music,Rock,Neptune Theatre,2018-08-30,98105,Seattle,Washington
+190,Oregon State Beavers Football at Washington Huskies Football,Sports,Football,Husky Stadium-WA,2018-11-17,98195,Seattle,Washington
+191,Jorja Smith,Music,Other,Showbox SODO,2018-11-19,98134,Seattle,Washington
+192,Colorado Buffaloes Football at Washington Huskies Football,Sports,Football,Husky Stadium-WA,2018-10-20,98195,Seattle,Washington
+193,Rex Orange County,Music,Other,Showbox at the Market,2018-08-08,98104,Seattle,Washington
+194,Matthew Sweet + The Dream Syndicate,Music,Rock,Neptune Theatre,2018-10-17,98105,Seattle,Washington
+195,Bob Moses - Battle Lines Tour With Special Guest Mansionair,Music,Dance/Electronic,Neptune Theatre,2018-09-26,98105,Seattle,Washington
+196,Belly - 2018 Dove Tour,Music,Rock,Neptune Theatre,2018-08-12,98105,Seattle,Washington
+197,Henry Rollins Travel Slideshow,Music,Other,Neptune Theatre,2018-10-19,98105,Seattle,Washington
+198,Seattle Mariners vs. Texas Rangers,Sports,Baseball,Safeco Field,2018-09-27,98134,Seattle,Washington
+199,Dave Mason & Steve Cropper: Rock & Soul Revue,Music,Rock,Neptune Theatre,2018-09-19,98105,Seattle,Washington
+200,Billie Eilish,Music,Other,Showbox at the Market,2018-10-24,98104,Seattle,Washington
+201,Big Thief,Music,Rock,Neptune Theatre,2018-09-21,98105,Seattle,Washington
+202,VNV Nation,Music,Rock,Neptune Theatre,2018-12-07,98105,Seattle,Washington
+203,Garbage,Music,Alternative,Showbox SODO,2018-09-29,98134,Seattle,Washington
+204,Wild Kratts Live 2.0 - Activate Creature Power!,Arts & Theatre,Children's Theatre,Paramount Theatre,2018-09-30,98101,Seattle,Washington
+205,Joan Baez,Music,Country,Benaroya Hall,2018-11-04,98101,Seattle,Washington
+206,Pigeons Playing Ping Pong,Music,Rock,Neptune Theatre,2018-10-13,98105,Seattle,Washington
+207,Underoath,Music,Rock,Showbox SODO,2018-11-20,98134,Seattle,Washington
+208,Robyn Hitchcock & The Nashville Fabs,Music,Rock,Neptune Theatre,2018-10-05,98105,Seattle,Washington
+209,Cameron Esposito: Person Of Consequence,Arts & Theatre,Comedy,Neptune Theatre,2018-10-14,98105,Seattle,Washington
+210,Moscow Ballet's Great Russian Nutcracker,Arts & Theatre,Dance,Paramount Theatre,2018-11-08,98101,Seattle,Washington
+211,Good Charlotte,Music,Alternative,Showbox SODO,2018-11-18,98134,Seattle,Washington
+212,The Selecter & The English Beat Feat. Ranking Roger,Music,Rock,Neptune Theatre,2018-11-08,98105,Seattle,Washington
+213,Songs From The Hymnal: An Evening w/ Brian Fallon & Guest Craig Finn,Music,Rock,Neptune Theatre,2018-10-21,98105,Seattle,Washington
+214,Chris Hardwick: Id10t Tour,Arts & Theatre,Comedy,Neptune Theatre,2018-10-26,98105,Seattle,Washington
+215,4AD Welcomes Tune-Yards + U.S Girls,Music,Rock,Neptune Theatre,2018-10-23,98105,Seattle,Washington
+216,Neal Brennan - Here We Go Tour,Arts & Theatre,Comedy,Neptune Theatre,2018-08-17,98105,Seattle,Washington
+217,Geoff Tate's 30th Anniversary of Operation: Mindcrime,Music,Rock,Neptune Theatre,2018-08-29,98105,Seattle,Washington
+218,It's Me Again: An Aparna Nancherla Tour,Arts & Theatre,Comedy,Neptune Theatre,2018-09-22,98105,Seattle,Washington
+219,Gwar,Music,Rock,Showbox SODO,2018-10-15,98134,Seattle,Washington
+220,"August Greene featuring Common, Robert Glasper, Karriem Riggins",Music,Jazz,Paramount Theatre,2018-11-14,98101,Seattle,Washington
+221,Seattle Storm vs. New York Liberty,Sports,Basketball,KeyArena,2018-08-17,98109,Seattle,Washington
+222,The Legendary Ladies of Motown,Music,R&B,Moore Theatre,2018-11-10,98101,Seattle,Washington
+223,Amy Shark,Music,Pop,Neptune Theatre,2018-09-24,98105,Seattle,Washington
+224,Seattle Mariners vs. San Diego Padres,Sports,Baseball,Safeco Field,2018-09-12,98134,Seattle,Washington
+225,Gary Gulman: Must Be Nice!,Arts & Theatre,Comedy,Neptune Theatre,2018-10-20,98105,Seattle,Washington
+226,Clutch,Music,Rock,Showbox SODO,2018-10-07,98134,Seattle,Washington
+227,Gregory Alan Isakov,Music,Folk,Moore Theatre,2018-10-09,98101,Seattle,Washington
+228,Kodaline - Politics of Living US Tour,Music,Rock,Neptune Theatre,2018-11-20,98105,Seattle,Washington
+229,The Future Is 0,Arts & Theatre,Multimedia,Neptune Theatre,2018-08-18,98105,Seattle,Washington
+230,Waitress (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-09-11,98101,Seattle,Washington
+231,Lily Allen,Music,Pop,Showbox at the Market,2018-11-08,98104,Seattle,Washington
+232,Nils Frahm,Music,Rock,Moore Theatre,2019-03-12,98101,Seattle,Washington
+233,Allen Stone,Music,R&B,Neptune Theatre,2018-12-16,98105,Seattle,Washington
+234,Waitress (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-09-12,98101,Seattle,Washington
+235,Waitress (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-09-16,98101,Seattle,Washington
+236,Allen Stone,Music,R&B,Neptune Theatre,2018-12-17,98105,Seattle,Washington
+237,Waitress (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-09-15,98101,Seattle,Washington
+238,The Distillers,Music,Alternative,Showbox at the Market,2018-09-11,98104,Seattle,Washington
+239,Apple Jam: White Album 50th Anniversary Celebration,Music,Undefined,Neptune Theatre,2018-12-01,98105,Seattle,Washington
+240,FC Dallas at Seattle Sounders FC,Sports,Soccer,CenturyLink Field,2018-08-12,98134,Seattle,Washington
+241,Andy Shauf (Solo),Music,Rock,Columbia City Theater,2018-12-06,98118,Seattle,Washington
+242,Waitress (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-09-14,98101,Seattle,Washington
+243,Waitress (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-09-15,98101,Seattle,Washington
+244,Sporting Kansas City at Seattle Sounders FC,Sports,Soccer,CenturyLink Field,2018-09-01,98134,Seattle,Washington
+245,Michael Gira Solo Acoustic Performance,Music,Rock,Columbia City Theater,2018-10-05,98118,Seattle,Washington
+246,Alkaline Trio,Music,Rock,Showbox SODO,2018-10-09,98134,Seattle,Washington
+247,An Evening with Ellen Degeneres,Arts & Theatre,Comedy,Benaroya Hall - S. Mark Taper Auditorium,2018-08-21,98111,Seattle,Washington
+248,An Evening with Ellen Degeneres,Arts & Theatre,Comedy,Benaroya Hall - S. Mark Taper Auditorium,2018-08-22,98111,Seattle,Washington
+249,An Evening with Ellen Degeneres,Arts & Theatre,Comedy,Benaroya Hall - S. Mark Taper Auditorium,2018-08-23,98111,Seattle,Washington
+250,Jay Rock,Music,Hip-Hop/Rap,Neumos,2018-10-10,98122,Seattle,Washington
+251,Joe Russo's Almost Dead,Music,Blues,Showbox at the Market,2018-08-10,98104,Seattle,Washington
+252,Ski Mask the Slump God,Music,Other,Showbox at the Market,2018-08-27,98104,Seattle,Washington
+253,An Evening with Ellen Degeneres,Arts & Theatre,Undefined,Benaroya Hall,2018-08-21,98101,Seattle,Washington
+254,Ellen Degeneres,Arts & Theatre,Undefined,Benaroya Hall,2018-08-22,98101,Seattle,Washington
+255,Ellen Degeneres,Arts & Theatre,Undefined,Benaroya Hall,2018-08-23,98101,Seattle,Washington
+256,Rupi Kaur,Arts & Theatre,Performance Art,Paramount Theatre,2018-10-12,98101,Seattle,Washington
+257,Waitress (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-09-16,98101,Seattle,Washington
+258,Waitress (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-09-13,98101,Seattle,Washington
+259,On Your Feet (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-10-27,98101,Seattle,Washington
+260,On Your Feet (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-10-27,98101,Seattle,Washington
+261,Moscow Ballet's Great Russian Nutcracker,Arts & Theatre,Dance,Paramount Theatre,2018-11-09,98101,Seattle,Washington
+262,Pond,Music,Rock,Neptune Theatre,2018-10-16,98105,Seattle,Washington
+263,Ella Mai,Music,Other,Columbia City Theatre,2018-08-28,98118,Seattle,Washington
+264,National Geographic: Symphony For Our World,Arts & Theatre,Classical,Paramount Theatre,2018-12-01,98101,Seattle,Washington
+265,Eleanor Friedberger,Music,Rock,Columbia City Theater,2018-09-29,98118,Seattle,Washington
+266,Felipe Esparza: Bad Decisions Tour!,Arts & Theatre,Comedy,Moore Theatre,2018-10-26,98101,Seattle,Washington
+267,Gina Yashere,Arts & Theatre,Comedy,Neptune Theatre,2018-12-13,98105,Seattle,Washington
+268,On Your Feet (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-10-28,98101,Seattle,Washington
+269,Andy Borowitz,Arts & Theatre,Comedy,Moore Theatre,2019-01-16,98101,Seattle,Washington
+270,On Your Feet (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-10-24,98101,Seattle,Washington
+271,Trivium,Music,Rock,Showbox SODO,2018-10-29,98134,Seattle,Washington
+272,On Your Feet (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-10-23,98101,Seattle,Washington
+273,Hijas de su Madre,Arts & Theatre,Theatre,Moore Theatre,2018-09-26,98101,Seattle,Washington
+274,Yelawolf,Music,Other,Showbox at the Market,2018-08-17,98104,Seattle,Washington
+275,Between the Buried and Me,Music,Rock,Showbox SODO,2018-08-07,98134,Seattle,Washington
+276,Houston Astros at Seattle Mariners,Sports,Baseball,Safeco Field,2018-08-20,98134,Seattle,Washington
+277,Houston Astros at Seattle Mariners,Sports,Baseball,Safeco Field,2018-08-21,98134,Seattle,Washington
+278,Houston Astros at Seattle Mariners,Sports,Baseball,Safeco Field,2018-08-22,98134,Seattle,Washington
+279,Seattle Mariners,Sports,Baseball,Safeco Field,2018-11-01,98134,Seattle,Washington
+280,Seattle Mariners,Sports,Baseball,Safeco Field,2019-11-01,98134,Seattle,Washington
+281,Descendents,Music,Other,Showbox SODO,2018-10-05,98134,Seattle,Washington
+282,Andrew Bird w/ Punch Brothers,Music,Alternative,Woodland Park Zoo,2018-08-19,98101,Seattle,Washington
+283,On Your Feet (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-10-28,98101,Seattle,Washington
+284,Christine and the Queens,Music,World,Showbox SODO,2018-10-23,98134,Seattle,Washington
+285,Caspar Babypants,Music,Rock,Neptune Theatre,2018-10-27,98105,Seattle,Washington
+286,Oakland Athletics at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-24,98134,Seattle,Washington
+287,Oakland Athletics at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-25,98134,Seattle,Washington
+288,Oakland Athletics at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-26,98134,Seattle,Washington
+289,Kip Moore After The Sunburn Tour,Music,Country,Paramount Theatre,2018-11-10,98101,Seattle,Washington
+290,Petit Biscuit,Music,Other,Showbox SODO,2018-11-15,98134,Seattle,Washington
+291,Teton Gravity Research: Far Out - Brought To You By REI,Film,Action/Adventure,Neptune Theatre,2018-09-27,98105,Seattle,Washington
+292,San Jose Earthquakes at Seattle Sounders FC,Sports,Soccer,CenturyLink Field,2018-10-28,98134,Seattle,Washington
+293,On Your Feet (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-10-26,98101,Seattle,Washington
+294,Liz Phair,Music,Alternative,Showbox SODO,2018-09-18,98134,Seattle,Washington
+295,Tom Misch,Music,Rock,Showbox SODO,2018-10-13,98134,Seattle,Washington
+296,Chief Keef,Music,Hip-Hop/Rap,Neumos,2018-09-26,98122,Seattle,Washington
+297,Teton Gravity Research: Far Out - Brought To You By REI,Film,Action/Adventure,Neptune Theatre,2018-09-27,98105,Seattle,Washington
+298,Bumbershoot,Miscellaneous,Fairs & Festivals,Seattle Center Grounds,2018-08-31,98109,Seattle,Washington
+299,Comedy Club,Arts & Theatre,Comedy,Moore Theatre,2019-01-25,98101,Seattle,Washington
+300,On Your Feet (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-10-25,98101,Seattle,Washington
+301,Trombone Shorty,Music,Blues,Woodland Park Zoo,2018-09-09,98101,Seattle,Washington
+302,Beak>,Music,Rock,Columbia City Theater,2018-10-07,98118,Seattle,Washington
+303,Chief Keef,Music,Hip-Hop/Rap,Neumos,2018-09-27,98122,Seattle,Washington
+304,David Foster,Music,Other,Benaroya Hall,2018-08-12,98101,Seattle,Washington
+305,Clairo,Music,Other,Crocodile Cafe,2018-08-08,98121,Seattle,Washington
+306,Smokepurpp,Music,Hip-Hop/Rap,Showbox at the Market,2018-08-16,98104,Seattle,Washington
+307,What So Not,Music,Dance/Electronic,Neptune Theatre,2018-09-09,98105,Seattle,Washington
+308,Thee Oh Sees,Music,Alternative,Neumos,2018-10-06,98122,Seattle,Washington
+309,Pink Martini,Music,Blues,Woodland Park Zoo,2018-08-22,98101,Seattle,Washington
+310,Alina Baraz,Music,Dance/Electronic,Showbox at the Market,2018-10-06,98104,Seattle,Washington
+311,Denzel Curry,Music,Hip-Hop/Rap,Neumos,2018-09-25,98122,Seattle,Washington
+312,For King & Country,Music,Other,Moore Theatre,2018-10-27,98107,Seattle,Washington
+313,for KING & COUNTRY,Music,Rock,Moore Theatre,2018-10-27,98101,Seattle,Washington
+314,Years & Years,Music,Dance/Electronic,Showbox at the Market,2018-10-30,98104,Seattle,Washington
+315,Cat Power,Music,Country,Showbox at the Market,2018-11-17,98104,Seattle,Washington
+316,Passenger,Music,Country,Showbox at the Market,2018-10-31,98104,Seattle,Washington
+317,Cody Jinks,Music,Country,Showbox SODO,2018-08-11,98134,Seattle,Washington
+318,Hyukoh,Music,Other,Showbox at the Market,2018-10-02,98104,Seattle,Washington
+319,The Cadillac Three,Music,Country,Showbox at the Market,2018-08-22,98104,Seattle,Washington
+320,Phillip Phillips & Gavin DeGraw,Music,Pop,Woodland Park Zoo,2018-08-12,98101,Seattle,Washington
+321,Jessie J w/ Ro James,Music,Other,Showbox SODO,2018-10-06,98134,Seattle,Washington
+322,WWE Monday Night Raw,Sports,Wrestling,KeyArena,2018-10-01,98109,Seattle,Washington
+323,3OH!3 & EMO NITE: THE WANT HOUSE PARTY TOUR,Music,Rock,Neptune Theatre,2018-11-04,98105,Seattle,Washington
+324,Bumbershoot,Miscellaneous,Fairs & Festivals,Seattle Center Grounds,2018-08-31,98109,Seattle,Washington
+325,Chelsea Cutler,Music,Other,Crocodile Cafe,2018-09-20,98121,Seattle,Washington
+326,Jeremy Zucker,Music,Other,Crocodile Cafe,2018-10-08,98121,Seattle,Washington
+327,Bumbershoot,Miscellaneous,Fairs & Festivals,Seattle Center Grounds,2018-09-02,98109,Seattle,Washington
+328,Thee Oh Sees,Music,Alternative,Neumos,2018-10-07,98122,Seattle,Washington
+329,Phosphorescent With Special Guest Liz Cooper And The Stampede,Music,Rock,Neptune Theatre,2018-11-21,98105,Seattle,Washington
+330,Philadelphia Union at Seattle Sounders FC,Sports,Soccer,CenturyLink Field,2018-09-19,98134,Seattle,Washington
+331,Danzig,Music,Rock,Showbox SODO,2018-10-25,98134,Seattle,Washington
+332,Lil Xan,Music,Other,Showbox SODO,2018-11-10,98134,Seattle,Washington
+333,Monster Energy Outbreak Tour Presents: Lil Xan - Total Xanarchy,Music,Hip-Hop/Rap,Showbox SoDo,2018-11-10,98134,Seattle,Washington
+334,Behemoth,Music,Rock,Showbox at the Market,2018-11-20,98104,Seattle,Washington
+335,Jim Brickman,Music,Blues,Benaroya Hall,2018-12-01,98101,Seattle,Washington
+336,Fear,Music,Hip-Hop/Rap,Showbox at the Market,2018-08-25,98104,Seattle,Washington
+337,Houston Dynamo at Seattle Sounders FC,Sports,Soccer,CenturyLink Field,2018-10-08,98134,Seattle,Washington
+338,Parquet Courts,Music,Rock,Showbox at the Market,2018-09-23,98104,Seattle,Washington
+339,E-40,Music,Hip-Hop/Rap,Showbox at the Market,2018-09-19,98104,Seattle,Washington
+340,Beartooth w/ Knocked Loose,Music,Rock,Showbox SODO,2018-11-07,98134,Seattle,Washington
+341,Minus the Bear,Music,Dance/Electronic,Showbox at the Market,2018-12-15,98104,Seattle,Washington
+342,Minus the Bear,Music,Dance/Electronic,Showbox at the Market,2018-12-16,98104,Seattle,Washington
+343,Nothing But Thieves,Music,Other,Showbox at the Market,2018-09-22,98104,Seattle,Washington
+344,Sawyer Fredericks,Music,Country,Crocodile Cafe,2018-08-11,98121,Seattle,Washington
+345,Poppy w/ Kailee Morgue,Music,Other,Showbox at the Market,2018-10-26,98104,Seattle,Washington
+346,Colorado Rapids at Seattle Sounders FC,Sports,Soccer,CenturyLink Field,2018-09-29,98134,Seattle,Washington
+347,Eric Hutchinson,Music,Pop,Neumos,2018-11-06,98122,Seattle,Washington
+348,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-09,98104,Seattle,Washington
+349,Best of Seattle Comedy Competition,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-05,98104,Seattle,Washington
+350,Call Backs,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-07,98104,Seattle,Washington
+351,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-08,98104,Seattle,Washington
+352,Open Mic,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-06,98104,Seattle,Washington
+353,"Via Combusta, the Evanstones, the Viking Surfers",Music,Rock,Sunset Tavern,2018-08-09,98107,Seattle,Washington
+354,Kaimi Hananoeau,Music,Reggae,Hard Rock Cafe - Seattle,2018-08-06,98101,Seattle,Washington
+355,Kaimi Hananoeau,Music,Reggae,Hard Rock Cafe - Seattle,2018-08-05,98101,Seattle,Washington
+356,"STG Presents: Givers, Naughty Palace",Music,Rock,Sunset Tavern,2018-08-08,98107,Seattle,Washington
+357,Stereo Embers W/ Danny Newcomb & the Sugarmakers + Kim Virant,Music,Other,Tractor Tavern,2018-08-09,98107,Seattle,Washington
+358,DJ Quik & Suga Free (Performing Rhythm-Al-Ism In Its Entirety),Music,Hip-Hop/Rap,El Corazon,2018-08-08,98109,Seattle,Washington
+359,"Goldbones, of the Heavy Sun, Asterhouse, Wrthless",Music,Rock,Sunset Tavern,2018-08-05,98107,Seattle,Washington
+360,The Tractor Presents: Valley Queen with Racoma At the Sunset,Music,Rock,Sunset Tavern,2018-08-07,98107,Seattle,Washington
+361,Shinyribs W/ Baby Gramps,Music,Other,Tractor Tavern,2018-08-05,98107,Seattle,Washington
+362,Tractor Tavern + Kexp the Roadhouse Presents: Daniel Norgren and Phil,Music,Folk,Tractor Tavern,2018-08-08,98107,Seattle,Washington
+363,Tractor Tavern + Kexp the Roadhouse Presents: Daniel Norgren and Phil,Music,Folk,Tractor Tavern,2018-08-07,98107,Seattle,Washington
+364,Nick Mulvey W/ Ida Mae,Music,Rock,Tractor Tavern,2018-08-06,98107,Seattle,Washington
+365,Immortal Technique,Music,Hip-Hop/Rap,Neumos,2018-08-07,98122,Seattle,Washington
+366,DJ Quik w/ suga free,Music,Dance/Electronic,El Corazon,2018-08-08,98109,Seattle,Washington
+367,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-10,98104,Seattle,Washington
+368,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-10,98104,Seattle,Washington
+369,The Best 80's Party Ever (So Far) FT Nite Wave + Voyager,Music,Metal,Tractor Tavern,2018-08-10,98107,Seattle,Washington
+370,Kristin Key,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-04,98104,Seattle,Washington
+371,Kristin Key,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-04,98104,Seattle,Washington
+372,Dain Norman and the Chrysalis Effect with Face the Sun & Luca Mar,Music,Rock,Hard Rock Cafe - Seattle,2018-08-10,98101,Seattle,Washington
+373,I Am Infamy / No Such Season / Within Sight / Anchor Point / Noctium,Music,Rock,Hard Rock Cafe - Seattle,2018-08-04,98101,Seattle,Washington
+374,"Summer Cannibals, Tres Leches, Dryland",Music,Rock,Sunset Tavern,2018-08-04,98107,Seattle,Washington
+375,"Lorna Rousseau, Jupe Jupe , Intisaar",Music,Rock,Sunset Tavern,2018-08-10,98107,Seattle,Washington
+376,Rebirth Brass Band,Music,Jazz,Tractor Tavern,2018-08-04,98107,Seattle,Washington
+377,Rebirth Brass Band,Music,Jazz,Tractor Tavern,2018-08-04,98107,Seattle,Washington
+378,The Cave Singers,Music,Other,Neumos,2018-08-10,98122,Seattle,Washington
+379,Timber Timbre,Music,Other,Barboza,2018-08-10,98122,Seattle,Washington
+380,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-11,98104,Seattle,Washington
+381,"Spinning Whips, Sweet Jesus, Garden Chat",Music,Rock,Sunset Tavern,2018-08-11,98107,Seattle,Washington
+382,The Sunset Grooves & Rain City Rewind,Music,Pop,Hard Rock Cafe - Seattle,2018-08-11,98101,Seattle,Washington
+383,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-11,98104,Seattle,Washington
+384,American Aquarium W/ Jaime Wyatt,Music,Rock,Tractor Tavern,2018-08-11,98107,Seattle,Washington
+385,Black Happy,Music,Other,Showbox at the Market,2018-08-11,98104,Seattle,Washington
+386,Seattle Opera w/ Porgy and Bess,Arts & Theatre,Miscellaneous,McCaw Hall,2018-08-11,98109,Seattle,Washington
+387,Timber Timbre,Music,Other,Barboza,2018-08-11,98122,Seattle,Washington
+388,Charley Crockett,Music,Blues,Sunset Tavern,2018-08-12,98107,Seattle,Washington
+389,River Whyless W/ Adam Torres,Music,Rock,Tractor Tavern,2018-08-12,98107,Seattle,Washington
+390,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-12,98104,Seattle,Washington
+391,Tractor Tavern Flea Market,Miscellaneous,Community/Civic,Tractor Tavern,2018-08-12,98107,Seattle,Washington
+392,Seattle Opera w/ Porgy and Bess,Arts & Theatre,Miscellaneous,McCaw Hall,2018-08-12,98109,Seattle,Washington
+393,Dylan Carlson,Music,Other,Barboza,2018-08-12,98122,Seattle,Washington
+394,Hop Along,Music,Country,Neumos,2018-08-12,98122,Seattle,Washington
+395,Open Mic,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-13,98104,Seattle,Washington
+396,"The Normalcy Bias, the Spill, First Hill",Music,Rock,Sunset Tavern,2018-08-13,98107,Seattle,Washington
+397,Cody Canada & the Departed W/ Darin Jones and the Last Man Standing,Music,Rock,Tractor Tavern,2018-08-14,98107,Seattle,Washington
+398,"Oceans Fade, Noonmoon, Claire Michelle",Music,Dance/Electronic,Sunset Tavern,2018-08-14,98107,Seattle,Washington
+399,Call Backs,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-14,98104,Seattle,Washington
+400,OTEP,Music,Rock,El Corazon,2018-08-14,98109,Seattle,Washington
+401,91.3 KBCS Presents: Grateful Shred W/ Very Special Guest Mapache,Music,Folk,Tractor Tavern,2018-08-15,98107,Seattle,Washington
+402,"The Nightowls, Doug Hood & the Highsteppers",Music,R&B,Sunset Tavern,2018-08-15,98107,Seattle,Washington
+403,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-15,98104,Seattle,Washington
+404,Chicago Red Stars at Seattle Reign FC,Sports,Miscellaneous,Seattle Memorial Stadium,2018-08-15,98109,Seattle,Washington
+405,AJJ,Music,Rock,Neumos,2018-08-15,98122,Seattle,Washington
+406,Seattle Opera w/ Porgy and Bess,Arts & Theatre,Miscellaneous,McCaw Hall,2018-08-15,98109,Seattle,Washington
+407,CKY,Music,Alternative,Studio Seven,2018-08-15,98134,Seattle,Washington
+408,Andrew Schultz,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-16,98104,Seattle,Washington
+409,Dodgy Mountain Men W/ the Hasslers & Last Chance Family Band,Music,Folk,Tractor Tavern,2018-08-16,98107,Seattle,Washington
+410,"Hi Crime, the Bailey Range, Monitor",Music,Pop,Sunset Tavern,2018-08-16,98107,Seattle,Washington
+411,The Flavr Blue,Music,Other,Neumos,2018-08-16,98122,Seattle,Washington
+412,Drake White W/ Dylan Jakobsen,Music,Country,Tractor Tavern,2018-08-17,98107,Seattle,Washington
+413,"My Brothers and I, Dylan Dunlap, Ezra Bell",Music,Rock,Sunset Tavern,2018-08-17,98107,Seattle,Washington
+414,Bryan Kellen,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-17,98104,Seattle,Washington
+415,Bryan Kellen,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-17,98104,Seattle,Washington
+416,Ohgr,Music,Other,El Corazon,2018-08-17,98109,Seattle,Washington
+417,The Flavr Blue,Music,Other,Neumos,2018-08-17,98122,Seattle,Washington
+418,Seattle Opera w/ Porgy and Bess,Arts & Theatre,Miscellaneous,McCaw Hall,2018-08-17,98109,Seattle,Washington
+419,New Wave Tribute Night: for the Masses (Depeche Mode) & Blood Flowers,Music,Other,Tractor Tavern,2018-08-18,98107,Seattle,Washington
+420,"Vicious Petals, Super Sparkle, Crystal",Music,Rock,Sunset Tavern,2018-08-18,98107,Seattle,Washington
+421,Bryan Kellen,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-18,98104,Seattle,Washington
+422,Bryan Kellen,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-18,98104,Seattle,Washington
+423,Seattle Opera w/ Porgy and Bess,Arts & Theatre,Miscellaneous,McCaw Hall,2018-08-18,98109,Seattle,Washington
+424,Kexpã¢ÂÂS Swingin Doors Presents: Jason Eady W/ Courtney Patton,Music,Rock,Tractor Tavern,2018-08-19,98107,Seattle,Washington
+425,"Soultanz, Gypsy Temple, the Boards",Music,R&B,Sunset Tavern,2018-08-19,98107,Seattle,Washington
+426,Bryan Kellen,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-19,98104,Seattle,Washington
+427,Jeff Rosenstock,Music,Other,Neumos,2018-08-19,98122,Seattle,Washington
+428,Seattle Opera w/ Porgy and Bess,Arts & Theatre,Miscellaneous,McCaw Hall,2018-08-19,98109,Seattle,Washington
+429,Open Mic,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-20,98104,Seattle,Washington
+430,Powerglove,Music,Other,El Corazon,2018-08-20,98109,Seattle,Washington
+431,"Aromatics, Rell Be Free, Smooth Richard, Mojo Barnes",Music,Rock,Sunset Tavern,2018-08-21,98107,Seattle,Washington
+432,The Suitcase Junket W/ Mandy Fer and Dave MC Graw Band,Music,Folk,Tractor Tavern,2018-08-21,98107,Seattle,Washington
+433,Call Backs,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-21,98104,Seattle,Washington
+434,Houston Dash at Seattle Reign FC,Sports,Miscellaneous,Seattle Memorial Stadium,2018-08-21,98109,Seattle,Washington
+435,Rooney,Music,Alternative,Crocodile Cafe,2018-08-21,98121,Seattle,Washington
+436,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-22,98104,Seattle,Washington
+437,"The Sea the Sea W/ Ezza Rose, Navid Eliot, Nathaniel Talbot",Music,Rock,Tractor Tavern,2018-08-22,98107,Seattle,Washington
+438,Tractor & the Roadhouse On Kexp Present: a Night W/ Andrew Combs + Liz,Music,Country,Sunset Tavern,2018-08-22,98107,Seattle,Washington
+439,Ataris,Music,Alternative,El Corazon,2018-08-22,98109,Seattle,Washington
+440,Boris,Music,Other,Neumos,2018-08-22,98122,Seattle,Washington
+441,Seattle Opera w/ Porgy and Bess,Arts & Theatre,Miscellaneous,McCaw Hall,2018-08-22,98109,Seattle,Washington
+442,PETE GEORGE,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-23,98104,Seattle,Washington
+443,Chris King & the Gutterballs W/ Zachary Warnes & Antonioni,Music,Rock,Tractor Tavern,2018-08-23,98107,Seattle,Washington
+444,"Mind Beams, Hel Mary, Greet the Sea",Music,Rock,Sunset Tavern,2018-08-23,98107,Seattle,Washington
+445,Sera Cahoone,Music,Other,Neumos,2018-08-23,98122,Seattle,Washington
+446,Washed In Black,Music,Other,El Corazon,2018-08-23,98109,Seattle,Washington
+447,Pink Martini,Music,Blues,Woodland Park Zoo,2018-08-23,98101,Seattle,Washington
+448,PETE GEORGE,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-24,98104,Seattle,Washington
+449,PETE GEORGE,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-24,98104,Seattle,Washington
+450,Seth Newton & Matt McAndrew of the Voice,Music,Rock,Hard Rock Cafe - Seattle,2018-08-24,98101,Seattle,Washington
+451,Kexp & Monqui Present: Pure Bathing Culture W/Cataldo and Kacey Johans,Music,Rock,Tractor Tavern,2018-08-24,98107,Seattle,Washington
+452,"Whitney Ballen, Snuff Redux, Big Buddy",Music,Rock,Sunset Tavern,2018-08-24,98107,Seattle,Washington
+453,Seattle Opera w/ Porgy and Bess,Arts & Theatre,Miscellaneous,McCaw Hall,2018-08-24,98109,Seattle,Washington
+454,PETE GEORGE,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-25,98104,Seattle,Washington
+455,PETE GEORGE,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-25,98104,Seattle,Washington
+456,Custom with Guilty Smoke & Forsaken Fortress,Music,Rock,Hard Rock Cafe - Seattle,2018-08-25,98101,Seattle,Washington
+457,"Old Coast, Maltby, KT Neely",Music,Rock,Sunset Tavern,2018-08-25,98107,Seattle,Washington
+458,North Carolina Courage at Seattle Reign FC,Sports,Miscellaneous,Seattle Memorial Stadium,2018-08-25,98109,Seattle,Washington
+459,Bad Bad Hats,Music,Other,Barboza,2018-08-25,98122,Seattle,Washington
+460,Seattle Opera w/ Porgy and Bess,Arts & Theatre,Miscellaneous,McCaw Hall,2018-08-25,98109,Seattle,Washington
+461,Sales,Music,Other,Neumos,2018-08-25,98122,Seattle,Washington
+462,PETE GEORGE,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-26,98104,Seattle,Washington
+463,Greg Brown,Music,Folk,Tractor Tavern,2018-08-26,98107,Seattle,Washington
+464,"X Suns, You May Die In the Desert, a Collective Subconscious, Gazelles",Music,Metal,Sunset Tavern,2018-08-26,98107,Seattle,Washington
+465,Seattle University Redhawks Womens Soccer vs. Cal State Fullerton Titans Women's Soccer,Sports,Soccer,Seattle University Championship Field,2018-08-26,98122,Seattle,Washington
+466,Open Mic,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-27,98104,Seattle,Washington
+467,"Dean, Chris Acker and the Growing Boys, Kassi Valazza",Music,Rock,Sunset Tavern,2018-08-27,98107,Seattle,Washington
+468,Call Backs,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-28,98104,Seattle,Washington
+469,Alex Dunn W/ the Bruised Hearts Revue & Shakey Blankets,Music,Folk,Tractor Tavern,2018-08-28,98107,Seattle,Washington
+470,"Strawberry Mountain, La Fille, Meanderthals",Music,Pop,Sunset Tavern,2018-08-28,98107,Seattle,Washington
+471,Seattle's Best,Arts & Theatre,Comedy,Comedy Underground - Seattle,2018-08-29,98104,Seattle,Washington
+472,"Don Forgetti, Proud Dad, the Hop Monsters",Music,Rock,Sunset Tavern,2018-08-29,98107,Seattle,Washington
+473,Moon Dial (Release) W/ Cloud Person & Carina Lewis,Music,R&B,Tractor Tavern,2018-08-29,98107,Seattle,Washington
+474,MPG,Music,Other,Neumos,2018-08-29,98122,Seattle,Washington
+475,"Tobias the Owl, Brianna Skye the Dark Clouds, Dearly Departed",Music,Rock,Sunset Tavern,2018-08-30,98107,Seattle,Washington
+476,The Mondegreens W/ Coach Phillips & Racoma,Music,Rock,Tractor Tavern,2018-08-30,98107,Seattle,Washington
+477,Northwest Psych Fest: Day 1,Music,Rock,Sunset Tavern,2018-08-31,98107,Seattle,Washington
+478,American Standard Time Presents: Motopony W/ Cedar Teeth & Cold Soda,Music,Rock,Tractor Tavern,2018-08-31,98107,Seattle,Washington
+479,PAX West,Miscellaneous,Fairs & Festivals,Washington State Convention Center,2018-08-31,98101,Seattle,Washington
+480,Sloppy Seconds,Music,Other,El Corazon,2018-08-31,98109,Seattle,Washington
+481,Seattle University Redhawks Mens Soccer vs. Cal Poly Mustangs Men's Soccer,Sports,Soccer,Seattle University Championship Field,2018-08-31,98122,Seattle,Washington
+482,"Cold Comfort (Release) the Regrets, the Landmarks, Bad Saint",Music,Rock,Tractor Tavern,2018-09-01,98107,Seattle,Washington
+483,Northwest Psych Fest: Day 2,Music,Rock,Sunset Tavern,2018-09-01,98107,Seattle,Washington
+484,Bumbershoot,Miscellaneous,Fairs & Festivals,Seattle Center Grounds,2018-09-01,98109,Seattle,Washington
+485,PAX West,Miscellaneous,Fairs & Festivals,Washington State Convention Center,2018-09-01,98101,Seattle,Washington
+486,"The Crocodile Presents: Chris Shiflett (Of Foo Fighters), the Royal Ou",Music,Rock,Sunset Tavern,2018-09-02,98107,Seattle,Washington
+487,PAX West,Miscellaneous,Fairs & Festivals,Washington State Convention Center,2018-09-02,98101,Seattle,Washington
+488,Seattle University Redhawks Womens Soccer vs. Portland State Vikings Womens Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-02,98122,Seattle,Washington
+489,Seattle University Redhawks Mens Soccer vs. UC Santa Barbara Gauchos Men's Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-02,98122,Seattle,Washington
+490,"Haunted Summer, Gold Casio, Trick Candles",Music,Rock,Sunset Tavern,2018-09-04,98107,Seattle,Washington
+491,The Exploited,Music,Other,El Corazon,2018-09-04,98109,Seattle,Washington
+492,"RGK + the Alternative Facts, Hillside '77, Fosphene",Music,Rock,Sunset Tavern,2018-09-05,98107,Seattle,Washington
+493,Joe Pug,Music,Rock,Tractor Tavern,2018-09-05,98107,Seattle,Washington
+494,"Sus, Remember Face, Blossom, SXLXMXN",Music,Rock,Sunset Tavern,2018-09-06,98107,Seattle,Washington
+495,Matt Mays,Music,Rock,Tractor Tavern,2018-09-06,98107,Seattle,Washington
+496,Mushroomhead w/ Powerman 5000,Music,Dance/Electronic,El Corazon,2018-09-06,98109,Seattle,Washington
+497,The Roadhouse On Kexp Presents: Rayland Baxter W/ Skyway Man,Music,Blues,Tractor Tavern,2018-09-07,98107,Seattle,Washington
+498,Paul Revere's Raiders with Special Guest Jackson Haney,Music,Rock,Hard Rock Cafe - Seattle,2018-09-07,98101,Seattle,Washington
+499,"Ruler, Echo Slur, Bruce",Music,Rock,Sunset Tavern,2018-09-07,98107,Seattle,Washington
+500,Seattle University Redhawks Mens Soccer vs. University of Akron Zips Men's Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-07,98122,Seattle,Washington
+501,Seattle University Redhawks Womens Soccer vs. Uc Riverside Highlanders Women's Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-07,98122,Seattle,Washington
+502,Micky & the Motorcars W/ Darci Carlson & the Lowdown Drifters,Music,Rock,Tractor Tavern,2018-09-08,98107,Seattle,Washington
+503,Arisen From Nothing / American Wrecking Company / Method 13 / Jesus We,Music,Metal,Hard Rock Cafe - Seattle,2018-09-08,98101,Seattle,Washington
+504,Limberlost,Music,Other,El Corazon,2018-09-08,98109,Seattle,Washington
+505,Dirtface / Shitty Person PNW Tour 2018 W Von Wildenhaus,Music,Rock,Tractor Tavern,2018-09-09,98107,Seattle,Washington
+506,"Rivvrs, Paul McDonald, Guests",Music,Rock,Sunset Tavern,2018-09-09,98107,Seattle,Washington
+507,Seattle University Redhawks Mens Soccer vs. CSUN Mens Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-09,98122,Seattle,Washington
+508,Seattle University Redhawks Womens Soccer vs. Cal Poly Mustangs Women's Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-09,98122,Seattle,Washington
+509,"D. Mikey, Micstro, Dave Byrd, Justis Scales",Music,Hip-Hop/Rap,Sunset Tavern,2018-09-11,98107,Seattle,Washington
+510,hed pe,Music,Rock,El Corazon,2018-09-12,98109,Seattle,Washington
+511,Honne,Music,Other,Showbox at the Market,2018-09-12,98104,Seattle,Washington
+512,Patrick Sweany W/ Betsy Olson Band,Music,Blues,Tractor Tavern,2018-09-13,98107,Seattle,Washington
+513,"Summer Heart, Buhu, Peyote Ugly",Music,Pop,Sunset Tavern,2018-09-13,98107,Seattle,Washington
+514,Brent Faiyaz,Music,Other,Columbia City Theatre,2018-09-13,98118,Seattle,Washington
+515,Seattle University Redhawks Womens Soccer vs. University of Idaho Vandals Womens Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-13,98122,Seattle,Washington
+516,God Module & Murder Weapons with Die Robot & Pill Brigade,Music,Metal,Hard Rock Cafe - Seattle,2018-09-14,98101,Seattle,Washington
+517,"Take Warning Presents: Lincoln Durham, Guests",Music,Country,Sunset Tavern,2018-09-14,98107,Seattle,Washington
+518,"Kexp Presents: True Loves W/ the Witness, & Bakelite 78",Music,Rock,Tractor Tavern,2018-09-14,98107,Seattle,Washington
+519,Kexp Presents: the True Loves Both Shows,Music,R&B,Tractor Tavern,2018-09-14,98107,Seattle,Washington
+520,Chris Lake,Music,Other,Showbox at the Market,2018-09-14,98104,Seattle,Washington
+521,Slaughter Beach,Music,Other,Neumos,2018-09-14,98122,Seattle,Washington
+522,El Ten Eleven,Music,Alternative,Crocodile Cafe,2018-09-14,98121,Seattle,Washington
+523,Redhawk Invitational- Seattle U v Tennessee Tech,Sports,Volleyball,Seattle University Redhawk Center,2018-09-14,98122,Seattle,Washington
+524,Redhawk Invitational Seattle U v Montana State,Sports,Volleyball,Seattle University Redhawk Center,2018-09-14,98122,Seattle,Washington
+525,Kexp Pressents: True Loves W/ the Black Tones & High Pulp,Music,Rock,Tractor Tavern,2018-09-15,98107,Seattle,Washington
+526,Obscura,Music,Other,El Corazon,2018-09-15,98109,Seattle,Washington
+527,The Vamps,Music,Other,Showbox at the Market,2018-09-15,98104,Seattle,Washington
+528,Redhawk Invitational Seattle U v Idaho State,Sports,Volleyball,Seattle University Redhawk Center,2018-09-15,98122,Seattle,Washington
+529,"Steeltoe Metronome, X-Ray, Mostly Ghost",Music,Rock,Sunset Tavern,2018-09-16,98107,Seattle,Washington
+530,"UB40 Legends Ali, Astro and Mickey",Music,Other,Benaroya Hall,2018-09-16,98101,Seattle,Washington
+531,Murder By Death w/ J Roddy Walston,Music,Alternative,Showbox at the Market,2018-09-16,98104,Seattle,Washington
+532,Seattle University Redhawks Womens Soccer vs. University of Washington Huskies Women's Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-16,98122,Seattle,Washington
+533,"Ancient River, Dusty, Yeah No Totally",Music,Rock,Sunset Tavern,2018-09-17,98107,Seattle,Washington
+534,Houndmouth,Music,Country,Showbox at the Market,2018-09-17,98104,Seattle,Washington
+535,Toe,Music,Pop,Crocodile Cafe,2018-09-17,98121,Seattle,Washington
+536,Alestorm,Music,Other,El Corazon,2018-09-17,98109,Seattle,Washington
+537,Al Di Meola,Music,Blues,Benaroya Hall,2018-09-18,98101,Seattle,Washington
+538,"The Finger Guns, Meekin Pop, Ronald Reagan Overdrive (Dead Kennedy's T",Music,Rock,Sunset Tavern,2018-09-19,98107,Seattle,Washington
+539,Lost Dog Street Band W/ Matt Heckler and Guests,Music,Country,Tractor Tavern,2018-09-19,98107,Seattle,Washington
+540,Kexp Presents: John Doe Folk Trio,Music,Folk,Tractor Tavern,2018-09-20,98107,Seattle,Washington
+541,"Noise for the Needy Presents: Shrimps, Savak, Hurry Up",Music,Rock,Sunset Tavern,2018-09-21,98107,Seattle,Washington
+542,Kexp Presents: Black Joe Lewis & the Honeybears W/ Paul Cherry,Music,Rock,Tractor Tavern,2018-09-21,98107,Seattle,Washington
+543,The Early November,Music,Alternative,El Corazon,2018-09-21,98109,Seattle,Washington
+544,Seattle University Redhawks Womens Soccer vs. Gonzaga University Bulldogs Womens Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-21,98122,Seattle,Washington
+545,Carbon Leaf,Music,Alternative,Crocodile Cafe,2018-09-22,98121,Seattle,Washington
+546,Jon Hopkins,Music,Other,Neumos,2018-09-22,98122,Seattle,Washington
+547,"Gringo Star, Autogramm, Golden Idols",Music,Rock,Sunset Tavern,2018-09-23,98107,Seattle,Washington
+548,Carbon Leaf,Music,Alternative,Triple Door,2018-09-23,98101,Seattle,Washington
+549,George Winston,Music,Other,Benaroya Hall,2018-09-23,98101,Seattle,Washington
+550,"The Soft White Sixties, Guests",Music,Rock,Sunset Tavern,2018-09-24,98107,Seattle,Washington
+551,The National Parks W/ Guests,Music,Folk,Tractor Tavern,2018-09-24,98107,Seattle,Washington
+552,The Presets,Music,Other,Neumos,2018-09-24,98122,Seattle,Washington
+553,The Tractor Presents: No BS! Brass Band W/ Bad News Botanists At the S,Music,Jazz,Sunset Tavern,2018-09-25,98107,Seattle,Washington
+554,Chelsea Wolfe,Music,Rock,Showbox at the Market,2018-09-25,98104,Seattle,Washington
+555,Ryley Walker,Music,Other,Sunset Tavern,2018-09-26,98107,Seattle,Washington
+556,Kexp Presents: Jonathan Wilson W/ William Tyler,Music,Rock,Tractor Tavern,2018-09-26,98107,Seattle,Washington
+557,Never Shout Never,Music,Pop,Crocodile Cafe,2018-09-26,98121,Seattle,Washington
+558,Angra,Music,Rock,El Corazon,2018-09-26,98109,Seattle,Washington
+559,Bryan John Appleby W/ Tomten & Baby Jessica,Music,Folk,Tractor Tavern,2018-09-27,98107,Seattle,Washington
+560,Sold Out!! Dave Alvin and Jimmie Dale Gilmore (Backed By the Guilty O,Music,Rock,Tractor Tavern,2018-09-28,98107,Seattle,Washington
+561,Lucy Spraggan,Music,Other,Barboza,2018-09-28,98122,Seattle,Washington
+562,Dodie Clark,Music,Other,Showbox at the Market,2018-09-28,98104,Seattle,Washington
+563,Seattle University Redhawks Womens Soccer vs. California Baptist Lancers-Women's Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-28,98122,Seattle,Washington
+564,Conrad Sewell,Music,Other,Barboza,2018-09-29,98122,Seattle,Washington
+565,Agnes Obel,Music,Alternative,Showbox at the Market,2018-09-29,98104,Seattle,Washington
+566,The Coronas,Music,Other,Crocodile Cafe,2018-09-29,98121,Seattle,Washington
+567,Shonen Knife W/ Ichi Bichi,Music,Rock,Tractor Tavern,2018-09-30,98107,Seattle,Washington
+568,The Boxer Rebellion,Music,Other,Crocodile Cafe,2018-09-30,98121,Seattle,Washington
+569,Gabriel Royal,Music,Other,Benaroya Hall,2018-09-30,98101,Seattle,Washington
+570,Seattle University Redhawks Womens Soccer vs. Grand Canyon Womens Soccer,Sports,Soccer,Seattle University Championship Field,2018-09-30,98122,Seattle,Washington
+571,The Tractor Presents: Van William W/ Allie Crow Buckley At the Sunset,Music,Rock,Sunset Tavern,2018-10-01,98107,Seattle,Washington
+572,"Take Warning Presents: the Weeks, Hard, Guests",Music,Rock,Sunset Tavern,2018-10-02,98107,Seattle,Washington
+573,Dying Fetus w/ Incantation,Music,Other,El Corazon,2018-10-02,98109,Seattle,Washington
+574,blessthefall,Music,Rock,Crocodile Cafe,2018-10-02,98121,Seattle,Washington
+575,Max Richter,Arts & Theatre,Classical,Moore Theatre,2018-10-02,98101,Seattle,Washington
+576,Flight Facilities,Music,Dance/Electronic,Showbox at the Market,2018-10-03,98104,Seattle,Washington
+577,Graham Bonnet,Music,Other,El Corazon,2018-10-03,98109,Seattle,Washington
+578,The Crocodile Presents: the Stone Foxes W/ Tango Alpha Tango,Music,Rock,Tractor Tavern,2018-10-04,98107,Seattle,Washington
+579,The Vaccines,Music,Other,Crocodile Cafe,2018-10-04,98121,Seattle,Washington
+580,Max,Music,Other,Neumos,2018-10-04,98122,Seattle,Washington
+581,Seattle University Redhawks Womens Volleyball vs. Utah Valley University Wolverines Womens Volleyball,Sports,Volleyball,Seattle University Redhawk Center,2018-10-04,98122,Seattle,Washington
+582,Too Many Zooz,Music,Rock,Tractor Tavern,2018-10-05,98107,Seattle,Washington
+583,Dead Sara,Music,Other,Barboza,2018-10-05,98122,Seattle,Washington
+584,Too Many Zooz,Music,Other,Tractor Tavern,2018-10-05,98107,Seattle,Washington
+585,Seattle University Redhawks Mens Soccer vs. UNLV Rebels Men's Soccer,Sports,Soccer,Seattle University Championship Field,2018-10-05,98122,Seattle,Washington
+586,"The Crocodile Presents: Idles, Bambara, Guests",Music,Rock,Sunset Tavern,2018-10-06,98107,Seattle,Washington
+587,Shellac W/ Buke & Gase,Music,Rock,Tractor Tavern,2018-10-06,98107,Seattle,Washington
+588,Tigers Jaw,Music,Other,Crocodile Cafe,2018-10-06,98121,Seattle,Washington
+589,Shellac W/ Buke & Gase,Music,Rock,Tractor Tavern,2018-10-07,98107,Seattle,Washington
+590,Sons of Kemet,Music,Other,Barboza,2018-10-07,98122,Seattle,Washington
+591,The Buttertones,Music,Other,Crocodile Cafe,2018-10-07,98121,Seattle,Washington
+592,Seattle University Redhawks Mens Soccer vs. Grand Canyon Men's Soccer,Sports,Soccer,Seattle University Championship Field,2018-10-07,98122,Seattle,Washington
+593,Seattle University Redhawks Womens Soccer vs. Chicago State Women's Soccer,Sports,Soccer,Seattle University Championship Field,2018-10-07,98122,Seattle,Washington
+594,"The Crocodile Presents: Cut Worms, Michael Rault, Guests",Music,Rock,Sunset Tavern,2018-10-08,98107,Seattle,Washington
+595,Ty Segall,Music,Other,Neumos,2018-10-08,98122,Seattle,Washington
+596,Glorietta Feat. Jason Robert Blum Noah Gundersen Adrian Quesada David,Music,Folk,Tractor Tavern,2018-10-09,98107,Seattle,Washington
+597,Ghostland Observatory w/ Gibbz,Music,Other,Showbox at the Market,2018-10-09,98104,Seattle,Washington
+598,Zeal and Ardor,Music,Other,Neumos,2018-10-09,98122,Seattle,Washington
+599,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-09,98101,Seattle,Washington
+600,St. Lucia,Music,Alternative,Showbox at the Market,2018-10-10,98104,Seattle,Washington
+601,Monster Magnet w/ Electric Citizen,Music,Rock,El Corazon,2018-10-10,98109,Seattle,Washington
+602,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-10,98101,Seattle,Washington
+603,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-11,98101,Seattle,Washington
+604,Strung Out,Music,Other,Showbox at the Market,2018-10-11,98104,Seattle,Washington
+605,Seattle University Redhawks Volleyball v Cal Baptist Lancers,Sports,Volleyball,Seattle University Redhawk Center,2018-10-11,98122,Seattle,Washington
+606,Tractor Presents: Michael Nau & the Mighty Thread (Cotton Jones) W/ Er,Music,Folk,Sunset Tavern,2018-10-12,98107,Seattle,Washington
+607,Dale Watson W/ Wayne the Train Hancock,Music,Country,Tractor Tavern,2018-10-12,98107,Seattle,Washington
+608,Whethan,Music,Other,Showbox SODO,2018-10-12,98134,Seattle,Washington
+609,Car Seat Headrest w/ Naked Giants,Music,Alternative,Showbox at the Market,2018-10-12,98104,Seattle,Washington
+610,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-12,98101,Seattle,Washington
+611,Ballard High School 30th Reunion for Classes of 88/89,Miscellaneous,Community/Civic,Sunset Tavern,2018-10-13,98107,Seattle,Washington
+612,Jain,Music,Other,Neumos,2018-10-13,98122,Seattle,Washington
+613,Car Seat Headrest w/ Naked Giants,Music,Alternative,Showbox at the Market,2018-10-13,98104,Seattle,Washington
+614,The Turn of the Screw w/ Seattle Opera,Arts & Theatre,Miscellaneous,McCaw Hall,2018-10-13,98109,Seattle,Washington
+615,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-13,98101,Seattle,Washington
+616,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-13,98101,Seattle,Washington
+617,Seattle University Redhawks Mens Soccer vs. Cal State Bakersfield Roadrunners Mens Soccer,Sports,Soccer,Seattle University Championship Field,2018-10-13,98122,Seattle,Washington
+618,Seattle University Redhawks Womens Volleyball vs. Umkc Women's Volleyball,Sports,Volleyball,Seattle University Redhawk Center,2018-10-13,98122,Seattle,Washington
+619,Snap Judgment,Arts & Theatre,Theatre,Moore Theatre,2018-10-13,98101,Seattle,Washington
+620,"Mystic Braves, the Creation Factory, Kingdom of the Holy Sun",Music,Rock,Sunset Tavern,2018-10-14,98107,Seattle,Washington
+621,Old Time Relijun W/ Naomi Punk,Music,Rock,Tractor Tavern,2018-10-14,98107,Seattle,Washington
+622,Alma,Music,Other,Crocodile Cafe,2018-10-14,98121,Seattle,Washington
+623,Meg Myers,Music,Other,Chop Suey,2018-10-14,98122,Seattle,Washington
+624,The Turn of the Screw w/ Seattle Opera,Arts & Theatre,Miscellaneous,McCaw Hall,2018-10-14,98109,Seattle,Washington
+625,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-14,98101,Seattle,Washington
+626,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-14,98101,Seattle,Washington
+627,Roam,Music,Rock,El Corazon,2018-10-15,98109,Seattle,Washington
+628,2018 Seattle Sports Marketing Conference,Miscellaneous,Community/Civic,Washington State Convention Center,2018-10-15,98101,Seattle,Washington
+629,"The Tractor Presents: Old Salt Union, Guests",Music,Country,Sunset Tavern,2018-10-16,98107,Seattle,Washington
+630,Kexp Presents: Israel Nash W/ Kyle Emerson,Music,Rock,Tractor Tavern,2018-10-16,98107,Seattle,Washington
+631,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-16,98101,Seattle,Washington
+632,MC50,Music,Other,Showbox at the Market,2018-10-16,98104,Seattle,Washington
+633,The Turn of the Screw w/ Seattle Opera,Arts & Theatre,Miscellaneous,McCaw Hall,2018-10-17,98109,Seattle,Washington
+634,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-17,98101,Seattle,Washington
+635,Kamasi Washington,Music,Blues,Showbox at the Market,2018-10-17,98104,Seattle,Washington
+636,The Ballroom Thieves W/ Guests,Music,Rock,Tractor Tavern,2018-10-18,98107,Seattle,Washington
+637,Shoreline Mafia,Music,Other,Showbox SODO,2018-10-18,98134,Seattle,Washington
+638,K?D,Music,Other,Showbox at the Market,2018-10-18,98104,Seattle,Washington
+639,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-18,98101,Seattle,Washington
+640,"The Crocodile Presents: Saintseneca, Trace Mountains, Guests",Music,Rock,Sunset Tavern,2018-10-19,98107,Seattle,Washington
+641,Kexp Presents: Mercury Rev Celebrate the 20th Anniversary of Deserter',Music,Rock,Tractor Tavern,2018-10-19,98107,Seattle,Washington
+642,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-19,98101,Seattle,Washington
+643,Lykke Li,Music,Other,Showbox at the Market,2018-10-20,98104,Seattle,Washington
+644,Black Moth Super Rainbow,Music,Other,Crocodile Cafe,2018-10-20,98121,Seattle,Washington
+645,The Turn of the Screw w/ Seattle Opera,Arts & Theatre,Miscellaneous,McCaw Hall,2018-10-20,98109,Seattle,Washington
+646,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-20,98101,Seattle,Washington
+647,Goran Bregovic,Music,Other,Moore Theatre,2018-10-20,98101,Seattle,Washington
+648,Tove Styrke,Music,Dance/Electronic,Tractor Tavern,2018-10-21,98107,Seattle,Washington
+649,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-21,98101,Seattle,Washington
+650,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-21,98101,Seattle,Washington
+651,Seattle University Redhawks Womens Soccer vs. Umkc Womens Soccer,Sports,Soccer,Seattle University Championship Field,2018-10-21,98122,Seattle,Washington
+652,The Blaze,Music,Other,Showbox at the Market,2018-10-22,98104,Seattle,Washington
+653,Kexp's Swinging Doors Presents: Joshua Hedley W/ Kelsey Waldon,Music,Rock,Tractor Tavern,2018-10-23,98107,Seattle,Washington
+654,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-23,98101,Seattle,Washington
+655,SG Lewis,Music,Other,Crocodile Cafe,2018-10-24,98121,Seattle,Washington
+656,The Turn of the Screw w/ Seattle Opera,Arts & Theatre,Miscellaneous,McCaw Hall,2018-10-24,98109,Seattle,Washington
+657,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-24,98101,Seattle,Washington
+658,"The Crocodile Presents: Ceremony, Guests",Music,Rock,Sunset Tavern,2018-10-25,98107,Seattle,Washington
+659,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-25,98101,Seattle,Washington
+660,Gorgon City,Music,Dance/Electronic,Showbox at the Market,2018-10-25,98104,Seattle,Washington
+661,Joep Beving,Music,Other,Benaroya Hall,2018-10-26,98101,Seattle,Washington
+662,The Turn of the Screw w/ Seattle Opera,Arts & Theatre,Miscellaneous,McCaw Hall,2018-10-26,98109,Seattle,Washington
+663,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-26,98101,Seattle,Washington
+664,Seattle University Redhawks Mens Soccer vs. University of Texas Rio Grande Valley-Men's Soccer,Sports,Soccer,Seattle University Championship Field,2018-10-26,98122,Seattle,Washington
+665,The Turn of the Screw w/ Seattle Opera,Arts & Theatre,Miscellaneous,McCaw Hall,2018-10-27,98109,Seattle,Washington
+666,Ty Segall,Music,Other,Neumos,2018-10-27,98122,Seattle,Washington
+667,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-27,98101,Seattle,Washington
+668,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-27,98101,Seattle,Washington
+669,The Spirit of Hungary 1848 - Hungarian National Dance Ensemble,Music,World,Neptune Theatre,2018-10-27,98105,Seattle,Washington
+670,Great Lake Swimmers W/ Joshua Hyslop,Music,Rock,Tractor Tavern,2018-10-28,98107,Seattle,Washington
+671,The Joy Formidable,Music,Other,Neumos,2018-10-28,98122,Seattle,Washington
+672,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-28,98101,Seattle,Washington
+673,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-28,98101,Seattle,Washington
+674,Seattle University Redhawks Mens Soccer vs. Incarnate Word-Men's Soccer,Sports,Soccer,Seattle University Championship Field,2018-10-28,98122,Seattle,Washington
+675,Lucia Micarelli,Music,Other,Benaroya Hall,2018-10-29,98101,Seattle,Washington
+676,Molly Nilsson,Music,Other,Barboza,2018-10-29,98122,Seattle,Washington
+677,Silent Movie Mondays - The Cat And The Canary (1927),Film,Miscellaneous,Paramount Theatre,2018-10-29,98101,Seattle,Washington
+678,Molly Burch,Music,Pop,Sunset Tavern,2018-10-30,98107,Seattle,Washington
+679,Tall Heights W/ Old Sea Brigade & Frances Cone,Music,Rock,Tractor Tavern,2018-10-30,98107,Seattle,Washington
+680,Fidlar,Music,Other,Showbox SODO,2018-10-30,98134,Seattle,Washington
+681,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-30,98101,Seattle,Washington
+682,Billy Strings W/ Guests,Music,Country,Tractor Tavern,2018-10-31,98107,Seattle,Washington
+683,Mitski w/ Jessica Lea Mayfield,Music,Alternative,Showbox SODO,2018-10-31,98134,Seattle,Washington
+684,Birdtalker W/ Guests,Music,Rock,Tractor Tavern,2018-11-01,98107,Seattle,Washington
+685,Tokyo Police Club,Music,Alternative,Barboza,2018-11-01,98122,Seattle,Washington
+686,Watsky,Music,Other,Showbox SODO,2018-11-01,98134,Seattle,Washington
+687,Wild Nothing,Music,Other,Neumos,2018-11-01,98122,Seattle,Washington
+688,The Milk Carton Kids w/ The Barr Brothers,Music,Country,Showbox at the Market,2018-11-01,98104,Seattle,Washington
+689,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-01,98101,Seattle,Washington
+690,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-01,98101,Seattle,Washington
+691,Seattle University Redhawks Womens Volleyball vs. NMSU Aggies Volleyball,Sports,Volleyball,Seattle University Redhawk Center,2018-11-01,98122,Seattle,Washington
+692,Cash'd Out,Music,Undefined,Tractor Tavern,2018-11-02,98107,Seattle,Washington
+693,Cash'd Out,Music,Undefined,Tractor Tavern,2018-11-02,98107,Seattle,Washington
+694,Cash'd Out,Music,Undefined,Tractor Tavern,2018-11-02,98107,Seattle,Washington
+695,Greensky Bluegrass,Music,Other,Showbox at the Market,2018-11-02,98104,Seattle,Washington
+696,TAUK w/ Exmag,Music,Other,Nectar Lounge,2018-11-02,98103,Seattle,Washington
+697,Soja,Music,World,Showbox SODO,2018-11-02,98134,Seattle,Washington
+698,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-02,98101,Seattle,Washington
+699,Greensky Bluegrass,Music,Other,Showbox at the Market,2018-11-03,98104,Seattle,Washington
+700,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-03,98101,Seattle,Washington
+701,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-03,98101,Seattle,Washington
+702,Seattle University Redhawks Womens Volleyball vs. University of Texas Rio Grande Valley-Volleyball,Sports,Volleyball,Seattle University Redhawk Center,2018-11-03,98122,Seattle,Washington
+703,Thrice,Music,Rock,Showbox SODO,2018-11-04,98134,Seattle,Washington
+704,Of Montreal,Music,Alternative,Neumos,2018-11-04,98122,Seattle,Washington
+705,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-04,98101,Seattle,Washington
+706,Still Corners,Music,Rock,Sunset Tavern,2018-11-05,98107,Seattle,Washington
+707,Reignwolf,Music,Rock,Showbox at the Market,2018-11-05,98104,Seattle,Washington
+708,"91.3 KBCS Presents: Mark Guiliana Space Heroes Feat: Chris Morrissey,",Music,Jazz,Tractor Tavern,2018-11-06,98107,Seattle,Washington
+709,Local H,Music,Rock,Crocodile Cafe,2018-11-06,98121,Seattle,Washington
+710,The Black Lips w/ Iceage,Music,Alternative,Showbox at the Market,2018-11-06,98104,Seattle,Washington
+711,The Menzingers,Music,Rock,El Corazon,2018-11-07,98109,Seattle,Washington
+712,The Suicide Girls,Music,Other,Showbox at the Market,2018-11-07,98104,Seattle,Washington
+713,The Devil Makes 3,Music,Country,Showbox SODO,2018-11-08,98134,Seattle,Washington
+714,Cherub,Music,Pop,Crocodile Cafe,2018-11-08,98121,Seattle,Washington
+715,Rubblebucket,Music,Other,Neumos,2018-11-09,98122,Seattle,Washington
+716,William Clark Green W/ Flatland Cavalry,Music,Country,Tractor Tavern,2018-11-10,98107,Seattle,Washington
+717,Soulection,Music,Other,Showbox at the Market,2018-11-10,98104,Seattle,Washington
+718,The Tractor Presents: Ruston Kelly At the Sunset,Music,Pop,Sunset Tavern,2018-11-11,98107,Seattle,Washington
+719,Lucero,Music,World,Showbox at the Market,2018-11-11,98104,Seattle,Washington
+720,The Paper Kites,Music,Alternative,Neumos,2018-11-11,98122,Seattle,Washington
+721,Why?,Music,Other,Neumos,2018-11-12,98122,Seattle,Washington
+722,"Reigncity Presents: Steady Holiday, Guests",Music,Pop,Sunset Tavern,2018-11-14,98107,Seattle,Washington
+723,Guided by Voices,Music,Alternative,Crocodile Cafe,2018-11-14,98121,Seattle,Washington
+724,Masego,Music,Other,Neumos,2018-11-15,98122,Seattle,Washington
+725,Seattle University Redhawks Womens Volleyball vs. Grand Canyon Women's Volleyball,Sports,Volleyball,Seattle University Redhawk Center,2018-11-15,98122,Seattle,Washington
+726,Blitzen Trapper,Music,Other,Crocodile Cafe,2018-11-16,98121,Seattle,Washington
+727,Casa Patas,Arts & Theatre,Miscellaneous,Benaroya Hall,2018-11-16,98101,Seattle,Washington
+728,Young Fathers,Music,Hip-Hop/Rap,Showbox at the Market,2018-11-16,98104,Seattle,Washington
+729,Casa Patas,Arts & Theatre,Miscellaneous,Benaroya Hall,2018-11-17,98101,Seattle,Washington
+730,Casa Patas,Arts & Theatre,Miscellaneous,Benaroya Hall,2018-11-17,98101,Seattle,Washington
+731,Seattle University Redhawks Womens Volleyball vs. Cal State Bakersfield Roadrunners Women's Volleyball,Sports,Volleyball,Seattle University Redhawk Center,2018-11-17,98122,Seattle,Washington
+732,Egor Kreed,Music,Other,Showbox at the Market,2018-11-18,98104,Seattle,Washington
+733,C.S. LEWIS ONSTAGE: THE MOST RELUCTANT CONVERT,Arts & Theatre,Performance Art,Moore Theatre,2018-11-18,98101,Seattle,Washington
+734,Haken,Music,Rock,Crocodile Cafe,2018-11-20,98121,Seattle,Washington
+735,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-11-23,98109,Seattle,Washington
+736,Pedro the Lion's David Bazan,Music,Other,Neumos,2018-11-23,98122,Seattle,Washington
+737,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-11-24,98109,Seattle,Washington
+738,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-11-24,98109,Seattle,Washington
+739,G Jones,Music,Other,Showbox SODO,2018-11-24,98134,Seattle,Washington
+740,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-11-25,98109,Seattle,Washington
+741,Pale Waves,Music,Other,Neumos,2018-11-30,98122,Seattle,Washington
+742,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-01,98109,Seattle,Washington
+743,Jim Brickman,Music,Blues,Benaroya Hall,2018-12-01,98101,Seattle,Washington
+744,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-01,98109,Seattle,Washington
+745,Said The Sky,Music,Other,Neumos,2018-12-01,98122,Seattle,Washington
+746,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-02,98109,Seattle,Washington
+747,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-02,98109,Seattle,Washington
+748,Doyle,Music,Rock,El Corazon,2018-12-04,98109,Seattle,Washington
+749,JMSN,Music,Other,Crocodile Cafe,2018-12-05,98121,Seattle,Washington
+750,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-07,98109,Seattle,Washington
+751,Sean Rowe,Music,Folk,Sunset Tavern,2018-12-08,98107,Seattle,Washington
+752,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-08,98109,Seattle,Washington
+753,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-08,98109,Seattle,Washington
+754,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-09,98109,Seattle,Washington
+755,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-09,98109,Seattle,Washington
+756,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-13,98109,Seattle,Washington
+757,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-14,98109,Seattle,Washington
+758,"Tor Miller, Guests",Music,Pop,Sunset Tavern,2018-12-15,98107,Seattle,Washington
+759,Malaa,Music,Other,Showbox SODO,2018-12-15,98134,Seattle,Washington
+760,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-15,98109,Seattle,Washington
+761,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-15,98109,Seattle,Washington
+762,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-16,98109,Seattle,Washington
+763,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-16,98109,Seattle,Washington
+764,Monqui Presents: Bernhoft W/ Guests,Music,Rock,Tractor Tavern,2018-12-18,98107,Seattle,Washington
+765,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-20,98109,Seattle,Washington
+766,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-21,98109,Seattle,Washington
+767,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-21,98109,Seattle,Washington
+768,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-22,98109,Seattle,Washington
+769,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-22,98109,Seattle,Washington
+770,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-23,98109,Seattle,Washington
+771,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-23,98109,Seattle,Washington
+772,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-24,98109,Seattle,Washington
+773,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-26,98109,Seattle,Washington
+774,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-26,98109,Seattle,Washington
+775,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-27,98109,Seattle,Washington
+776,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-27,98109,Seattle,Washington
+777,Nutcracker,Miscellaneous,Holiday,McCaw Hall,2018-12-28,98109,Seattle,Washington
+778,Il Trovatore w/ Seattle Opera,Arts & Theatre,Opera,McCaw Hall,2019-01-12,98109,Seattle,Washington
+779,Il Trovatore w/ Seattle Opera,Arts & Theatre,Opera,McCaw Hall,2019-01-13,98109,Seattle,Washington
+780,Il Trovatore w/ Seattle Opera,Arts & Theatre,Opera,McCaw Hall,2019-01-16,98109,Seattle,Washington
+781,Super Diamond,Music,Pop,Showbox at the Market,2019-01-18,98104,Seattle,Washington
+782,Il Trovatore w/ Seattle Opera,Arts & Theatre,Opera,McCaw Hall,2019-01-19,98109,Seattle,Washington
+783,Colter Wall,Music,Other,Showbox at the Market,2019-01-20,98104,Seattle,Washington
+784,Il Trovatore w/ Seattle Opera,Arts & Theatre,Opera,McCaw Hall,2019-01-20,98109,Seattle,Washington
+785,Il Trovatore w/ Seattle Opera,Arts & Theatre,Opera,McCaw Hall,2019-01-23,98109,Seattle,Washington
+786,Il Trovatore w/ Seattle Opera,Arts & Theatre,Opera,McCaw Hall,2019-01-25,98109,Seattle,Washington
+787,Il Trovatore w/ Seattle Opera,Arts & Theatre,Opera,McCaw Hall,2019-01-26,98109,Seattle,Washington
+788,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-01,98101,Seattle,Washington
+789,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-02,98101,Seattle,Washington
+790,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-05,98101,Seattle,Washington
+791,El Corazon Presents:Reverend Horton Heat,Music,Rock,Tractor Tavern,2019-02-06,98107,Seattle,Washington
+792,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-06,98101,Seattle,Washington
+793,El Corazon Presents:Reverend Horton Heat,Music,Rock,Tractor Tavern,2019-02-07,98107,Seattle,Washington
+794,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-07,98101,Seattle,Washington
+795,El Corazon Presents:Reverend Horton Heat,Music,Rock,Tractor Tavern,2019-02-08,98107,Seattle,Washington
+796,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-08,98101,Seattle,Washington
+797,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-09,98101,Seattle,Washington
+798,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-09,98101,Seattle,Washington
+799,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-10,98101,Seattle,Washington
+800,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-10,98101,Seattle,Washington
+801,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-12,98101,Seattle,Washington
+802,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-13,98101,Seattle,Washington
+803,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-14,98101,Seattle,Washington
+804,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-15,98101,Seattle,Washington
+805,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-16,98101,Seattle,Washington
+806,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-16,98101,Seattle,Washington
+807,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-17,98101,Seattle,Washington
+808,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-17,98101,Seattle,Washington
+809,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-19,98101,Seattle,Washington
+810,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-20,98101,Seattle,Washington
+811,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-21,98101,Seattle,Washington
+812,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-21,98101,Seattle,Washington
+813,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-22,98101,Seattle,Washington
+814,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-23,98101,Seattle,Washington
+815,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-23,98101,Seattle,Washington
+816,Rock of Ages,Arts & Theatre,Undefined,5th Avenue Theatre,2019-02-24,98101,Seattle,Washington
+817,Jungle,Music,R&B,Showbox at the Market,2019-03-08,98104,Seattle,Washington
+818,Dublin Roots Music: I Draw Slow W/ Guests,Music,Folk,Tractor Tavern,2019-03-14,98107,Seattle,Washington
+819,Seattle Symphony,Music,Classical,Benaroya Hall,2019-05-03,98101,Seattle,Washington
+820,Carmen w/ Seattle Opera,Arts & Theatre,Undefined,McCaw Hall,2019-05-04,98109,Seattle,Washington
+821,Seattle Symphony,Music,Classical,Benaroya Hall,2019-05-04,98101,Seattle,Washington
+822,Carmen w/ Seattle Opera,Arts & Theatre,Undefined,McCaw Hall,2019-05-05,98109,Seattle,Washington
+823,Carmen w/ Seattle Opera,Arts & Theatre,Undefined,McCaw Hall,2019-05-11,98109,Seattle,Washington
+824,Carmen w/ Seattle Opera,Arts & Theatre,Undefined,McCaw Hall,2019-05-12,98109,Seattle,Washington
+825,Carmen w/ Seattle Opera,Arts & Theatre,Undefined,McCaw Hall,2019-05-15,98109,Seattle,Washington
+826,Carmen w/ Seattle Opera,Arts & Theatre,Undefined,McCaw Hall,2019-05-17,98109,Seattle,Washington
+827,Carmen w/ Seattle Opera,Arts & Theatre,Undefined,McCaw Hall,2019-05-18,98109,Seattle,Washington
+828,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-05-31,98101,Seattle,Washington
+829,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-01,98101,Seattle,Washington
+830,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-01,98101,Seattle,Washington
+831,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-04,98101,Seattle,Washington
+832,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-05,98101,Seattle,Washington
+833,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-06,98101,Seattle,Washington
+834,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-07,98101,Seattle,Washington
+835,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-08,98101,Seattle,Washington
+836,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-08,98101,Seattle,Washington
+837,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-09,98101,Seattle,Washington
+838,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-09,98101,Seattle,Washington
+839,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-11,98101,Seattle,Washington
+840,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-12,98101,Seattle,Washington
+841,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-13,98101,Seattle,Washington
+842,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-14,98101,Seattle,Washington
+843,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-15,98101,Seattle,Washington
+844,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-15,98101,Seattle,Washington
+845,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-16,98101,Seattle,Washington
+846,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-16,98101,Seattle,Washington
+847,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-18,98101,Seattle,Washington
+848,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-19,98101,Seattle,Washington
+849,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-20,98101,Seattle,Washington
+850,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-20,98101,Seattle,Washington
+851,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-21,98101,Seattle,Washington
+852,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-22,98101,Seattle,Washington
+853,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-22,98101,Seattle,Washington
+854,West Side Story,Arts & Theatre,Undefined,5th Avenue Theatre,2019-06-23,98101,Seattle,Washington
+855,The Midnight,Music,Other,Neumos,2018-09-28,98122,Seattle,Washington
+856,Ina Garten,Miscellaneous,Hobby/Special Interest Expos,Benaroya Hall,2018-11-27,98101,Seattle,Washington
+857,STRFKR,Music,Other,Neumos,2018-09-21,98122,Seattle,Washington
+858,Baltimore Orioles at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-03,98134,Seattle,Washington
+859,Baltimore Orioles at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-04,98134,Seattle,Washington
+860,Baltimore Orioles at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-05,98134,Seattle,Washington
+861,Texas Rangers at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-27,98134,Seattle,Washington
+862,Texas Rangers at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-28,98134,Seattle,Washington
+863,Texas Rangers at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-29,98134,Seattle,Washington
+864,Texas Rangers at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-30,98134,Seattle,Washington
+865,Golden State Warriors vs Sacramento Kings,Sports,Basketball,KeyArena,2018-10-05,98109,Seattle,Washington
+866,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-23,98101,Seattle,Washington
+867,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-24,98101,Seattle,Washington
+868,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-24,98101,Seattle,Washington
+869,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-27,98101,Seattle,Washington
+870,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-28,98101,Seattle,Washington
+871,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-29,98101,Seattle,Washington
+872,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-11-30,98101,Seattle,Washington
+873,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-01,98101,Seattle,Washington
+874,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-01,98101,Seattle,Washington
+875,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-02,98101,Seattle,Washington
+876,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-02,98101,Seattle,Washington
+877,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-04,98101,Seattle,Washington
+878,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-05,98101,Seattle,Washington
+879,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-06,98101,Seattle,Washington
+880,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-07,98101,Seattle,Washington
+881,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-08,98101,Seattle,Washington
+882,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-08,98101,Seattle,Washington
+883,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-09,98101,Seattle,Washington
+884,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-09,98101,Seattle,Washington
+885,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-11,98101,Seattle,Washington
+886,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-12,98101,Seattle,Washington
+887,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-13,98101,Seattle,Washington
+888,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-14,98101,Seattle,Washington
+889,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-15,98101,Seattle,Washington
+890,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-15,98101,Seattle,Washington
+891,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-16,98101,Seattle,Washington
+892,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-16,98101,Seattle,Washington
+893,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-18,98101,Seattle,Washington
+894,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-19,98101,Seattle,Washington
+895,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-20,98101,Seattle,Washington
+896,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-20,98101,Seattle,Washington
+897,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-21,98101,Seattle,Washington
+898,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-22,98101,Seattle,Washington
+899,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-22,98101,Seattle,Washington
+900,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-23,98101,Seattle,Washington
+901,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-26,98101,Seattle,Washington
+902,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-27,98101,Seattle,Washington
+903,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-27,98101,Seattle,Washington
+904,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-28,98101,Seattle,Washington
+905,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-29,98101,Seattle,Washington
+906,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-29,98101,Seattle,Washington
+907,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-30,98101,Seattle,Washington
+908,Annie,Arts & Theatre,Undefined,5th Avenue Theatre,2018-12-30,98101,Seattle,Washington
+909,Derek Hough,Arts & Theatre,Miscellaneous,Benaroya Hall,2019-05-25,98101,Seattle,Washington
+910,DEREK HOUGH: LIVE! THE TOUR,Arts & Theatre,Dance,Benaroya Hall - S. Mark Taper Auditorium,2019-05-25,98111,Seattle,Washington
+911,Andrew WK,Music,Rock,Showbox at the Market,2018-09-08,98104,Seattle,Washington
+912,STRFKR,Music,Other,Neumos,2018-09-20,98122,Seattle,Washington
+913,DPR Coming To You Live Tour,Music,Pop,Neptune Theatre,2018-10-01,98105,Seattle,Washington
+914,San Diego Padres at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-11,98134,Seattle,Washington
+915,San Diego Padres at Seattle Mariners,Sports,Baseball,Safeco Field,2018-09-12,98134,Seattle,Washington
+916,Hoodie Allen,Music,Hip-Hop/Rap,Crocodile Cafe,2018-09-16,98121,Seattle,Washington
+917,Amorphis w/ Dark Tranquility,Music,Rock,El Corazon,2018-09-20,98109,Seattle,Washington
+918,Johnny Marr,Music,Rock,Showbox at the Market,2018-09-21,98104,Seattle,Washington
+919,KT Tunstall,Music,Pop,Crocodile Cafe,2018-10-17,98121,Seattle,Washington
+920,Soweto Gospel Choir,Music,Religious,Paramount Theatre,2018-10-19,98101,Seattle,Washington
+921,Come from Away,Arts & Theatre,Undefined,5th Avenue Theatre,2018-10-20,98101,Seattle,Washington
+922,Ekali,Music,Other,Showbox SODO,2018-10-20,98134,Seattle,Washington
+923,Bob Weir And Wolf Bros,Music,Rock,Moore Theatre,2018-10-23,98101,Seattle,Washington
+924,Celeste Barber Live,Arts & Theatre,Comedy,Neptune Theatre,2018-11-05,98105,Seattle,Washington
+925,Louis The Child & Big Wild,Music,Dance/Electronic,WaMu Theater,2018-12-01,98134,Seattle,Washington
+926,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-13,98101,Seattle,Washington
+927,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-13,98101,Seattle,Washington
+928,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-14,98101,Seattle,Washington
+929,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-15,98101,Seattle,Washington
+930,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-15,98101,Seattle,Washington
+931,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-16,98101,Seattle,Washington
+932,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-16,98101,Seattle,Washington
+933,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-18,98101,Seattle,Washington
+934,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-19,98101,Seattle,Washington
+935,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-20,98101,Seattle,Washington
+936,San Holo,Music,Other,Showbox SODO,2018-12-21,98134,Seattle,Washington
+937,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-21,98101,Seattle,Washington
+938,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-22,98101,Seattle,Washington
+939,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-22,98101,Seattle,Washington
+940,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-23,98101,Seattle,Washington
+941,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-23,98101,Seattle,Washington
+942,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-26,98101,Seattle,Washington
+943,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-26,98101,Seattle,Washington
+944,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-27,98101,Seattle,Washington
+945,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-27,98101,Seattle,Washington
+946,Thievery Corporation,Music,Dance/Electronic,Showbox at the Market,2018-12-28,98104,Seattle,Washington
+947,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-28,98101,Seattle,Washington
+948,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-29,98101,Seattle,Washington
+949,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-29,98101,Seattle,Washington
+950,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-30,98101,Seattle,Washington
+951,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2018-12-30,98101,Seattle,Washington
+952,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2019-01-01,98101,Seattle,Washington
+953,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2019-01-02,98101,Seattle,Washington
+954,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2019-01-03,98101,Seattle,Washington
+955,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2019-01-04,98101,Seattle,Washington
+956,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2019-01-05,98101,Seattle,Washington
+957,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2019-01-05,98101,Seattle,Washington
+958,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2019-01-06,98101,Seattle,Washington
+959,Disney Presents The Lion King (Touring),Arts & Theatre,Theatre,Paramount Theatre,2019-01-06,98101,Seattle,Washington
+960,Jeremih w/ Teyana Taylor,Undefined,Undefined,Showbox SODO,2018-09-07,98134,Seattle,Washington
+961,Red Elvises,Undefined,Undefined,Tractor Tavern,2018-08-25,98107,Seattle,Washington
+962,Public Image Ltd.,Undefined,Undefined,Showbox at the Market,2018-10-29,98104,Seattle,Washington
+963,Dawes,Undefined,Undefined,Showbox at the Market,2018-10-01,98104,Seattle,Washington
+964,Korpiklaani,Undefined,Undefined,El Corazon,2018-11-13,98109,Seattle,Washington
+965,Layne Staley Tribute,Undefined,Undefined,Showbox at the Market,2018-08-24,98104,Seattle,Washington
+966,KUOW Week In Review,Miscellaneous,Undefined,Neptune Theatre,2018-09-13,98105,Seattle,Washington
+967,"Damien Echols, HIGH MAGICK",Miscellaneous,Undefined,Neptune Theatre,2018-11-19,98105,Seattle,Washington
+968,Neil deGrasse Tyson -The Cosmic Perspective,Miscellaneous,Undefined,Paramount Theatre,2018-11-27,98101,Seattle,Washington
+969,Neil deGrasse Tyson - Adventures In Science Literacy,Miscellaneous,Undefined,Paramount Theatre,2018-11-26,98101,Seattle,Washington
+970,Stuff You Missed In History Class,Miscellaneous,Undefined,Neptune Theatre,2018-10-15,98105,Seattle,Washington
+971,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-20,98134,Seattle,Washington
+972,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-10-20,98134,Seattle,Washington
+973,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-01,98134,Seattle,Washington
+974,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-05,98134,Seattle,Washington
+975,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-07,98134,Seattle,Washington
+976,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-10,98134,Seattle,Washington
+977,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-02,98134,Seattle,Washington
+978,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-08-29,98134,Seattle,Washington
+979,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-08-27,98134,Seattle,Washington
+980,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-06,98134,Seattle,Washington
+981,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-08-28,98134,Seattle,Washington
+982,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-04,98134,Seattle,Washington
+983,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-10-22,98134,Seattle,Washington
+984,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-08-30,98134,Seattle,Washington
+985,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-10-23,98134,Seattle,Washington
+986,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-10-21,98134,Seattle,Washington
+987,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-08,98134,Seattle,Washington
+988,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-18,98134,Seattle,Washington
+989,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-10-19,98134,Seattle,Washington
+990,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-19,98134,Seattle,Washington
+991,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-10-29,98134,Seattle,Washington
+992,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-10-16,98134,Seattle,Washington
+993,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-13,98134,Seattle,Washington
+994,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-08-31,98134,Seattle,Washington
+995,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-12,98134,Seattle,Washington
+996,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-10-27,98134,Seattle,Washington
+997,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-08-26,98134,Seattle,Washington
+998,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-10-18,98134,Seattle,Washington
+999,Seattle Mariners Safeco Field Tour,Miscellaneous,Undefined,Safeco Field Stadium Tours,2018-09-09,98134,Seattle,Washington

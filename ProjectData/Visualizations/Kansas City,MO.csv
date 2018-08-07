@@ -1,0 +1,546 @@
+,event name,Classification,genre,venue,Date,Zip code,City,State
+0,Kansas City Chiefs vs. San Francisco 49ers,Sports,Football,Arrowhead Stadium,2018-09-23,64129,Kansas City,Missouri
+1,Kansas City Chiefs vs. Denver Broncos,Sports,Football,Arrowhead Stadium,2018-10-28,64129,Kansas City,Missouri
+2,Kansas City Chiefs vs. Green Bay Packers,Sports,Football,Arrowhead Stadium,2018-08-30,64129,Kansas City,Missouri
+3,Aubrey & The Three Migos Tour,Music,R&B,Sprint Center,2018-08-10,64106,Kansas City,Missouri
+4,Kansas City Chiefs vs. Jacksonville Jaguars,Sports,Football,Arrowhead Stadium,2018-10-07,64129,Kansas City,Missouri
+5,Panic! at the Disco w/ Two Feet,Music,Alternative,Sprint Center,2019-02-02,64106,Kansas City,Missouri
+6,Maroon 5: Red Pill Blues Tour 2018,Music,Alternative,Sprint Center,2018-09-11,64106,Kansas City,Missouri
+7,An Evening With Fleetwood Mac,Music,Rock,Sprint Center,2018-10-18,64106,Kansas City,Missouri
+8,Kansas City Chiefs vs. Cincinnati Bengals,Sports,Football,Arrowhead Stadium,2018-10-21,64129,Kansas City,Missouri
+9,Kansas City Chiefs vs. Oakland Raiders,Sports,Football,Arrowhead Stadium,2018-12-30,64129,Kansas City,Missouri
+10,Kansas City Chiefs vs. Los Angeles Chargers,Sports,Football,Arrowhead Stadium,2018-12-13,64129,Kansas City,Missouri
+11,Elton John,Music,Rock,Sprint Center,2019-02-13,64106,Kansas City,Missouri
+12,Kansas City Chiefs vs. Houston Texans,Sports,Football,Arrowhead Stadium,2018-08-09,64129,Kansas City,Missouri
+13,Justin Timberlake - The Man Of The Woods Tour,Music,Pop,Sprint Center,2018-12-10,64106,Kansas City,Missouri
+14,Sam Smith,Music,Pop,Sprint Center,2018-08-18,64106,Kansas City,Missouri
+15,Foo Fighters: Concrete And Gold Tour '18,Music,Alternative,Sprint Center,2018-10-12,64106,Kansas City,Missouri
+16,Taylor Swift reputation Stadium Tour,Music,Rock,Arrowhead Stadium,2018-09-08,64129,Kansas City,Missouri
+17,Kansas City Chiefs vs. Baltimore Ravens,Sports,Football,Arrowhead Stadium,2018-12-09,64129,Kansas City,Missouri
+18,Metallica,Music,Rock,Sprint Center,2019-03-06,64106,Kansas City,Missouri
+19,Shawn Mendes,Music,Pop,Sprint Center,2019-07-19,64106,Kansas City,Missouri
+20,Ozuna,Music,Other,Sprint Center,2018-10-06,64106,Kansas City,Missouri
+21,TWENTY ONE PILOTS - THE BANDITO TOUR,Music,Hip-Hop/Rap,Sprint Center,2018-11-21,64106,Kansas City,Missouri
+22,The King Romeo Santos,Music,World,Sprint Center,2018-09-27,64106,Kansas City,Missouri
+23,Fall Out Boy: The M A N I A Tour with Machine Gun Kelly,Music,Alternative,Sprint Center,2018-09-21,64106,Kansas City,Missouri
+24,Ed Sheeran: 2018 North American Stadium Tour,Music,Pop,Arrowhead Stadium,2018-10-13,64129,Kansas City,Missouri
+25,NICKIHNDRXX TOUR,Music,Hip-Hop/Rap,Sprint Center,2018-11-04,64106,Kansas City,Missouri
+26,Kansas City Chiefs vs. Arizona Cardinals,Sports,Football,Arrowhead Stadium,2018-11-11,64129,Kansas City,Missouri
+27,SiriusXM Pres. Goo Goo Dolls - Dizzy Up The Girl 20th Anniversary Tour,Music,Rock,Uptown Theater,2018-10-28,64111,Kansas City,Missouri
+28,Scotty McCreery,Music,Country,Ameristar Casino and Hotel,2018-11-09,64161,Kansas City,Missouri
+29,J. Cole: KOD Tour 2018,Music,Hip-Hop/Rap,Sprint Center,2018-09-18,64106,Kansas City,Missouri
+30,Luke Bryan: What Makes You Country Tour 2018,Music,Country,Sprint Center,2018-08-26,64106,Kansas City,Missouri
+31,Niall Horan: Flicker World Tour 2018,Music,Other,Starlight Theatre,2018-08-22,64132,Kansas City,Missouri
+32,J Balvin Vibras Tour,Music,World,Sprint Center,2018-10-13,64106,Kansas City,Missouri
+33,Café Tacvba,Music,World,Uptown Theater,2018-10-05,64111,Kansas City,Missouri
+34,American Idol: Live! 2018,Music,Pop,Uptown Theater,2018-08-09,64111,Kansas City,Missouri
+35,Børns,Music,Rock,Uptown Theater,2018-10-03,64111,Kansas City,Missouri
+36,Bill Maher,Arts & Theatre,Comedy,Music Hall Kansas City,2018-08-26,64105,Kansas City,Missouri
+37,Marvel Universe LIVE! Age of Heroes,Arts & Theatre,Miscellaneous,Sprint Center,2018-09-14,64106,Kansas City,Missouri
+38,Marvel Universe LIVE! Age of Heroes,Arts & Theatre,Miscellaneous,Sprint Center,2018-09-15,64106,Kansas City,Missouri
+39,The Temptations,Music,R&B,Ameristar Casino and Hotel,2018-08-11,64161,Kansas City,Missouri
+40,Counting Crows with special guest +LIVE+: 25 Years and Counting,Music,Alternative,Starlight Theatre,2018-09-11,64132,Kansas City,Missouri
+41,2018 Honda Civic Tour presents Charlie Puth Voicenotes,Music,Other,Starlight Theatre,2018-08-09,64132,Kansas City,Missouri
+42,Marvel Universe LIVE! Age of Heroes,Arts & Theatre,Miscellaneous,Sprint Center,2018-09-15,64106,Kansas City,Missouri
+43,Marvel Universe LIVE! Age of Heroes,Arts & Theatre,Miscellaneous,Sprint Center,2018-09-16,64106,Kansas City,Missouri
+44,"Gary Clark, Jr.",Music,Blues,Uptown Theater,2018-11-06,64111,Kansas City,Missouri
+45,Billy Idol,Music,Rock,Uptown Theater,2018-09-21,64111,Kansas City,Missouri
+46,Marvel Universe LIVE! Age of Heroes,Arts & Theatre,Miscellaneous,Sprint Center,2018-09-16,64106,Kansas City,Missouri
+47,Marvel Universe LIVE! Age of Heroes,Arts & Theatre,Miscellaneous,Sprint Center,2018-09-15,64106,Kansas City,Missouri
+48,Gordon Lightfoot,Music,Rock,Uptown Theater,2018-09-28,64111,Kansas City,Missouri
+49,Snow Patrol,Music,Rock,VooDoo Lounge at Harrah's Casino North Kansas City,2018-10-12,64116,Kansas City,Missouri
+50,Josh Turner,Music,Country,Uptown Theater,2018-11-16,64111,Kansas City,Missouri
+51,Keb' Mo' Band,Music,Blues,Uptown Theater,2018-09-27,64111,Kansas City,Missouri
+52,Cody Johnson,Music,Rock,Uptown Theater,2018-09-08,64111,Kansas City,Missouri
+53,Carlos Mencia,Arts & Theatre,Comedy,Ameristar Casino and Hotel,2018-09-07,64161,Kansas City,Missouri
+54,98° at Christmas 2018,Music,R&B,Ameristar Casino and Hotel,2018-11-30,64161,Kansas City,Missouri
+55,The Oak Ridge Boys,Music,Country,Ameristar Casino and Hotel,2018-09-29,64161,Kansas City,Missouri
+56,Keith Urban w/ Kelsea Ballerini,Music,Country,Sprint Center,2018-08-17,64106,Kansas City,Missouri
+57,Bullet for My Valentine,Music,Rock,VooDoo Lounge at Harrah's Casino North Kansas City,2018-09-13,64116,Kansas City,Missouri
+58,Los Tigres del Norte w/ Alejandro Fernandez,Music,World,Sprint Center,2018-11-17,64106,Kansas City,Missouri
+59,NEEDTOBREATHE: Forever On Your Side Tour with special guest JOHNNYSWIM,Music,Alternative,Starlight Theatre,2018-09-09,64132,Kansas City,Missouri
+60,Tower of Power,Music,R&B,Ameristar Casino and Hotel,2018-08-25,64161,Kansas City,Missouri
+61,Lita Ford,Music,Rock,VooDoo Lounge at Harrah's Casino North Kansas City,2018-08-17,64116,Kansas City,Missouri
+62,The King Romeo Santos,Music,World,Sprint Center,2018-09-27,64106,Kansas City,Missouri
+63,Justin Timberlake - The Man Of The Woods Tour,Music,Rock,Sprint Center,2018-12-10,64106,Kansas City,Missouri
+64,Father John Misty,Music,Rock,Uptown Theater,2018-08-17,64111,Kansas City,Missouri
+65,Ben Rector - Magic: The Tour,Music,Rock,Uptown Theater,2018-11-08,64111,Kansas City,Missouri
+66,An Evening With Fleetwood Mac,Music,Rock,Sprint Center,2018-10-18,64106,Kansas City,Missouri
+67,Mix 93.3 presents Sting & Shaggy - The 44/876 Tour,Music,Pop,Arvest Bank Theatre at The Midland,2018-10-04,64105,Kansas City,Missouri
+68,Ben Howard,Music,Rock,Uptown Theater,2018-10-02,64111,Kansas City,Missouri
+69,Monster Energy Outbreak Tour Presents: Lil Xan - Total Xanarchy,Music,Hip-Hop/Rap,Uptown Theater,2018-11-04,64111,Kansas City,Missouri
+70,Maroon 5: Red Pill Blues Tour 2018,Music,Rock,Sprint Center,2018-09-11,64106,Kansas City,Missouri
+71,Maxwell,Music,R&B,Arvest Bank Theatre at The Midland,2018-11-14,64105,Kansas City,Missouri
+72,Rick Springfield,Music,Rock,Ameristar Casino and Hotel,2018-10-27,64161,Kansas City,Missouri
+73,Rod Stewart,Music,Pop,Sprint Center,2018-08-14,64106,Kansas City,Missouri
+74,Lauren Daigle,Music,Other,Arvest Bank Theatre at The Midland,2019-03-01,64105,Kansas City,Missouri
+75,Bret Michaels,Music,Rock,Ameristar Casino and Hotel,2018-09-15,64161,Kansas City,Missouri
+76,Lynyrd Skynyrd:  Last Of The Street Survivors Farewell Tour,Music,Rock,Sprint Center,2018-11-02,64106,Kansas City,Missouri
+77,Metallica,Music,Metal,Sprint Center,2019-03-06,64106,Kansas City,Missouri
+78,Little River Band,Music,Rock,Uptown Theater,2018-11-09,64111,Kansas City,Missouri
+79,TWENTY ONE PILOTS - THE BANDITO TOUR,Music,Rock,Sprint Center,2018-11-21,64106,Kansas City,Missouri
+80,Andy Grammer,Music,Rock,Ameristar Casino and Hotel,2018-10-06,64161,Kansas City,Missouri
+81,16th Annual KPRS White Linen Party Featuring Leela James,Music,R&B,VooDoo Lounge at Harrah's Casino North Kansas City,2018-09-02,64116,Kansas City,Missouri
+82,Fall Out Boy: The M A N I A Tour with Machine Gun Kelly,Music,Rock,Sprint Center,2018-09-21,64106,Kansas City,Missouri
+83,Lo-Key?,Music,Hip-Hop/Rap,VooDoo Lounge at Harrah's Casino North Kansas City,2018-08-11,64116,Kansas City,Missouri
+84,"The Cause Conference: November 02-03, 2018",Miscellaneous,Community/Civic,Music Hall Kansas City,2018-11-03,64105,Kansas City,Missouri
+85,The Clairvoyants,Arts & Theatre,Magic & Illusion,Ameristar Casino and Hotel,2018-09-22,64161,Kansas City,Missouri
+86,Hillsong Worship,Music,Other,Arvest Bank Theatre at The Midland,2018-10-18,64105,Kansas City,Missouri
+87,Billy Joel,Music,Rock,Kauffman Stadium,2018-09-21,64129,Kansas City,Missouri
+88,Billy Joel,Music,Rock,Kauffman Stadium,2018-09-21,64129,Kansas City,Missouri
+89,The Smashing Pumpkins: Shiny And Oh So Bright Tour,Music,Alternative,Sprint Center,2018-08-16,64106,Kansas City,Missouri
+90,Aubrey & The Three Migos Tour,Music,Hip-Hop/Rap,Sprint Center,2018-08-10,64106,Kansas City,Missouri
+91,Single Day Pass HOLIDAY MART Ticket Valid Any Single Day Oct. 18-21,Miscellaneous,Hobby/Special Interest Expos,Bartle Hall,2018-10-18,64105,Kansas City,Missouri
+92,"Presley, Perkins, Lewis & Cash",Music,Undefined,Ameristar Casino and Hotel,2018-10-05,64161,Kansas City,Missouri
+93,The Record Company,Music,Rock,Madrid Theatre,2018-09-25,64111,Kansas City,Missouri
+94,Foo Fighters: Concrete And Gold Tour '18,Music,Rock,Sprint Center,2018-10-12,64106,Kansas City,Missouri
+95,Shamrock FC,Sports,Martial Arts,Ameristar Casino and Hotel,2018-10-13,64161,Kansas City,Missouri
+96,David Cook,Music,Rock,Madrid Theatre,2018-10-26,64111,Kansas City,Missouri
+97,Shamrock FC,Sports,Martial Arts,Ameristar Casino and Hotel,2018-12-08,64161,Kansas City,Missouri
+98,MAX: House of Divine World Tour Part I,Music,Rock,VooDoo Lounge at Harrah's Casino North Kansas City,2018-10-26,64116,Kansas City,Missouri
+99,Gary Numan,Music,Dance/Electronic,Madrid Theatre,2018-09-11,64111,Kansas City,Missouri
+100,Shamrock FC,Sports,Martial Arts,Ameristar Casino and Hotel,2018-08-18,64161,Kansas City,Missouri
+101,Ninja Sex Party,Arts & Theatre,Undefined,Arvest Bank Theatre at The Midland,2018-08-08,64105,Kansas City,Missouri
+102,Highly Suspect,Music,Rock,Arvest Bank Theatre at The Midland,2018-08-09,64105,Kansas City,Missouri
+103,Gerardo Ortiz w/ T3R Elemento,Music,Other,Arvest Bank Theatre at The Midland,2018-10-13,64105,Kansas City,Missouri
+104,J Balvin Vibras Tour,Music,Hip-Hop/Rap,Sprint Center,2018-10-13,64106,Kansas City,Missouri
+105,Bob Seger,Music,Rock,Sprint Center,2018-11-24,64106,Kansas City,Missouri
+106,The Smashing Pumpkins: Shiny And Oh So Bright Tour,Music,Rock,Sprint Center,2018-08-16,64106,Kansas City,Missouri
+107,Alice in Chains,Music,Alternative,Arvest Bank Theatre at The Midland,2018-09-11,64105,Kansas City,Missouri
+108,Toto,Music,Pop,The Crossroads - Kansas City,2018-08-21,64108,Kansas City,Missouri
+109,Welshly Arms - No Place Is Home Tour,Music,Rock,The Record Bar,2018-09-25,64108,Kansas City,Missouri
+110,ZIGGY MARLEY - Rebellion Rises 2018 Tour,Music,Reggae,VooDoo Lounge at Harrah's Casino North Kansas City,2018-08-25,64116,Kansas City,Missouri
+111,Cam,Music,Country,Madrid Theatre,2018-10-16,64111,Kansas City,Missouri
+112,Clutch - Book Of Bad Decisions Tour 2018,Music,Metal,Uptown Theater,2018-09-19,64111,Kansas City,Missouri
+113,"Generation Axe: Vai, Wylde, Malmsteen, Bettencourt, and Abasi",Music,Rock,Uptown Theater,2018-11-15,64111,Kansas City,Missouri
+114,Bob Seger & The Silver Bullet Band,Music,Rock,Sprint Center,2018-11-24,64106,Kansas City,Missouri
+115,Alina Baraz,Music,Dance/Electronic,The Truman - Kansas City,2018-10-01,64106,Kansas City,Missouri
+116,Old Crow Medicine Show,Music,Country,Arvest Bank Theatre at The Midland,2018-08-15,64105,Kansas City,Missouri
+117,Good Charlotte,Music,Alternative,Arvest Bank Theatre at The Midland,2018-11-07,64105,Kansas City,Missouri
+118,NICKIHNDRXX TOUR,Music,Hip-Hop/Rap,Sprint Center,2018-11-04,64106,Kansas City,Missouri
+119,Chicago Cubs at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-07,64129,Kansas City,Missouri
+120,Counting Crows with special guest +LIVE+: 25 Years and Counting,Music,Rock,Starlight Theatre,2018-09-11,64132,Kansas City,Missouri
+121,Chicago Cubs at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-08,64129,Kansas City,Missouri
+122,Lucero,Music,Rock,Madrid Theatre,2018-11-16,64111,Kansas City,Missouri
+123,Carol Burnett,Arts & Theatre,Undefined,Arvest Bank Theatre at The Midland,2018-11-06,64105,Kansas City,Missouri
+124,Sloan,Music,Rock,Riot Room,2018-09-17,64111,Kansas City,Missouri
+125,Preferential Shopping HOLIDAY MART Multi Day Pass + Early Entry Thur,Miscellaneous,Hobby/Special Interest Expos,Bartle Hall,2018-10-18,64105,Kansas City,Missouri
+126,Seven Lions,Music,Dance/Electronic,Uptown Theater,2018-10-18,64111,Kansas City,Missouri
+127,Yonder Mountain String Band,Music,Rock,Madrid Theatre,2018-10-18,64111,Kansas City,Missouri
+128,Iron and Wine,Music,Alternative,Arvest Bank Theatre at The Midland,2018-09-21,64105,Kansas City,Missouri
+129,NEEDTOBREATHE: Forever On Your Side Tour with special guest JOHNNYSWIM,Music,Rock,Starlight Theatre,2018-09-09,64132,Kansas City,Missouri
+130,Death Cab for Cutie w/ Charly Bliss,Music,Alternative,Arvest Bank Theatre at The Midland,2018-10-02,64105,Kansas City,Missouri
+131,Jeanne Robertson,Arts & Theatre,Miscellaneous,Arvest Bank Theatre at The Midland,2018-09-07,64105,Kansas City,Missouri
+132,Lil Baby w/ YK Osiris,Music,Other,The Truman - Kansas City,2018-08-21,64106,Kansas City,Missouri
+133,Joe Rogan,Arts & Theatre,Undefined,Starlight Theatre,2018-08-10,64132,Kansas City,Missouri
+134,Marisela w/ Amanda Miguel,Music,Other,Arvest Bank Theatre at The Midland,2018-08-16,64105,Kansas City,Missouri
+135,The Charlie Daniels Band,Music,Country,Ameristar Casino and Hotel,2018-12-01,64161,Kansas City,Missouri
+136,Rooney,Music,Rock,The Record Bar,2018-09-13,64108,Kansas City,Missouri
+137,Kansas,Music,Rock,Arvest Bank Theatre at The Midland,2018-10-19,64105,Kansas City,Missouri
+138,The National,Music,Alternative,Starlight Theatre,2018-10-07,64132,Kansas City,Missouri
+139,David Feherty,Arts & Theatre,Miscellaneous,Muriel Kauffman Theatre-Kauffman PAC,2018-08-10,64106,Kansas City,Missouri
+140,LeCrae w/ Andy Mineo,Music,Other,The Truman - Kansas City,2018-09-21,64106,Kansas City,Missouri
+141,Thanksgiving With The Schwag,Music,Rock,Uptown Theater,2018-11-22,64111,Kansas City,Missouri
+142,Tanya Tucker,Music,Country,Knuckleheads Saloon,2018-09-21,64120,Kansas City,Missouri
+143,Upchurch the Redneck,Music,Other,The Crossroads - Kansas City,2018-08-25,64108,Kansas City,Missouri
+144,Gillian Welch,Music,Country,Folly Theater,2018-09-14,64105,Kansas City,Missouri
+145,Toronto Blue Jays at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-13,64129,Kansas City,Missouri
+146,Toronto Blue Jays at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-14,64129,Kansas City,Missouri
+147,Toronto Blue Jays at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-15,64129,Kansas City,Missouri
+148,Toronto Blue Jays at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-16,64129,Kansas City,Missouri
+149,Jason Mraz,Music,Alternative,Starlight Theatre,2018-08-31,64132,Kansas City,Missouri
+150,GOOD VIBES with Jason Mraz and Brett Dennen,Music,Rock,Starlight Theatre,2018-08-31,64132,Kansas City,Missouri
+151,Ringo Starr and His All Starr Band,Music,Pop,Starlight Theatre,2018-09-03,64132,Kansas City,Missouri
+152,Chicago White Sox at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-10,64129,Kansas City,Missouri
+153,Chicago White Sox at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-11,64129,Kansas City,Missouri
+154,Chicago White Sox at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-12,64129,Kansas City,Missouri
+155,RuPaul's Drag Race,Arts & Theatre,Miscellaneous,Folly Theater,2018-09-19,64105,Kansas City,Missouri
+156,Blitzen Trapper Furr 10th Anniversary Tour,Music,Country,The Record Bar,2018-10-11,64108,Kansas City,Missouri
+157,Ronnie Milsap,Music,Country,Knuckleheads Saloon,2018-09-22,64120,Kansas City,Missouri
+158,Todd Rundgren,Music,Rock,The Crossroads - Kansas City,2018-09-22,64108,Kansas City,Missouri
+159,Celtic Thunder X Tour,Music,World,Arvest Bank Theatre at The Midland,2018-11-25,64105,Kansas City,Missouri
+160,Ladies Night Out HOLIDAY MART Multi Day Pass + Friday Festivities 5pm,Miscellaneous,Hobby/Special Interest Expos,Bartle Hall,2018-10-19,64105,Kansas City,Missouri
+161,Minus the Bear,Music,Dance/Electronic,The Truman - Kansas City,2018-10-13,64106,Kansas City,Missouri
+162,Knox Hamilton,Music,Rock,The Record Bar,2018-08-22,64108,Kansas City,Missouri
+163,Chris D'elia,Arts & Theatre,Miscellaneous,Arvest Bank Theatre at The Midland,2018-08-18,64105,Kansas City,Missouri
+164,Cleveland Indians at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-24,64129,Kansas City,Missouri
+165,Cleveland Indians at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-25,64129,Kansas City,Missouri
+166,Cleveland Indians at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-26,64129,Kansas City,Missouri
+167,Detroit Tigers at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-28,64129,Kansas City,Missouri
+168,Detroit Tigers at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-29,64129,Kansas City,Missouri
+169,Cleveland Indians at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-27,64129,Kansas City,Missouri
+170,Cleveland Indians at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-28,64129,Kansas City,Missouri
+171,Cleveland Indians at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-29,64129,Kansas City,Missouri
+172,Cleveland Indians at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-30,64129,Kansas City,Missouri
+173,Mix 93.3 presents Sting & Shaggy - The 44/876 Tour,Music,Rock,Arvest Bank Theatre at the Midland,2018-10-04,64105,Kansas City,Missouri
+174,Smells Like Nirvana w/ special guest My Hero,Music,Undefined,VooDoo Lounge at Harrah's Casino North Kansas City,2018-09-22,64116,Kansas City,Missouri
+175,Leslie Odom Jr.,Music,R&B,Helzberg Hall-Kauffman PAC,2018-09-22,64106,Kansas City,Missouri
+176,KT Tunstall,Music,Folk,The Record Bar,2018-10-30,64108,Kansas City,Missouri
+177,Chicago - The Musical,Arts & Theatre,Undefined,Starlight Theatre,2018-09-14,64132,Kansas City,Missouri
+178,El Ten Eleven,Music,Rock,The Record Bar,2018-11-17,64108,Kansas City,Missouri
+179,Boy George w/ Culture Club,Music,Alternative,Starlight Theatre,2018-09-07,64132,Kansas City,Missouri
+180,O.A.R. w/ Matt Nathanson,Music,Alternative,Starlight Theatre,2018-09-08,64132,Kansas City,Missouri
+181,O.A.R. - Just Like Paradise Tour with special guest Matt Nathanson,Music,Rock,Starlight Theatre,2018-09-08,64132,Kansas City,Missouri
+182,sTrapback & Friends,Music,Dance/Electronic,The Record Bar,2018-08-10,64108,Kansas City,Missouri
+183,Trevor Powers,Music,Rock,Encore at The Uptown Theater,2018-10-08,64111,Kansas City,Missouri
+184,Tedeschi Trucks Band,Music,Blues,Arvest Bank Theatre at The Midland,2018-10-30,64105,Kansas City,Missouri
+185,Ripe,Music,Rock,The Record Bar,2018-09-10,64108,Kansas City,Missouri
+186,His Dream Of Lions,Music,Rock,Encore at The Uptown Theater,2018-08-13,64111,Kansas City,Missouri
+187,ISLAND,Music,Pop,The Record Bar,2018-09-28,64108,Kansas City,Missouri
+188,The Shook Twins - Presented By Bluegrass In The Bottoms,Music,Country,The Record Bar,2018-09-11,64108,Kansas City,Missouri
+189,Local H - Pack Up The Cats Tour,Music,Rock,Riot Room,2018-10-12,64111,Kansas City,Missouri
+190,Steven Curtis Chapman,Music,Pop,Folly Theater,2018-11-15,64105,Kansas City,Missouri
+191,Natalie Prass,Music,Folk,The Record Bar,2018-10-08,64108,Kansas City,Missouri
+192,American Royal: PRCA Pro Rodeo SATURDAY NIGHT,Sports,Rodeo,Hale Arena,2018-09-29,64102,Kansas City,Missouri
+193,Rod Stewart W/ Special Guest Cyndi Lauper,Music,Rock,Sprint Center,2018-08-14,64106,Kansas City,Missouri
+194,Niall Horan: Flicker World Tour 2018,Music,Rock,Starlight Theatre,2018-08-22,64132,Kansas City,Missouri
+195,Luke Bryan: What Makes You Country Tour 2018,Music,Country,Sprint Center,2018-08-26,64106,Kansas City,Missouri
+196,Minnesota Twins at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-13,64129,Kansas City,Missouri
+197,Minnesota Twins at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-14,64129,Kansas City,Missouri
+198,Minnesota Twins at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-15,64129,Kansas City,Missouri
+199,Minnesota Twins at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-16,64129,Kansas City,Missouri
+200,Maggie Rogers,Music,Other,The Truman - Kansas City,2018-10-26,64106,Kansas City,Missouri
+201,TLC,Music,Hip-Hop/Rap,Ameristar Casino and Hotel,2018-11-17,64161,Kansas City,Missouri
+202,Ben Folds,Music,Alternative,Helzberg Hall-Kauffman PAC,2018-09-25,64106,Kansas City,Missouri
+203,Conversations with Ian Bagg,Arts & Theatre,Comedy,The Record Bar,2018-11-16,64108,Kansas City,Missouri
+204,Windhand,Music,Metal,Riot Room,2018-10-24,64111,Kansas City,Missouri
+205,The Play That Goes Wrong,Arts & Theatre,Performance Art,Muriel Kauffman Theatre-Kauffman PAC,2019-04-05,64106,Kansas City,Missouri
+206,Thunderpussy,Music,Rock,Riot Room,2018-10-16,64111,Kansas City,Missouri
+207,American Royal: CUTTING HORSE FINALS,Sports,Equestrian,Hale Arena,2018-08-25,64102,Kansas City,Missouri
+208,Spirit Adrift,Music,Metal,Riot Room,2018-08-12,64111,Kansas City,Missouri
+209,Punch Brothers,Music,Country,Muriel Kauffman Theatre-Kauffman PAC,2018-09-09,64106,Kansas City,Missouri
+210,Mr. Mojo Risin & Led Zepp,Music,Undefined,VooDoo Lounge at Harrah's Casino North Kansas City,2018-10-13,64116,Kansas City,Missouri
+211,Yoke Lore,Music,Rock,The Record Bar,2018-10-15,64108,Kansas City,Missouri
+212,Liverpool,Music,Rock,Ameristar Casino and Hotel,2018-11-10,64161,Kansas City,Missouri
+213,Underoath,Music,Rock,Arvest Bank Theatre at The Midland,2018-11-27,64105,Kansas City,Missouri
+214,Nothing,Music,Rock,The Record Bar,2018-09-14,64108,Kansas City,Missouri
+215,American Royal: PRCA Pro Rodeo SATURDAY MATINEE,Sports,Rodeo,Hale Arena,2018-09-29,64102,Kansas City,Missouri
+216,American Royal: PRCA Pro Rodeo FRIDAY NIGHT,Sports,Rodeo,Hale Arena,2018-09-28,64102,Kansas City,Missouri
+217,Indigo Girls,Music,Country,The Crossroads - Kansas City,2018-09-30,64108,Kansas City,Missouri
+218,Behemoth,Music,Rock,The Truman - Kansas City,2018-11-11,64106,Kansas City,Missouri
+219,Deep Purple & Judas Priest,Music,Rock,Starlight Theatre,2018-09-18,64132,Kansas City,Missouri
+220,Deep Purple & Judas Priest,Music,Rock,Starlight Theatre,2018-09-18,64132,Kansas City,Missouri
+221,Deep Purple & Judas Priest,Music,Rock,Starlight Theatre,2018-09-18,64132,Kansas City,Missouri
+222,Puddles Pity Party,Music,Pop,Folly Theater,2018-10-11,64105,Kansas City,Missouri
+223,The Dead South w/ The Mighty Pines,Music,Other,The Crossroads - Kansas City,2018-10-19,64108,Kansas City,Missouri
+224,Justin Courtney Pierre,Music,Rock,The Record Bar,2018-11-27,64108,Kansas City,Missouri
+225,Love Never Dies,Arts & Theatre,Miscellaneous,Starlight Theatre,2018-08-18,64132,Kansas City,Missouri
+226,The Illusionists,Arts & Theatre,Undefined,Starlight Theatre,2018-09-28,64132,Kansas City,Missouri
+227,Puddle of Mudd,Music,Alternative,The Crossroads - Kansas City,2018-09-08,64108,Kansas City,Missouri
+228,Happy Together Tour,Music,Rock,Muriel Kauffman Theatre-Kauffman PAC,2018-08-19,64106,Kansas City,Missouri
+229,Ben Harper w/ Charlie Musselwhite,Music,Alternative,Arvest Bank Theatre at The Midland,2018-09-12,64105,Kansas City,Missouri
+230,Swingin Utters,Music,Rock,Riot Room,2018-10-03,64111,Kansas City,Missouri
+231,UB40,Music,Pop,The Crossroads - Kansas City,2018-10-02,64108,Kansas City,Missouri
+232,Love Never Dies,Arts & Theatre,Miscellaneous,Starlight Theatre,2018-08-14,64132,Kansas City,Missouri
+233,Lyle Lovett,Music,Country,Helzberg Hall-Kauffman PAC,2019-01-19,64106,Kansas City,Missouri
+234,Years & Years,Music,Dance/Electronic,The Truman - Kansas City,2018-10-17,64106,Kansas City,Missouri
+235,Love Never Dies,Arts & Theatre,Miscellaneous,Starlight Theatre,2018-08-17,64132,Kansas City,Missouri
+236,Joe Rogan,Arts & Theatre,Comedy,Starlight Theatre,2018-08-10,64132,Kansas City,Missouri
+237,J. Cole: KOD Tour 2018,Music,Hip-Hop/Rap,Sprint Center,2018-09-18,64106,Kansas City,Missouri
+238,Bumpin' Uglies,Music,Rock,Encore at The Uptown Theater,2018-10-10,64111,Kansas City,Missouri
+239,Almost Kiss,Music,Undefined,Ameristar Casino and Hotel,2018-11-03,64161,Kansas City,Missouri
+240,Paul Thorn,Music,Other,Knuckleheads Saloon,2018-08-24,64120,Kansas City,Missouri
+241,BoDeans,Music,Alternative,The Crossroads - Kansas City,2018-08-23,64108,Kansas City,Missouri
+242,Koo Koo Kanga Roo,Music,Children's Music,The Record Bar,2018-11-30,64108,Kansas City,Missouri
+243,Sammy Brue,Music,Other,The Record Bar,2018-08-08,64111,Kansas City,Missouri
+244,Curtis Salgado,Music,Other,Knuckleheads Saloon,2018-08-09,64120,Kansas City,Missouri
+245,Radolescents,Music,Other,The Riot Room,2018-08-10,64111,Kansas City,Missouri
+246,Los Lobos,Music,World,Knuckleheads Saloon,2018-08-10,64120,Kansas City,Missouri
+247,Cazzette,Music,Dance/Electronic,Aura,2018-08-11,64111,Kansas City,Missouri
+248,The Producers,Arts & Theatre,Undefined,Musical Theater Heritage,2018-08-11,64108,Kansas City,Missouri
+249,The Producers,Arts & Theatre,Undefined,Musical Theater Heritage,2018-08-11,64108,Kansas City,Missouri
+250,Powerglove,Music,Other,The Riot Room,2018-08-11,64111,Kansas City,Missouri
+251,Jesse Dayton,Music,Other,Knuckleheads Saloon,2018-08-11,64120,Kansas City,Missouri
+252,Crossroads Food Truck Fest,Music,Other,The Crossroads - Kansas City,2018-08-11,64108,Kansas City,Missouri
+253,Spirit Adrift,Music,Other,The Riot Room,2018-08-12,64111,Kansas City,Missouri
+254,Night Demon,Music,Other,The Riot Room,2018-08-15,64111,Kansas City,Missouri
+255,The Life and Times,Music,Other,The Record Bar,2018-08-17,64111,Kansas City,Missouri
+256,The Producers,Arts & Theatre,Undefined,Musical Theater Heritage,2018-08-18,64108,Kansas City,Missouri
+257,Lydia,Music,Other,The Record Bar,2018-08-19,64111,Kansas City,Missouri
+258,Cults,Music,Other,The Record Bar,2018-08-21,64111,Kansas City,Missouri
+259,Knox Hamilton,Music,Alternative,The Record Bar,2018-08-22,64111,Kansas City,Missouri
+260,Twrp,Music,Other,The Riot Room,2018-08-22,64111,Kansas City,Missouri
+261,Wyclef Jean,Music,Hip-Hop/Rap,The Crossroads - Kansas City,2018-08-24,64108,Kansas City,Missouri
+262,Mersiv,Music,Dance/Electronic,Encore at The Uptown Theater,2018-08-24,64111,Kansas City,Missouri
+263,Darude,Music,Dance/Electronic,Aura,2018-08-25,64111,Kansas City,Missouri
+264,The Producers,Arts & Theatre,Undefined,Musical Theater Heritage,2018-08-25,64108,Kansas City,Missouri
+265,Slim Cessna's Auto Club,Music,Other,The Riot Room,2018-08-25,64111,Kansas City,Missouri
+266,Paul Thorn,Music,Other,Knuckleheads Saloon,2018-08-26,64120,Kansas City,Missouri
+267,Shakey Graves w/ Twin Peaks,Music,Country,The Truman - Kansas City,2018-08-31,64106,Kansas City,Missouri
+268,Bad Gyal,Music,Reggae,Encore at The Uptown Theater,2018-08-31,64111,Kansas City,Missouri
+269,Dave Alvin,Music,Country,Knuckleheads Saloon,2018-09-01,64120,Kansas City,Missouri
+270,Ringo Starr,Music,Rock,Starlight Theatre,2018-09-03,64132,Kansas City,Missouri
+271,Chad Valley,Music,Other,The Record Bar,2018-09-04,64111,Kansas City,Missouri
+272,Superorganism,Music,Other,The Riot Room,2018-09-04,64111,Kansas City,Missouri
+273,The Music of Harry Potter,Music,Other,Helzberg Hall-Kauffman PAC,2018-09-05,64106,Kansas City,Missouri
+274,Brent Faiyaz,Music,Other,The Record Bar,2018-09-05,64111,Kansas City,Missouri
+275,Firefall,Music,Pop,The Crossroads - Kansas City,2018-09-06,64108,Kansas City,Missouri
+276,The Music of Harry Potter,Music,Other,Helzberg Hall-Kauffman PAC,2018-09-06,64106,Kansas City,Missouri
+277,The Music of Harry Potter,Music,Other,Helzberg Hall-Kauffman PAC,2018-09-07,64106,Kansas City,Missouri
+278,Reckless Kelly,Music,Other,Knuckleheads Saloon,2018-09-08,64120,Kansas City,Missouri
+279,The Music of Harry Potter,Music,Other,Helzberg Hall-Kauffman PAC,2018-09-09,64106,Kansas City,Missouri
+280,Ripe,Music,Other,The Record Bar,2018-09-10,64111,Kansas City,Missouri
+281,No Raza,Music,Other,The Riot Room,2018-09-10,64111,Kansas City,Missouri
+282,Shook Twins,Music,Other,The Record Bar,2018-09-11,64111,Kansas City,Missouri
+283,The Exploited,Music,Other,The Riot Room,2018-09-11,64111,Kansas City,Missouri
+284,Butch Walker,Music,Alternative,The Record Bar,2018-09-12,64111,Kansas City,Missouri
+285,Cloven Hoof,Music,Other,The Riot Room,2018-09-12,64111,Kansas City,Missouri
+286,Rooney,Music,Alternative,The Record Bar,2018-09-13,64111,Kansas City,Missouri
+287,Dispatch w/ Nahko and Medicine For The People,Music,Other,The Crossroads - Kansas City,2018-09-13,64108,Kansas City,Missouri
+288,Nothing,Music,Rock,The Record Bar,2018-09-14,64111,Kansas City,Missouri
+289,My Fair Lady,Arts & Theatre,Undefined,Musical Theater Heritage,2018-09-15,64108,Kansas City,Missouri
+290,My Fair Lady,Arts & Theatre,Undefined,Musical Theater Heritage,2018-09-15,64108,Kansas City,Missouri
+291,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2018-09-15,64106,Kansas City,Missouri
+292,The Police Experience,Music,Other,The Record Bar,2018-09-15,64111,Kansas City,Missouri
+293,Chicago - The Musical,Arts & Theatre,Undefined,Starlight Theatre,2018-09-15,64132,Kansas City,Missouri
+294,Monsters of Mock,Music,Other,The Crossroads - Kansas City,2018-09-15,64108,Kansas City,Missouri
+295,Jade Bird,Music,Other,The Record Bar,2018-09-16,64111,Kansas City,Missouri
+296,Chicago - The Musical,Arts & Theatre,Undefined,Starlight Theatre,2018-09-16,64132,Kansas City,Missouri
+297,Beck,Music,Alternative,Starlight Theatre,2018-09-17,64132,Kansas City,Missouri
+298,Sloan,Music,Alternative,The Riot Room,2018-09-17,64111,Kansas City,Missouri
+299,Beck,Music,Rock,Starlight Theatre,2018-09-17,64132,Kansas City,Missouri
+300,Vicious Rumors,Music,Other,The Riot Room,2018-09-18,64111,Kansas City,Missouri
+301,Andrew WK,Music,Rock,The Record Bar,2018-09-19,64111,Kansas City,Missouri
+302,Alestorm,Music,Other,The Riot Room,2018-09-20,64111,Kansas City,Missouri
+303,Alejandro Escovedo,Music,Country,Knuckleheads Saloon,2018-09-20,64120,Kansas City,Missouri
+304,Samantha Fish,Music,Blues,The Crossroads - Kansas City,2018-09-21,64108,Kansas City,Missouri
+305,Uz with Montell2099,Music,Dance/Electronic,Aura,2018-09-22,64111,Kansas City,Missouri
+306,My Fair Lady,Arts & Theatre,Undefined,Musical Theater Heritage,2018-09-22,64108,Kansas City,Missouri
+307,Shiner,Music,Other,The Record Bar,2018-09-22,64111,Kansas City,Missouri
+308,Flint Eastwood,Music,Other,The Record Bar,2018-09-23,64111,Kansas City,Missouri
+309,Chiefs Tailgate presented by Bud Light,Sports,Miscellaneous,Arrowhead Stadium,2018-09-23,64129,Kansas City,Missouri
+310,Welshly Arms,Music,Rock,The Record Bar,2018-09-25,64111,Kansas City,Missouri
+311,MC Chris,Music,Hip-Hop/Rap,The Riot Room,2018-09-25,64111,Kansas City,Missouri
+312,David Liebe Hart,Music,Other,The Record Bar,2018-09-26,64111,Kansas City,Missouri
+313,Gringo Star,Music,Other,The Riot Room,2018-09-26,64111,Kansas City,Missouri
+314,American Royal: YOUTH RODEO,Sports,Rodeo,Hale Arena,2018-09-26,64102,Kansas City,Missouri
+315,Gringo Star,Music,Rock,Riot Room,2018-09-26,64111,Kansas City,Missouri
+316,Taj Mahal,Music,Blues,Knuckleheads Saloon,2018-09-27,64120,Kansas City,Missouri
+317,American Royal: YOUTH RODEO,Sports,Rodeo,Hale Arena,2018-09-27,64102,Kansas City,Missouri
+318,The Spill Canvas w/ Punchline,Music,Other,Daveys Uptown Ramblers Club,2018-09-28,64111,Kansas City,Missouri
+319,Island - Band,Music,Other,The Record Bar,2018-09-28,64111,Kansas City,Missouri
+320,Car Seat Headrest w/ Naked Giants,Music,Alternative,The Crossroads - Kansas City,2018-09-28,64108,Kansas City,Missouri
+321,American Royal: YOUTH RODEO,Sports,Rodeo,Hale Arena,2018-09-28,64102,Kansas City,Missouri
+322,My Fair Lady,Arts & Theatre,Undefined,Musical Theater Heritage,2018-09-29,64108,Kansas City,Missouri
+323,Carbon Leaf,Music,Alternative,Knuckleheads Saloon,2018-09-29,64120,Kansas City,Missouri
+324,The Illusionists,Arts & Theatre,Undefined,Starlight Theatre,2018-09-29,64132,Kansas City,Missouri
+325,Andrew Bird w/ Kansas City Symphony,Music,Alternative,Helzberg Hall-Kauffman PAC,2018-09-29,64106,Kansas City,Missouri
+326,Screaming Females,Music,Rock,The Riot Room,2018-10-01,64111,Kansas City,Missouri
+327,Screaming Females,Music,Rock,The Record Bar,2018-10-01,64108,Kansas City,Missouri
+328,Carach Angren w/ Wolfheart,Music,Other,The Riot Room,2018-10-05,64111,Kansas City,Missouri
+329,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2018-10-06,64106,Kansas City,Missouri
+330,Angra,Music,Rock,The Riot Room,2018-10-07,64111,Kansas City,Missouri
+331,Chiefs Tailgate presented by Bud Light,Sports,Miscellaneous,Arrowhead Stadium,2018-10-07,64129,Kansas City,Missouri
+332,Natalie Prass,Music,Country,The Record Bar,2018-10-08,64111,Kansas City,Missouri
+333,Sebastian Bach,Music,Other,The Riot Room,2018-10-09,64111,Kansas City,Missouri
+334,Roam,Music,Rock,The Rino,2018-10-10,64116,North Kansas City,Missouri
+335,Revocation,Music,Other,The Riot Room,2018-10-10,64111,Kansas City,Missouri
+336,Dr. Zhivegas,Music,Other,The Crossroads - Kansas City,2018-10-12,64108,Kansas City,Missouri
+337,Wizard Of Oz,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2018-10-12,64106,Kansas City,Missouri
+338,Crystal Method,Music,Other,The Truman - Kansas City,2018-10-12,64106,Kansas City,Missouri
+339,Wizard Of Oz,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2018-10-13,64106,Kansas City,Missouri
+340,Riot Ten,Music,Other,The Riot Room,2018-10-13,64111,Kansas City,Missouri
+341,Wizard Of Oz,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2018-10-14,64106,Kansas City,Missouri
+342,The Church,Music,Alternative,The Record Bar,2018-10-14,64111,Kansas City,Missouri
+343,Yungblud,Music,Other,The Record Bar,2018-10-16,64111,Kansas City,Missouri
+344,Eden w/ Kacy Hill,Music,Dance/Electronic,The Truman - Kansas City,2018-10-18,64106,Kansas City,Missouri
+345,Happy Hour Pass HOLIDAY MART Thursday Oct. 18 4pm-8pm,Miscellaneous,Hobby/Special Interest Expos,Bartle Hall,2018-10-18,64105,Kansas City,Missouri
+346,Wizard Of Oz,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2018-10-20,64106,Kansas City,Missouri
+347,Wizard Of Oz,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2018-10-20,64106,Kansas City,Missouri
+348,Blues Caravan,Music,Other,Knuckleheads Saloon,2018-10-20,64120,Kansas City,Missouri
+349,Slothrust,Music,Other,The Record Bar,2018-10-20,64111,Kansas City,Missouri
+350,Wizard Of Oz,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2018-10-21,64106,Kansas City,Missouri
+351,4U,Music,Other,Arvest Bank Theatre at The Midland,2018-10-21,64105,Kansas City,Missouri
+352,Chiefs Tailgate presented by Bud Light,Sports,Miscellaneous,Arrowhead Stadium,2018-10-21,64129,Kansas City,Missouri
+353,Mothers,Music,Other,The Record Bar,2018-10-24,64111,Kansas City,Missouri
+354,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2018-10-25,64106,Kansas City,Missouri
+355,Kansas City Symphony,Music,Classical,Kauffman Stadium,2018-10-26,64129,Kansas City,Missouri
+356,Los Straitjackets,Music,Blues,Knuckleheads Saloon,2018-10-26,64120,Kansas City,Missouri
+357,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2018-10-27,64106,Kansas City,Missouri
+358,Guns N Hoses Charity Boxing Event,Sports,Boxing,KC Convention Grand Ballroom,2018-10-27,64105,Kansas City,Missouri
+359,Chiefs Tailgate presented by Bud Light,Sports,Miscellaneous,Arrowhead Stadium,2018-10-28,64129,Kansas City,Missouri
+360,Kamasi Washington,Music,Blues,The Truman - Kansas City,2018-10-29,64106,Kansas City,Missouri
+361,Bob Log III,Music,Other,The Record Bar,2018-10-31,64111,Kansas City,Missouri
+362,The Joy Formidable,Music,Other,The Record Bar,2018-11-01,64111,Kansas City,Missouri
+363,Tom Papa,Arts & Theatre,Miscellaneous,The Truman - Kansas City,2018-11-01,64106,Kansas City,Missouri
+364,Pokey LaFarge,Music,Other,Knuckleheads Saloon,2018-11-04,64120,Kansas City,Missouri
+365,Why?,Music,Other,The Record Bar,2018-11-06,64111,Kansas City,Missouri
+366,Great Lake Swimmers,Music,Other,Knuckleheads Saloon,2018-11-09,64120,Kansas City,Missouri
+367,The Weepies,Music,Alternative,Knuckleheads Saloon,2018-11-10,64120,Kansas City,Missouri
+368,Chiefs Tailgate presented by Bud Light,Sports,Miscellaneous,Arrowhead Stadium,2018-11-11,64129,Kansas City,Missouri
+369,Keith Harkin,Music,Other,Knuckleheads Saloon,2018-11-13,64120,Kansas City,Missouri
+370,Marc Broussard,Music,Pop,Knuckleheads Saloon,2018-11-15,64120,Kansas City,Missouri
+371,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2018-11-17,64106,Kansas City,Missouri
+372,El Ten Eleven,Music,Alternative,The Record Bar,2018-11-17,64111,Kansas City,Missouri
+373,The Wild Kratts Live!,Arts & Theatre,Miscellaneous,Muriel Kauffman Theatre-Kauffman PAC,2018-11-17,64106,Kansas City,Missouri
+374,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2018-11-24,64106,Kansas City,Missouri
+375,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-11-30,64106,Kansas City,Missouri
+376,Nutcracker w/ Kansas City Ballet,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-01,64106,Kansas City,Missouri
+377,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-06,64106,Kansas City,Missouri
+378,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-07,64106,Kansas City,Missouri
+379,Steve Earle,Music,Country,Knuckleheads Saloon,2018-12-08,64120,Kansas City,Missouri
+380,Chiefs Tailgate presented by Bud Light,Sports,Miscellaneous,Arrowhead Stadium,2018-12-09,64129,Kansas City,Missouri
+381,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-09,64106,Kansas City,Missouri
+382,Jim Brickman,Music,Blues,Folly Theater,2018-12-10,64105,Kansas City,Missouri
+383,George Winston,Music,Other,Helzberg Hall-Kauffman PAC,2018-12-12,64106,Kansas City,Missouri
+384,Chiefs Tailgate presented by Bud Light,Sports,Miscellaneous,Arrowhead Stadium,2018-12-13,64129,Kansas City,Missouri
+385,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-13,64106,Kansas City,Missouri
+386,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-14,64106,Kansas City,Missouri
+387,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-16,64106,Kansas City,Missouri
+388,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-20,64106,Kansas City,Missouri
+389,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-21,64106,Kansas City,Missouri
+390,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-21,64106,Kansas City,Missouri
+391,Nutcracker,Miscellaneous,Holiday,Muriel Kauffman Theatre-Kauffman PAC,2018-12-23,64106,Kansas City,Missouri
+392,Chiefs Tailgate presented by Bud Light,Sports,Miscellaneous,Arrowhead Stadium,2018-12-30,64129,Kansas City,Missouri
+393,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-01-12,64106,Kansas City,Missouri
+394,Sound Of Music,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-01-15,64106,Kansas City,Missouri
+395,Sound Of Music,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-01-16,64106,Kansas City,Missouri
+396,Sound Of Music,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-01-17,64106,Kansas City,Missouri
+397,Sound Of Music,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-01-18,64106,Kansas City,Missouri
+398,Nitro Arenacross Tour-FRIDAY,Sports,Motorsports/Racing,Hale Arena,2019-01-18,64102,Kansas City,Missouri
+399,Nitro Arenacross Tour-2 DAY GENERAL ADMISSION PASS,Sports,Motorsports/Racing,Hale Arena,2019-01-18,64102,Kansas City,Missouri
+400,Sound Of Music,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-01-19,64106,Kansas City,Missouri
+401,Sound Of Music,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-01-19,64106,Kansas City,Missouri
+402,Nitro Arenacross Tour-SATURDAY,Sports,Motorsports/Racing,Hale Arena,2019-01-19,64102,Kansas City,Missouri
+403,Sound Of Music,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-01-20,64106,Kansas City,Missouri
+404,Sound Of Music,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-01-20,64106,Kansas City,Missouri
+405,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-01-26,64106,Kansas City,Missouri
+406,Star Wars In Concert,Miscellaneous,Fairs & Festivals,Helzberg Hall-Kauffman PAC,2019-01-31,64106,Kansas City,Missouri
+407,Star Wars In Concert,Miscellaneous,Fairs & Festivals,Helzberg Hall-Kauffman PAC,2019-02-01,64106,Kansas City,Missouri
+408,Star Wars In Concert,Miscellaneous,Fairs & Festivals,Helzberg Hall-Kauffman PAC,2019-02-02,64106,Kansas City,Missouri
+409,Star Wars In Concert,Miscellaneous,Fairs & Festivals,Helzberg Hall-Kauffman PAC,2019-02-03,64106,Kansas City,Missouri
+410,Evita,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-02-05,64106,Kansas City,Missouri
+411,Evita,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-02-06,64106,Kansas City,Missouri
+412,Evita,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-02-07,64106,Kansas City,Missouri
+413,Evita,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-02-08,64106,Kansas City,Missouri
+414,Evita,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-02-09,64106,Kansas City,Missouri
+415,Evita,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-02-09,64106,Kansas City,Missouri
+416,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-02-09,64106,Kansas City,Missouri
+417,Evita,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-02-10,64106,Kansas City,Missouri
+418,Evita,Arts & Theatre,Undefined,Muriel Kauffman Theatre-Kauffman PAC,2019-02-10,64106,Kansas City,Missouri
+419,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-02-22,64106,Kansas City,Missouri
+420,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-02-23,64106,Kansas City,Missouri
+421,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-03-09,64106,Kansas City,Missouri
+422,Anastasia,Arts & Theatre,Miscellaneous,Music Hall Kansas City,2019-03-12,64105,Kansas City,Missouri
+423,Anastasia,Arts & Theatre,Miscellaneous,Music Hall Kansas City,2019-03-13,64105,Kansas City,Missouri
+424,Anastasia,Arts & Theatre,Miscellaneous,Music Hall Kansas City,2019-03-14,64105,Kansas City,Missouri
+425,Anastasia,Arts & Theatre,Miscellaneous,Music Hall Kansas City,2019-03-15,64105,Kansas City,Missouri
+426,Anastasia,Arts & Theatre,Miscellaneous,Music Hall Kansas City,2019-03-16,64105,Kansas City,Missouri
+427,Anastasia,Arts & Theatre,Miscellaneous,Music Hall Kansas City,2019-03-16,64105,Kansas City,Missouri
+428,Anastasia,Arts & Theatre,Miscellaneous,Music Hall Kansas City,2019-03-17,64105,Kansas City,Missouri
+429,Anastasia,Arts & Theatre,Miscellaneous,Music Hall Kansas City,2019-03-17,64105,Kansas City,Missouri
+430,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-03-23,64106,Kansas City,Missouri
+431,NCAA Mens Midwest Regionals,Sports,Basketball,Sprint Center,2019-03-29,64106,Kansas City,Missouri
+432,NCAA Mens Midwest Regionals,Sports,Basketball,Sprint Center,2019-03-29,64106,Kansas City,Missouri
+433,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-03-30,64106,Kansas City,Missouri
+434,NCAA Mens Midwest Regionals,Sports,Basketball,Sprint Center,2019-03-31,64106,Kansas City,Missouri
+435,The Play That Goes Wrong,Arts & Theatre,Performance Art,Muriel Kauffman Theatre-Kauffman PAC,2019-04-02,64106,Kansas City,Missouri
+436,The Play That Goes Wrong,Arts & Theatre,Performance Art,Muriel Kauffman Theatre-Kauffman PAC,2019-04-03,64106,Kansas City,Missouri
+437,The Play That Goes Wrong,Arts & Theatre,Performance Art,Muriel Kauffman Theatre-Kauffman PAC,2019-04-06,64106,Kansas City,Missouri
+438,The Play That Goes Wrong,Arts & Theatre,Performance Art,Muriel Kauffman Theatre-Kauffman PAC,2019-04-06,64106,Kansas City,Missouri
+439,The Play That Goes Wrong,Arts & Theatre,Performance Art,Muriel Kauffman Theatre-Kauffman PAC,2019-04-07,64106,Kansas City,Missouri
+440,The Play That Goes Wrong,Arts & Theatre,Performance Art,Muriel Kauffman Theatre-Kauffman PAC,2019-04-07,64106,Kansas City,Missouri
+441,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-04-13,64106,Kansas City,Missouri
+442,Rent,Arts & Theatre,Undefined,Music Hall Kansas City,2019-04-30,64105,Kansas City,Missouri
+443,Rent,Arts & Theatre,Undefined,Music Hall Kansas City,2019-05-01,64105,Kansas City,Missouri
+444,Rent,Arts & Theatre,Undefined,Music Hall Kansas City,2019-05-03,64105,Kansas City,Missouri
+445,Rent,Arts & Theatre,Undefined,Music Hall Kansas City,2019-05-04,64105,Kansas City,Missouri
+446,Rent,Arts & Theatre,Undefined,Music Hall Kansas City,2019-05-04,64105,Kansas City,Missouri
+447,Rent,Arts & Theatre,Undefined,Music Hall Kansas City,2019-05-05,64105,Kansas City,Missouri
+448,Rent,Arts & Theatre,Undefined,Music Hall Kansas City,2019-05-05,64105,Kansas City,Missouri
+449,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-05-18,64106,Kansas City,Missouri
+450,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-06-01,64106,Kansas City,Missouri
+451,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-06-08,64106,Kansas City,Missouri
+452,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-18,64105,Kansas City,Missouri
+453,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-19,64105,Kansas City,Missouri
+454,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-20,64105,Kansas City,Missouri
+455,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-21,64105,Kansas City,Missouri
+456,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-22,64105,Kansas City,Missouri
+457,Kansas City Symphony,Music,Classical,Helzberg Hall-Kauffman PAC,2019-06-22,64106,Kansas City,Missouri
+458,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-22,64105,Kansas City,Missouri
+459,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-23,64105,Kansas City,Missouri
+460,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-23,64105,Kansas City,Missouri
+461,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-25,64105,Kansas City,Missouri
+462,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-26,64105,Kansas City,Missouri
+463,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-27,64105,Kansas City,Missouri
+464,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-28,64105,Kansas City,Missouri
+465,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-29,64105,Kansas City,Missouri
+466,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-29,64105,Kansas City,Missouri
+467,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-30,64105,Kansas City,Missouri
+468,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-06-30,64105,Kansas City,Missouri
+469,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-07-02,64105,Kansas City,Missouri
+470,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-07-03,64105,Kansas City,Missouri
+471,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-07-04,64105,Kansas City,Missouri
+472,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-07-05,64105,Kansas City,Missouri
+473,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-07-06,64105,Kansas City,Missouri
+474,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-07-06,64105,Kansas City,Missouri
+475,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-07-07,64105,Kansas City,Missouri
+476,Hamilton,Arts & Theatre,Undefined,Music Hall Kansas City,2019-07-07,64105,Kansas City,Missouri
+477,Pink Martini,Music,Blues,Helzberg Hall-Kauffman PAC,2019-04-06,64106,Kansas City,Missouri
+478,Nothing But Thieves,Music,Other,The Truman - Kansas City,2018-09-15,64106,Kansas City,Missouri
+479,Wynonna Judd,Music,Country,Helzberg Hall-Kauffman PAC,2018-11-10,64106,Kansas City,Missouri
+480,Love Never Dies,Arts & Theatre,Miscellaneous,Starlight Theatre,2018-08-15,64132,Kansas City,Missouri
+481,Love Never Dies,Arts & Theatre,Miscellaneous,Starlight Theatre,2018-08-16,64132,Kansas City,Missouri
+482,St. Louis Cardinals at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-10,64129,Kansas City,Missouri
+483,American Royal: YOUTH RODEO,Sports,Rodeo,Hale Arena,2018-09-25,64102,Kansas City,Missouri
+484,Miss Black America Pageant: AFTER PARTY & RECOGNITION,Arts & Theatre,Fashion,KC Convention Grand Ballroom,2018-08-18,64105,Kansas City,Missouri
+485,Charlie Puth: The Voicenotes Tour,Music,Rock,Starlight Theatre,2018-08-09,64132,Kansas City,Missouri
+486,Baltimore Orioles at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-31,64129,Kansas City,Missouri
+487,Baltimore Orioles at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-01,64129,Kansas City,Missouri
+488,Baltimore Orioles at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-09-02,64129,Kansas City,Missouri
+489,"Boy George & Culture Club, The B-52s And Special Guest Thompson Twins'",Music,Rock,Starlight Theatre,2018-09-07,64132,Kansas City,Missouri
+490,School of Rock - The Musical,Arts & Theatre,Undefined,Music Hall Kansas City,2018-11-13,64105,Kansas City,Missouri
+491,School of Rock - The Musical,Arts & Theatre,Undefined,Music Hall Kansas City,2018-11-14,64105,Kansas City,Missouri
+492,School of Rock - The Musical,Arts & Theatre,Undefined,Music Hall Kansas City,2018-11-15,64105,Kansas City,Missouri
+493,School of Rock - The Musical,Arts & Theatre,Undefined,Music Hall Kansas City,2018-11-16,64105,Kansas City,Missouri
+494,School of Rock - The Musical,Arts & Theatre,Undefined,Music Hall Kansas City,2018-11-17,64105,Kansas City,Missouri
+495,School of Rock - The Musical,Arts & Theatre,Undefined,Music Hall Kansas City,2018-11-17,64105,Kansas City,Missouri
+496,School of Rock - The Musical,Arts & Theatre,Undefined,Music Hall Kansas City,2018-11-18,64105,Kansas City,Missouri
+497,School of Rock - The Musical,Arts & Theatre,Undefined,Music Hall Kansas City,2018-11-18,64105,Kansas City,Missouri
+498,School of Rock - The Musical,Arts & Theatre,Undefined,Music Hall Kansas City,2018-11-18,64105,Kansas City,Missouri
+499,Derek Hough,Arts & Theatre,Miscellaneous,Arvest Bank Theatre at The Midland,2019-05-11,64105,Kansas City,Missouri
+500,DEREK HOUGH: LIVE! THE TOUR,Arts & Theatre,Dance,Arvest Bank Theatre at the Midland,2019-05-11,64105,Kansas City,Missouri
+501,The Illusionists,Arts & Theatre,Undefined,Starlight Theatre,2018-09-30,64132,Kansas City,Missouri
+502,Lyle Lovett,Music,Country,Helzberg Hall-Kauffman PAC,2019-01-20,64106,Kansas City,Missouri
+503,Joe Rogan: Strange Times 2018 Tour,Arts & Theatre,Comedy,Starlight Theatre,2018-08-10,64132,Kansas City,Missouri
+504,St. Louis Cardinals at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-11,64129,Kansas City,Missouri
+505,St. Louis Cardinals at Kansas City Royals,Sports,Baseball,Kauffman Stadium,2018-08-12,64129,Kansas City,Missouri
+506,Love Never Dies,Arts & Theatre,Miscellaneous,Starlight Theatre,2018-08-19,64132,Kansas City,Missouri
+507,Jethro Tull w/ Ian Anderson,Music,Rock,Starlight Theatre,2018-09-01,64132,Kansas City,Missouri
+508,Ian Anderson Presents JETHRO TULL 50th Anniversary Tour,Music,Rock,Starlight Theatre,2018-09-01,64132,Kansas City,Missouri
+509,Black Violin,Music,Other,Muriel Kauffman Theatre-Kauffman PAC,2018-10-03,64106,Kansas City,Missouri
+510,The National,Music,Rock,Starlight Theatre,2018-10-07,64132,Kansas City,Missouri
+511,Machine Head,Music,Rock,The Truman - Kansas City,2018-10-19,64106,Kansas City,Missouri
+512,Gregory Alan Isakov,Music,Other,The Truman - Kansas City,2018-10-20,64106,Kansas City,Missouri
+513,Lynyrd Skynyrd:  Last Of The Street Survivors Farewell Tour,Music,Rock,Sprint Center,2018-11-02,64106,Kansas City,Missouri
+514,John Prine w/ Conor Oberst,Music,Country,Arvest Bank Theatre at The Midland,2018-11-16,64105,Kansas City,Missouri
+515,John Prine,Music,Rock,Arvest Bank Theatre at the Midland,2018-11-16,64105,Kansas City,Missouri
+516,Tash Sultana,Music,Other,Arvest Bank Theatre at The Midland,2018-11-26,64105,Kansas City,Missouri
+517,Allen Stone,Music,Other,Knuckleheads Saloon,2018-12-05,64120,Kansas City,Missouri
+518,Lewis Black,Arts & Theatre,Undefined,Arvest Bank Theatre at The Midland,2018-12-08,64105,Kansas City,Missouri
+519,The Book of Mormon,Arts & Theatre,Undefined,Music Hall Kansas City,2018-12-26,64105,Kansas City,Missouri
+520,The Book of Mormon,Arts & Theatre,Undefined,Music Hall Kansas City,2018-12-27,64105,Kansas City,Missouri
+521,The Book of Mormon,Arts & Theatre,Undefined,Music Hall Kansas City,2018-12-27,64105,Kansas City,Missouri
+522,The Book of Mormon,Arts & Theatre,Undefined,Music Hall Kansas City,2018-12-28,64105,Kansas City,Missouri
+523,Moscow Ballet's Great Russian Nutcracker w/ Moscow Ballet,Arts & Theatre,Undefined,Arvest Bank Theatre at The Midland,2018-12-28,64105,Kansas City,Missouri
+524,The Book of Mormon,Arts & Theatre,Undefined,Music Hall Kansas City,2018-12-29,64105,Kansas City,Missouri
+525,The Book of Mormon,Arts & Theatre,Undefined,Music Hall Kansas City,2018-12-29,64105,Kansas City,Missouri
+526,The Book of Mormon,Arts & Theatre,Undefined,Music Hall Kansas City,2018-12-30,64105,Kansas City,Missouri
+527,The Book of Mormon,Arts & Theatre,Undefined,Music Hall Kansas City,2018-12-30,64105,Kansas City,Missouri
+528,Jeremih w/ Teyana Taylor,Undefined,Undefined,Arvest Bank Theatre at The Midland,2018-08-22,64105,Kansas City,Missouri
+529,Dr. Jordan Peterson: 12 Rules For Life Tour - An Antidote To Chaos,Miscellaneous,Undefined,Uptown Theater,2018-10-04,64111,Kansas City,Missouri
+530,Lettuce,Undefined,Undefined,The Crossroads - Kansas City,2018-10-11,64108,Kansas City,Missouri
+531,Matt & Kim,Undefined,Undefined,KC Live!,2018-09-07,64106,Kansas City,Missouri
+532,Wovenhand,Undefined,Undefined,The Riot Room,2018-08-29,64111,Kansas City,Missouri
+533,Katie Herzig,Undefined,Undefined,The Record Bar,2018-08-07,64111,Kansas City,Missouri
+534,David Cross,Undefined,Undefined,Arvest Bank Theatre at The Midland,2018-08-25,64105,Kansas City,Missouri
+535,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-10-28,64129,Kansas City,Missouri
+536,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-08-09,64129,Kansas City,Missouri
+537,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-12-09,64129,Kansas City,Missouri
+538,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-08-30,64129,Kansas City,Missouri
+539,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-09-23,64129,Kansas City,Missouri
+540,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-12-13,64129,Kansas City,Missouri
+541,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-10-07,64129,Kansas City,Missouri
+542,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-11-11,64129,Kansas City,Missouri
+543,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-12-30,64129,Kansas City,Missouri
+544,Gameday Stadium Tour,Miscellaneous,Undefined,Arrowhead Stadium,2018-10-21,64129,Kansas City,Missouri
